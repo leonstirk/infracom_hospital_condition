@@ -59,11 +59,11 @@ All analysis was performed in **R** using `tidyverse`, `huxtable`, `ggplot2`, an
 
 ## Structure
 
-├── data/ # Clean dataset
-├── scripts/ # Data cleaning (from raw xlsx/csv) and analysis scripts
-├── report.Rmd # R Markdown source for the report
-├── report.pdf # Final report output
-└── README.md # This file
+|-- data/ # Clean dataset
+|-- scripts/ # Data cleaning (from raw xlsx/csv) and analysis scripts
+|-- report.Rmd # R Markdown source for the report
+|-- report.pdf # Final report output
+`-- README.md # This file
 
 ---
 
