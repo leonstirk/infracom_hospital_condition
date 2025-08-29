@@ -1,0 +1,1251 @@
+﻿HART ID,Region,DHB ID,DHB Name,Campus ID,Campus Name,Building Name,Highest Building Service,Year Built,"Number of storeys 
+(Ground floor and up)","Basement floors 
+(Floors below ground floor)",Total # Floors,GFA,Condition Grade,Condition,%NBS,Graded NBS,Seismic IL,Seismic Zone
+10031,Northern,1,Auckland,2,ADHB Community - Dental,Pt England Primary,Hospital,2010,,,-,216,Good,1.12,NSA,NA,IL2,Low Zone
+10024,Northern,1,Auckland,2,ADHB Community - Dental,Avondale Intermediate,Hospital,2011,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10026,Northern,1,Auckland,2,ADHB Community - Dental,Blockhouse Bay Intermediate,Hospital,2011,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10027,Northern,1,Auckland,2,ADHB Community - Dental,May Road Primary ,Hospital,2012,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10029,Northern,1,Auckland,2,ADHB Community - Dental,Otahuhu Primary ,Hospital,2010,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10030,Northern,1,Auckland,2,ADHB Community - Dental,Ponsonby Intermediate,Hospital,2011,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10032,Northern,1,Auckland,2,ADHB Community - Dental,Royal Oak Primary ,Hospital,2011,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10033,Northern,1,Auckland,2,ADHB Community - Dental,Stonefields Primary ,Hospital,2010,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10035,Northern,1,Auckland,2,ADHB Community - Dental,Wesley Intermediate,Hospital,2011,,,-,172,Good,1.12,NSA,NA,IL2,Low Zone
+10034,Northern,1,Auckland,2,ADHB Community - Dental,Sylvia Park Primary,Hospital,2010,,,-,138,Good,1.12,NSA,NA,IL2,Low Zone
+10025,Northern,1,Auckland,2,ADHB Community - Dental,Balmoral Primary (attached to school buildings),Hospital,2010,,,-,112,Good,1.12,NSA,NA,IL2,Low Zone
+10028,Northern,1,Auckland,2,ADHB Community - Dental,Orakei Primary ,Hospital,2011,,,-,108,Good,1.12,NSA,NA,IL2,Low Zone
+10002,Northern,1,Auckland,1,Auckland City Hospital,Auckland City Hospital - Main Building,Hospital,2003,,,-,80860,Good,1.58,1,A,IL4,Low Zone
+10003,Northern,1,Auckland,1,Auckland City Hospital,Auckland City Hospital Support Building,Hospital,1969,,,13,54445,Average,2.97,0.72,B,IL4,Low Zone
+10014,Northern,1,Auckland,1,Auckland City Hospital,Helipad Carpark Building (Car Park Blg B),Parking,2001,,,-,33482,Good,1.76,1,A,IL2,Low Zone
+10020,Northern,1,Auckland,1,Auckland City Hospital,Starship (Children's Hospital),Hospital,1992,,,7,19743,Average,2.41,1,A,IL4,Low Zone
+10001,Northern,1,Auckland,1,Auckland City Hospital,ACH Car Park Blg A,Administration,2012,,,-,16732,Good,1.19,1,A,IL2,Low Zone
+10015,Northern,1,Auckland,1,Auckland City Hospital,Lab (Formally Lab + Pathology),Administration,2002,,,-,8292,Good,1.34,0.8,A,IL4,Low Zone
+10017,Northern,1,Auckland,1,Auckland City Hospital,Oncology Centre (original area),Hospital,1988,,,-,5203,Good,1.53,1,A,IL2,Low Zone
+10022,Northern,1,Auckland,1,Auckland City Hospital,Te Whetu Tawera (Acute Mental Health Unit),Mental Health,2003,,,3,5014,Average,2.49,1,A,IL3,Low Zone
+10021,Northern,1,Auckland,1,Auckland City Hospital,Supply / Patient's Records,Administration,1975,,,-,3718,NO DATA,NO DATA,1,A,IL2,Low Zone
+10019,Northern,1,Auckland,1,Auckland City Hospital,Procare Building 50 Grafton Road,Nil,1978,,,-,2278,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10006,Northern,1,Auckland,1,Auckland City Hospital,Building 7 (Prev 'Therapy Block'),Administration,1918,,,-,1834,NO DATA,NO DATA,0.2,D,IL2,Low Zone
+10005,Northern,1,Auckland,1,Auckland City Hospital,Building 30 (Accomodation unit),Administration,1973,,,-,1694,Average,2.15,0.5,C,IL2,Low Zone
+10010,Northern,1,Auckland,1,Auckland City Hospital,Creche and Fraser MacDonald Unit ,Mental Health,1992,,,-,1678,Average,2.3,1,A,IL2,Low Zone
+10016,Northern,1,Auckland,1,Auckland City Hospital,Oncology Centre (addition 1998),Administration,1998,,,-,824,Very Good,0.87,NSA,NA,IL2,Low Zone
+10013,Northern,1,Auckland,1,Auckland City Hospital,Ernest & Marion Davis Library,Administration,1960,,,-,752,Very Good,0.97,0.67,B,IL2,Low Zone
+10012,Northern,1,Auckland,1,Auckland City Hospital,Dialysis Unit,Hospital,1992,,,-,663,Good,1.3,0.7,B,IL2,Low Zone
+10007,Northern,1,Auckland,1,Auckland City Hospital,Building 9 (Prev Clinical Support),Administration,1956,,,-,651,NO DATA,NO DATA,0.26,D,IL2,Low Zone
+10004,Northern,1,Auckland,1,Auckland City Hospital,Boiler House,Industrial,1968,,,4,567,Poor,3.22,0.45,C,IL4,Low Zone
+10008,Northern,1,Auckland,1,Auckland City Hospital,Clinical engineering - decanting,Administration,1953,,,-,490,NO DATA,NO DATA,0.27,D,IL2,Low Zone
+10009,Northern,1,Auckland,1,Auckland City Hospital,Cogen Building (Energy Centre),Industrial,2004,,,1,426,Average,2.3,1,A,IL4,Low Zone
+10011,Northern,1,Auckland,1,Auckland City Hospital,Dangerous Goods,Industrial,1975,,,-,181,Good,1.65,0.7,B,IL4,Low Zone
+10018,Northern,1,Auckland,1,Auckland City Hospital,Prefabricated Garages Garden tool sheds ,Industrial,1978,,,-,79,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+10040,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 4 West (Prev Stage 2 Building),Hospital,1970,,,8,22313,Average,2.76,0.9,A,IL4,Low Zone
+10037,Northern,1,Auckland,3,Greenlane Clinical Centre,"Building 11, 13, 14 (Prev OCC Health / Staff Res)",Hospital,1963,,,-,13652,Average,2.59,0.66,C,IL2,Low Zone
+10039,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 4 East,Hospital,2004,,,-,13094,Very Good,0.77,1,A,IL4,Low Zone
+10045,Northern,1,Auckland,3,Greenlane Clinical Centre,"Cornwall Complex, Building 15",Hospital,1965,,,-,11773,Average,2.83,0.64,C,IL2,Low Zone
+10047,Northern,1,Auckland,3,Greenlane Clinical Centre,"Cornwall Complex, Building 16 ",Administration,1965,,,-,8492,Average,2.23,0.52,C,IL2,Low Zone
+10043,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 7 (Prev Main Building),Hospital,1943,,,-,5853,Average,2.64,0.7,B,IL2,Low Zone
+10044,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 8 (Prev Admit Ward 12),Hospital,1967,,,-,3738,Very Good,0.88,0.48,C,IL2,Low Zone
+10048,Northern,1,Auckland,3,Greenlane Clinical Centre,"Cornwall Complex, Building 17 ",Hospital,1964,,,-,3124,Average,2.41,0.43,C,IL2,Low Zone
+10041,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 5 (vacant no specific use identified),Nil,1906,,,-,1462,Very Poor,4.15,0.25,D,IL2,Low Zone
+10042,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 6 Costley Block (vacant awaiting upgrade),Nil,1891,,,-,1404,Very Poor,4.11,0.21,D,IL2,Low Zone
+10038,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 2 Boilerhouse,Industrial,1957,,,4,998,Poor,3.11,0.3,D,IL4,Low Zone
+10049,Northern,1,Auckland,3,Greenlane Clinical Centre,Dialysis Building,Hospital,2012,,,-,628,Good,1.37,1,A,IL2,Low Zone
+10046,Northern,1,Auckland,3,Greenlane Clinical Centre,"Cornwall Complex, Building 15 Dock Annex",Administration,1965,,,-,323,Average,2.79,0.48,C,IL2,Low Zone
+10036,Northern,1,Auckland,3,Greenlane Clinical Centre,,Nil,1926,,,-,200,NO DATA,NO DATA,0.32,D,IL2,Low Zone
+10051,Northern,1,Auckland,3,Greenlane Clinical Centre,Portacom Records Store Blg,Administration,2016,,,-,86,Very Good,0.86,NSA,NA,IL1,Low Zone
+10050,Northern,1,Auckland,3,Greenlane Clinical Centre,Gas House,Industrial,1975,,,1,34,Average,3,NSA,NA,IL2,Low Zone
+20004,Northern,1,Auckland,3,Greenlane Clinical Centre,Building 11 ,Administration,1978,,,-,0,NO DATA,NO DATA,0.48,C,IL2,Low Zone
+10057,Northern,1,Auckland,4,Point Chevalier,Rehab Plus,Hospital,1980,,,-,4429,Average,2.41,1,A,IL3,Low Zone
+10054,Northern,1,Auckland,4,Point Chevalier,Buchanan ,Mental Health,1973,,,1,2294,Poor,3.15,0.75,B,IL2,Low Zone
+10055,Northern,1,Auckland,4,Point Chevalier,Buchanan House Dwellings (9) 799.6 + 197,Mental Health,2002,,,1,997,Average,2.69,NSA,NA,IL2,Low Zone
+10058,Northern,1,Auckland,4,Point Chevalier,Rehab Plus Dwellings,Hospital,1992,,,-,228,Average,2.32,NSA,NA,IL2,Low Zone
+10053,Northern,1,Auckland,4,Point Chevalier,Ahurere - Lotofale Two,Mental Health,1965,,,-,225,Average,2.17,NSA,NA,IL2,Low Zone
+10060,Northern,1,Auckland,4,Point Chevalier,Te Ihi - Lotofale One,Mental Health,1969,,,-,200,Average,2.37,NSA,NA,IL2,Low Zone
+10056,Northern,1,Auckland,4,Point Chevalier,Manawanui Meeting House,Mental Health,1991,,,-,189,Very Good,0.59,NSA,NA,IL2,Low Zone
+10061,Northern,1,Auckland,4,Point Chevalier,Whare Kai (Rangimarie),Mental Health,2006,,,-,150,Very Good,0.91,NSA,NA,IL2,Low Zone
+10052,Northern,1,Auckland,4,Point Chevalier,Ablutions Block,Mental Health,2013,,,-,72,Very Good,1,NSA,NA,IL2,Low Zone
+10059,Northern,1,Auckland,4,Point Chevalier,Rehab Plus Occ. Therapy Shed,Administration,1998,,,-,40,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+,Northern,1,Auckland,4,Port Chevalier,Campus Infrastructure,Administration,1978,-,-,-,-,Poor,3.8,,,IL4,
+10064,Te Manawa Taki,8,Bay of Plenty,116,BOPDHB Community - Dental,"Dental Clinic, 2 Chair - Otūmoetai School",Hospital,1978,1,0,1,174,Good,1.34,1,A,IL2,Medium Zone
+10066,Te Manawa Taki,8,Bay of Plenty,116,BOPDHB Community - Dental,"Dental Clinic, 3 Chair - TGA Intermediate School",Hospital,1978,1,0,1,174,Good,1.34,1,A,IL2,Medium Zone
+10062,Te Manawa Taki,8,Bay of Plenty,116,BOPDHB Community - Dental,"Dental Clinic, 2 Chair - Arataki School",Hospital,1978,1,0,1,89,Good,1.34,1,A,IL2,Medium Zone
+10065,Te Manawa Taki,8,Bay of Plenty,116,BOPDHB Community - Dental,"Dental Clinic, 2 Chair - Te Puke",Hospital,2010,1,0,1,89,Good,1.34,1,A,IL2,Medium Zone
+10063,Te Manawa Taki,8,Bay of Plenty,116,BOPDHB Community - Dental,"Dental Clinic, 2 Chair - Greerton School",Hospital,1978,1,0,1,89,Good,1.58,1,A,IL2,Medium Zone
+10067,Te Manawa Taki,8,Bay of Plenty,5,Murupara,"Murupara Clinic, 47 - 55 Oregon Drive, Murupara",Community Hospital,1978,1,0,1,-,Average,2.2,NULL,NA,IL2,Medium Zone
+10100,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T45 - North Wing - Physiotherapy / Allied Health (GF), SCBU (L1), Wards (L2, 3, 4)",Hospital,2007,5,1,6,6492,Good,1.1,0.2,D,IL3,Medium Zone
+10105,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T50 - Medical Day Stay (GF), ICU / CCU (L1), Cardiology Services (L2), bedbay (L3), shell only (L4)",Hospital,2011,1,0,1,6186,Good,1.25,1,A,IL4,Medium Zone
+10087,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T25 - Wards Block West - HIA / MSHOP (GF) Maternity (L1), Wards L2 - L4)",Hospital,1972,5,1,6,5079,Good,1.66,0.76,B,IL4,Medium Zone
+10085,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T23 - Wards Block Central - Lifts / Stairs, (LB - L4), Spotless (LB), Pharmacy (GF)",Administration,1963,5,1,6,4824,Average,2.37,0.45,C,IL4,Medium Zone
+10086,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T24 - Wards Block East - Library, Paeds Outpatients (G F), Transit lounge (L1), Admin (L2, L3) Restricted Access (L4)",Administration,1963,5,0,5,4064,Average,2.54,0.34,C,IL2,Medium Zone
+10089,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T27 - APU (GF) CSU (L1), Plantroom",Administration,1976,2,1,3,3556,Good,1.75,0.5,C,IL4,Medium Zone
+10101,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T46 - Podium - Outpatients (GF), theatres (L1)",Hospital,2007,2,0,2,3380,Good,1.1,0.2,D,IL4,Medium Zone
+10093,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T34 - Pōhutukawa House - Design & Print (B), Clinical School, Corp Services (L1), HR (L2) ",Administration,1959,2,1,3,3031,Average,2.1,0.4,C,IL2,Medium Zone
+10090,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T28 - Clinical Services - Radiology, Orthopaedic Outpatients (GF)",Administration,1976,1,1,2,2588,Good,1.67,0.34,C,IL4,Medium Zone
+10106,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T51 - 889 Cameron Road - Education Centre,Administration,1974,1,0,1,2303,Poor,3.36,0.4,C,IL2,Medium Zone
+10068,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T01 - Adult Mental Health (Te Whare o Maiangiangi),Mental Health,2002,1,0,1,2219,Average,2.07,1,A,IL3,Medium Zone
+10082,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T20 - Kaimai Tunnel (B), Kitchen (L1)",Administration,1963,2,1,3,1910,Average,2.78,0.62,C,IL4,Medium Zone
+10107,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T51A - 889 Cameron Road - Ex RSA Flats,Residential,1970,1,0,1,1686,Average,2.81,NULL,NA,IL2,Medium Zone
+10094,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T35 - Kowhai House - CMH - CADS,Mental Health,1942,2,1,3,1580,Good,1.92,0.62,C,IL3,Medium Zone
+10104,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T49 - Emergency Department Extension,Hospital,2007,1,0,1,1182,Good,1.1,0.34,C,IL4,Medium Zone
+10091,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T29 - Emergency Department,Hospital,1976,1,1,2,1182,Good,1.73,0.35,C,IL4,Medium Zone
+10084,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T22 - Main Stores,Administration,1963,1,0,1,1087,Poor,3.7,0.34,C,IL2,Medium Zone
+10073,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,"T06 - DHB Building - Property Services (LG), Information Services (L1)",Administration,1972,2,0,2,1038,Average,2.45,0.32,D,IL4,Medium Zone
+10077,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T13 - Carpenters,Industrial,1956,1,0,1,797,Average,2.45,NULL,NA,IL2,Medium Zone
+10078,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T14 - Engineers,Industrial,1956,2,0,2,797,Average,2.45,NULL,NA,IL2,Medium Zone
+10102,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T47 - SHSOP,Hospital,2007,1,0,1,781,Good,1.1,0.34,C,IL3,Medium Zone
+10080,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T17 - Silver Birch House,Administration,1944,1,0,1,691,Poor,3.2,0.4,C,IL2,Medium Zone
+10092,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T30 - Child And Adolescent Mental Health Service (CAMHS),Hospital,1970,1,0,1,652,Average,2.41,0.8,A,IL2,Medium Zone
+10083,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T21 - Vacant (ex Pathlab),Nil,1963,1,0,1,602,Poor,3.37,0.34,C,IL3,Medium Zone
+10103,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T48 - Cancer Centre,Administration,2007,1,0,1,589,Good,1.1,0.34,C,IL3,Medium Zone
+10081,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T19 - Boiler House,Industrial,1964,1,0,1,508,Good,1.86,0.68,B,IL4,Medium Zone
+10095,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T36 - Gymnasium,Administration,1959,1,0,1,325,Average,2.2,0.48,C,IL2,Medium Zone
+10071,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T04 Specialist Mental Health For Older People,Hospital,1955,1,0,1,317,Average,2.45,0.64,C,IL2,Medium Zone
+10115,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T82 31 Eighteenth Ave Residence,Residential,1965,1,0,1,310,Average,2.45,NULL,NA,S,Medium Zone
+10099,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T44 - Lift Tower / Stairs to Carpark E,Administration,2006,4,0,4,260,Average,2.71,0.34,C,IL3,Medium Zone
+10069,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T02 - Corporate Management Mental Health (Top House),Administration,1915,1,0,1,193,Average,2.45,0.38,C,IL2,Medium Zone
+10079,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T16 - CEO Office,Administration,1954,1,0,1,193,Poor,3.35,0.84,A,IL2,Medium Zone
+10072,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T05 - Whanau House,Residential,1956,1,0,1,192,Average,2.35,0.48,C,IL2,Medium Zone
+10116,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T83 4 / 110 Hamilton St Residence,Residential,1975,3,0,3,170,Good,1.95,0.33,D,IL2,Medium Zone
+10075,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T10 - Renal Unit,Hospital,1958,1,0,1,155,Average,2.11,0.34,C,IL2,Medium Zone
+10076,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T12 - Timber Racks,Industrial,1965,1,0,1,132,NO DATA,NO DATA,NULL,NA,IL2,Medium Zone
+10070,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T03 - Corporate Management Mental Health (Bottom House),Administration,1953,1,0,1,123,Average,2.45,0.32,D,IL2,Medium Zone
+10112,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T57 Biomed,Administration,2004,1,0,1,120,Good,1.2,1,A,IL2,Medium Zone
+10111,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T56 POD Typists,Nil,2004,1,0,1,120,Average,2.45,NULL,NA,IL2,Medium Zone
+10097,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T41 - Gardeners & Painters,Industrial,1965,1,0,1,115,Average,2.71,0.71,B,IL2,Medium Zone
+10098,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T42 - Fire Sprinkler House,Industrial,2008,1,0,1,80,Good,1.75,0.34,C,IL4,Medium Zone
+10109,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T54 POD Community Dental Services,Hospital,2004,1,0,1,50,Average,2.45,NULL,NA,IL2,Medium Zone
+10110,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T55 POD CCYHS,Administration,2004,1,0,1,50,Average,2.45,NULL,NA,IL2,Medium Zone
+10113,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T58 POD Governance and Quality,Administration,2004,1,0,1,50,Average,2.45,NULL,NA,IL2,Medium Zone
+10114,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T59 POD Renal Unit Office,Administration,2004,1,0,1,50,Average,2.45,NULL,NA,IL2,Medium Zone
+10108,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T53 - Pump House - Water Tanks,Industrial,2011,1,0,1,20,Good,1.64,1,A,IL4,Medium Zone
+10088,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T26 - Medical Gases Main Manifolds,Industrial,2010,1,0,1,20,Good,1.94,1,A,IL4,Medium Zone
+10096,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T40 - Bulk Oxygen,Industrial,2015,1,0,1,20,Average,2.43,1,A,IL4,Medium Zone
+10074,Te Manawa Taki,8,Bay of Plenty,6,Tauranga Hospital,T07 - Dangerous Goods Store,Industrial,2009,1,0,1,4,NO DATA,NO DATA,NULL,NA,IL2,Medium Zone
+10117,Te Manawa Taki,8,Bay of Plenty,8,Te Kaha,"TK Clinic, 6680 SH 35, Te Kaha",Community Hospital,2003,1,0,1,-,Average,2.45,NULL,NA,IL2,High Zone
+10159,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W69 - Pathlab,Administration,2015,1,0,1,-,Good,1.25,1,A,IL2,High Zone
+10160,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W70 - Blood Collection,Hospital,2015,1,0,1,-,Good,1.25,1,A,IL2,High Zone
+10158,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W68 - Fire Booster Pump,Industrial,2014,1,0,1,-,Good,1.1,1,A,IL4,High Zone
+10156,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W66 - Bulk Oxygen,Industrial,2014,1,0,1,-,Good,1.57,1,A,IL4,High Zone
+10157,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W67 - Gas Bottle Manifold,Industrial,2014,1,0,1,-,Good,1.71,1,A,IL4,High Zone
+10162,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W72 - Water Tank and pumps container,Industrial,2016,1,0,1,-,Very Poor,5,1,A,IL4,High Zone
+10129,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W100 - Main Hospital,Hospital,2014,1,1,2,8796,Good,1.5,1,A,IL4,High Zone
+10133,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W20 - Mental Health (Te Toki Maurere MHIPU),Mental Health,1965,2,0,2,1691,Average,2.9,0.35,C,IL3,High Zone
+10120,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,"W02 - Dawson Block, Med Records Offices (LG), Admin (L1)",Administration,1961,2,1,3,1438,Average,2.36,0.7,B,IL2,High Zone
+10131,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W12 - Te Koru Rehab / Physio,Hospital,1929,1,1,2,1142,Good,1.16,0.4,C,IL2,High Zone
+10144,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W53 - Ko Matariki (Maternity),Hospital,1967,1,0,1,1026,Good,1.57,1,A,IL3,High Zone
+10146,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W56 - Clinical School,Administration,2011,1,0,1,921,Average,2.1,1,A,IL2,High Zone
+10138,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,"W30 - Ex Laundry, Gym, Records Storage",Administration,1957,1,1,2,828,Good,1.92,NULL,NA,IL2,High Zone
+10125,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W07 - Cancer Clinic,Administration,1990,1,0,1,694,Average,2.67,0.4,C,IL2,High Zone
+10163,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,"WPod1 - District Nursing, Community Child & Health Services, Toi Te Ora Public Health Staff",Hospital,2011,1,0,1,658,Good,1.1,1,A,IL2,High Zone
+10136,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W23 - Engineering,Industrial,1956,1,0,1,602,Average,2.46,NULL,NA,IL4,High Zone
+10122,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W04 - Outpatient - OPD,Hospital,1940,1,0,1,579,Average,2.54,0.34,C,IL3,High Zone
+10127,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W09 - Kitchen,Administration,1940,1,0,1,525,Average,2.5,0.4,C,IL2,High Zone
+10148,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W58 - Māori Health,Hospital,2011,1,0,1,467,Average,2.1,1,A,IL2,High Zone
+10164,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,"WPod2 - Transport, Human Resources, Occupational Health, RCS Management, Property Services",Administration,2011,1,0,1,435,Good,1.1,1,A,IL2,High Zone
+10118,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W Walkways,Administration,2013,1,0,1,360,Poor,3.1,NULL,NA,IL2,High Zone
+10147,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W57 - Paeds Clinic,Hospital,1967,1,0,1,300,Good,1.57,0.84,A,IL3,High Zone
+10143,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W38 - 4&6 / 52 Stewart St,Residential,1960,1,0,1,275,NO DATA,NO DATA,NULL,NA,IL2,High Zone
+10132,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W15 - Library,Administration,2011,1,0,1,228,Average,2.1,1,A,IL2,High Zone
+10142,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W37 - 2 / 52 Stewart St,Residential,1960,1,0,1,221,NO DATA,NO DATA,NULL,NA,IL2,High Zone
+10166,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,"WPod3A - ACC Eligibility, Renal, Sexual Health, Purchasing",Hospital,2011,1,0,1,217,Good,1.1,1,A,IL2,High Zone
+10141,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W36 - 46 Stewart St,Residential,1960,1,0,1,207,NO DATA,NO DATA,NULL,NA,IL2,High Zone
+10123,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W05 - Office Block A (Dr's Offices),Administration,1940,1,0,1,204,Average,2.26,NULL,NA,IL2,High Zone
+10126,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W08 - Hotel Services,Administration,1945,1,1,2,197,Good,1.95,0.32,D,IL2,High Zone
+10161,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W71 - Pharmacy,Administration,2015,1,0,1,190,Good,1.25,1,A,IL2,High Zone
+10145,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W55 - Rehab Stores,Administration,2011,1,0,1,161,Very Good,0.55,1,A,IL2,High Zone
+10124,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W06 - Hotel Services (Corridor / Office / Clinics?),Administration,1978,1,0,1,161,Average,2.41,1,A,IL2,High Zone
+10149,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W59 - Renal,Hospital,1960,1,0,1,151,Average,2.45,0.34,C,IL3,High Zone
+10130,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W11 - Doctors Offices (Ex Pharmacy),Administration,1975,1,0,1,148,Average,2.42,0.4,C,IL2,High Zone
+10165,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,"WPod3 - Social Workers, Support net",Hospital,2011,1,0,1,144,Good,1.1,1,A,IL2,High Zone
+10134,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W21 - IT Offices (Prev Project Office) ,Administration,1985,1,0,1,133,Average,2.45,NULL,NA,IL2,High Zone
+10137,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W26 - Engineering Storage,Industrial,1985,1,0,1,100,Average,2.4,NULL,NA,IL2,High Zone
+10121,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W03 - Chapel,Administration,1967,1,0,1,99,Good,1.99,0.34,C,IL2,High Zone
+10128,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W10 - IT / Biomed,Administration,1940,1,0,1,75,Average,2.47,0.4,C,IL2,High Zone
+10152,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W62 - Rehab Ramp Store,Administration,2013,1,0,1,54,Poor,3.2,NULL,NA,IL2,High Zone
+10135,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W22 - Emergency Generator Redundant,Nil,1970,1,0,1,42,NO DATA,NO DATA,NULL,NA,IL2,High Zone
+10154,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W64 - Enviro Waste Store,Industrial,2013,1,0,1,36,Good,1.7,1,A,IL2,High Zone
+10155,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W65 - Carwash Shed,Administration,2013,1,0,1,36,Average,2.4,NULL,NA,IL2,High Zone
+10150,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W60 - Waste Transfer Station,Industrial,2014,1,0,1,30,Very Good,1,1,A,IL2,High Zone
+10153,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W63 - Communications Room,Industrial,2013,1,0,1,30,Good,1.1,1,A,IL4,High Zone
+10151,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W61 - Main Corridor and Sub - Floor tunnels,Administration,2012,1,1,2,22,Good,1.45,1,A,IL3,High Zone
+10140,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W34 - Gas Bottle Storage (redundant),Nil,2013,1,0,1,7,NO DATA,NO DATA,NULL,NA,IL2,High Zone
+10139,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W33 - Water Tanks converted to Storage areas,Industrial,1950,1,0,1,0,Very Good,1,NULL,NA,IL2,High Zone
+10119,Te Manawa Taki,8,Bay of Plenty,7,Whakatāne,W01 - Stanton Block,Industrial,1970,2,1,3,0,Good,1.75,0.7,B,IL2,High Zone
+10167,Southern,4,Canterbury,9,Akaroa Hospital,Akaroa Hospital,Community Hospital,2020,1,0,1,0,NO DATA,NO DATA,0.15,E,IL2,High Zone
+10174,Southern,4,Canterbury,10,Ashburton Hospital,Wards 1 & 3 (Block C),Hospital,1943,2,1,3,1744,Average,2.61,0.62,C,IL3,Medium Zone
+10169,Southern,4,Canterbury,10,Ashburton Hospital,CPH / Child Dev / Therapy Services / Staff Hostel ,Community Hospital,1953,2,0,2,1523,Poor,3.04,0.35,C,IL3,Medium Zone
+10171,Southern,4,Canterbury,10,Ashburton Hospital,Maternity  / Oak Grove (Consulting Outpatients),Hospital,1970,1,1,2,1376,Poor,3.22,0.45,C,IL3,Medium Zone
+10175,Southern,4,Canterbury,10,Ashburton Hospital,Wards 2 & 6 and Community Services (Block D),Hospital,1943,2,0,2,1363,Average,2.61,0.35,C,IL3,Medium Zone
+20144,Southern,4,Canterbury,10,Ashburton Hospital,Laundry,Administration,1974,1,0,1,1294,NO DATA,NO DATA,1,A,IL2,Medium Zone
+10173,Southern,4,Canterbury,10,Ashburton Hospital,Theatre (New),Hospital,2016,-,-,-,1033,NO DATA,NO DATA,0.15,E,IL3,Medium Zone
+20143,Southern,4,Canterbury,10,Ashburton Hospital,Kitchen,Administration,1990,1,0,1,934,NO DATA,NO DATA,0.77,B,IL2,Medium Zone
+10170,Southern,4,Canterbury,10,Ashburton Hospital,Laboratory  / Pharmacy  / Pathology,Administration,1990,1,0,1,752,Poor,3.32,1,A,IL3,Medium Zone
+10172,Southern,4,Canterbury,10,Ashburton Hospital,Radiology  / Medical Information,Administration,1990,1,0,1,693,Poor,3.15,1,A,IL3,Medium Zone
+10168,Southern,4,Canterbury,10,Ashburton Hospital,Boiler House,Industrial,1965,1,0,1,376,NO DATA,NO DATA,0.62,C,IL3,Medium Zone
+20145,Southern,4,Canterbury,10,Ashburton Hospital,Medical Staff Quarters,Residential,1940,2,0,2,284,NO DATA,NO DATA,0.29,D,IL2,Medium Zone
+20118,Southern,4,Canterbury,10,Ashburton Hospital,Chapel,Administration,1975,1,0,1,163,NO DATA,NO DATA,0.46,C,IL2,Medium Zone
+10177,Southern,4,Canterbury,11,Burwood Hospital,"Burwood Hospital (Ward A, B, C&D and OP)",Hospital,2016,4,0,4,32336,Very Good,1,NSA,NA,IL3,High Zone
+10181,Southern,4,Canterbury,11,Burwood Hospital,Physical Medicine,Hospital,1986,1,0,1,3919,Poor,3.15,0.35,C,IL2,High Zone
+10183,Southern,4,Canterbury,11,Burwood Hospital,"Theatres / Ward GG - SOU, SCU (Surgical block)",Hospital,2008,2,1,3,3896,Poor,3.5,0.67,B,IL3,High Zone
+10178,Southern,4,Canterbury,11,Burwood Hospital,Burwood Hospital - Back of House (new build),Industrial,2016,4,0,4,2949,Very Good,1,NSA,NA,IL3,High Zone
+10182,Southern,4,Canterbury,11,Burwood Hospital,Spinal Unit (Ward HG),Hospital,1979,2,0,2,2426,Average,2.97,0.4,C,IL3,High Zone
+10179,Southern,4,Canterbury,11,Burwood Hospital,Ex Surgical (Radiology  / Pharmacy / offices),Hospital,1963,-,-,-,1678,Poor,3.2,0.67,B,IL2,High Zone
+10180,Southern,4,Canterbury,11,Burwood Hospital,Orthopaedic Rehab (Ward FG),Hospital,2002,1,0,1,1206,Average,3,0.67,B,IL3,High Zone
+10176,Southern,4,Canterbury,11,Burwood Hospital,Boiler House (new),Industrial,2015,2,0,2,1163,Very Good,1,NSA,NA,IL3,High Zone
+20115,Southern,4,Canterbury,11,Burwood Hospital,Spinal Hostel,Hospital,1981,1,0,1,832,NO DATA,NO DATA,0.25,D,IL2,High Zone
+20117,Southern,4,Canterbury,11,Burwood Hospital,Old main entrance & café,Administration,2002,1,0,1,760,NO DATA,NO DATA,0.4,C,IL2,High Zone
+20140,Southern,4,Canterbury,11,Burwood Hospital,Milner Lodge,Residential,1983,1,0,1,314,NO DATA,NO DATA,1,A,IL2,High Zone
+20141,Southern,4,Canterbury,11,Burwood Hospital,Tapper Units,Hospital,1980,1,0,1,287,NO DATA,NO DATA,1,A,IL2,High Zone
+20116,Southern,4,Canterbury,11,Burwood Hospital,Māori Health ,Hospital,1961,1,0,1,270,NO DATA,NO DATA,0.45,C,IL2,High Zone
+20139,Southern,4,Canterbury,11,Burwood Hospital,Chapel,Administration,1961,1,0,1,183,NO DATA,NO DATA,0.67,B,IL2,High Zone
+20114,Southern,4,Canterbury,11,Burwood Hospital,Engineering Services,Industrial,1976,4,1,5,0,NO DATA,NO DATA,0.77,B,IL3,High Zone
+20150,Southern,4,Canterbury,127,CDHB Community - Dental,Aranui Community Dental,Hospital,2010,1,0,1,240,NO DATA,NO DATA,0.8,A,IL2,High Zone
+20149,Southern,4,Canterbury,127,CDHB Community - Dental,Hornby Community Dental,Hospital,2010,1,0,1,240,NO DATA,NO DATA,0.8,A,IL2,High Zone
+20152,Southern,4,Canterbury,127,CDHB Community - Dental,Northcote Community Dental,Hospital,2010,1,0,1,240,NO DATA,NO DATA,0.69,B,IL2,High Zone
+20154,Southern,4,Canterbury,127,CDHB Community - Dental,Woolston Community Dental,Hospital,2010,1,0,1,240,NO DATA,NO DATA,0.57,C,IL2,High Zone
+20153,Southern,4,Canterbury,127,CDHB Community - Dental,Lincoln Community Dental,Hospital,2011,1,0,1,213,NO DATA,NO DATA,0.8,A,IL2,High Zone
+20151,Southern,4,Canterbury,127,CDHB Community - Dental,Burnside Community Dental,Hospital,2010,1,0,1,212,NO DATA,NO DATA,0.72,B,IL2,High Zone
+20148,Southern,4,Canterbury,127,CDHB Community - Dental,Kaiapoi Community Dental,Hospital,2010,1,0,1,135,NO DATA,NO DATA,0.8,A,IL2,High Zone
+20147,Southern,4,Canterbury,127,CDHB Community - Dental,Rangiora Community Dental,Hospital,2010,1,0,1,135,NO DATA,NO DATA,0.57,C,IL2,High Zone
+20146,Southern,4,Canterbury,127,CDHB Community - Dental,Akaroa Community Dental,Hospital,2008,1,0,1,69,NO DATA,NO DATA,0.38,C,IL2,High Zone
+10184,Southern,4,Canterbury,12,Chatham Hospital,Chatham Hospital,Community Hospital,1936,1,0,1,367,Poor,3.02,NSA,NA,IL3,Low Zone
+10192,Southern,4,Canterbury,13,Christchurch Hospital,Parkside (including ED extension),Hospital,1991,6,1,7,37508,Average,2.89,0.35,C,IL4,High Zone
+10186,Southern,4,Canterbury,13,Christchurch Hospital,Christchurch Women's,Hospital,2004,9,1,10,18459,Good,1.23,1,A,IL4,High Zone
+10193,Southern,4,Canterbury,13,Christchurch Hospital,"Riverside - West, East, Central ",Hospital,1980,7,1,8,17722,Poor,3.21,0.33,D,IL3,High Zone
+20119,Southern,4,Canterbury,13,Christchurch Hospital,Staff Car Park,Parking,2003,3,0,3,11376,NO DATA,NO DATA,0.9,A,IL2,High Zone
+10191,Southern,4,Canterbury,13,Christchurch Hospital,Outpatients Building (New item added to list),Hospital,2018,6,0,6,10500,Very Good,1,NSA,NA,IL3,High Zone
+10187,Southern,4,Canterbury,13,Christchurch Hospital,Clinical Services Block ,Administration,1980,5,1,6,9317,Average,2.79,0.3,D,IL3,High Zone
+10189,Southern,4,Canterbury,13,Christchurch Hospital,Laboratories,Administration,1990,5,1,6,5940,Average,2.65,0.33,D,IL3,High Zone
+10188,Southern,4,Canterbury,13,Christchurch Hospital,Food Services,Administration,1978,4,1,5,3802,Poor,3.35,0.33,D,IL3,High Zone
+10190,Southern,4,Canterbury,13,Christchurch Hospital,Oncology,Hospital,1990,3,0,3,3454,Average,2.65,0.5,C,IL3,High Zone
+20112,Southern,4,Canterbury,13,Christchurch Hospital,Endo Labs (21 St Asaph),Administration,1968,-,-,-,674,NO DATA,NO DATA,0.7,B,IL2,High Zone
+10185,Southern,4,Canterbury,13,Christchurch Hospital,Boiler House - 235 Antigua St (including boiler & maintenance workshops),Industrial,1955,2,0,2,523,Average,2.44,0.2,D,IL4,High Zone
+10195,Southern,4,Canterbury,13,Christchurch Hospital,St Asaph street Substation (New) ,Industrial,2016,2,0,2,378,Very Good,0.86,NSA,NA,IL4,High Zone
+10194,Southern,4,Canterbury,13,Christchurch Hospital,Services Tunnel (New item added to list),Industrial,1978,0,1,1,0,Good,1.6,1,A,IL4,High Zone
+10196,Southern,4,Canterbury,14,Darfield Hospital,Darfield Hospital,Community Hospital,1927,1,0,1,544,Poor,3.27,0.2,D,IL2,High Zone
+10197,Southern,4,Canterbury,15,Ellesmere Hospital,Ellesmere Hospital,Community Hospital,1925,1,0,1,512,Poor,3.55,0.4,C,IL2,High Zone
+,Southern,4,Canterbury,16,Hillmorton Hospital,Campus Infrastructure,Administration,1978,0,0,0,-,Poor,3.9,,,IL4,
+10201,Southern,4,Canterbury,16,Hillmorton Hospital,Laundry / Canterbury Laundry Service - ERU,Administration,1980,3,0,3,8900,Poor,3.03,NSA,NA,IL3,High Zone
+10200,Southern,4,Canterbury,16,Hillmorton Hospital,Fergusson ,Mental Health,1974,2,0,2,6387,Poor,3.02,0.6,C,IL2,High Zone
+10204,Southern,4,Canterbury,16,Hillmorton Hospital,Te Awakura (Stewart) [Acute / Med / Inten],Mental Health,1980,1,0,1,4323,Average,2.36,0.7,B,IL3,High Zone
+10206,Southern,4,Canterbury,16,Hillmorton Hospital,Te Whare Manaaki (Forensic),Mental Health,1999,1,0,1,2888,Average,2.8,NSA,NA,IL4,High Zone
+10198,Southern,4,Canterbury,16,Hillmorton Hospital,"Aroha Pai (Randolph) [PSAID, AT&R]",Mental Health,1960,1,0,1,2067,Average,2.98,0.67,B,IL2,High Zone
+10205,Southern,4,Canterbury,16,Hillmorton Hospital,Te Waimokihi (Seager),Mental Health,1974,1,0,1,1687,Average,2.67,0.8,A,IL2,High Zone
+10203,Southern,4,Canterbury,16,Hillmorton Hospital,Recreation Centre,Mental Health,1974,1,0,1,1300,Average,3,0.5,C,IL2,High Zone
+10208,Southern,4,Canterbury,16,Hillmorton Hospital,Tupuna villa,Mental Health,1974,1,0,1,1257,Average,2.88,0.8,A,IL2,High Zone
+10207,Southern,4,Canterbury,16,Hillmorton Hospital,Te Whare Mauri Ora (Kennedy),Mental Health,1974,1,0,1,1257,Average,2.9,0.67,B,IL2,High Zone
+10202,Southern,4,Canterbury,16,Hillmorton Hospital,Main Kitchen / Food Services - ERU,Administration,1980,2,0,2,1257,Poor,3.24,NSA,NA,IL3,High Zone
+10209,Southern,4,Canterbury,16,Hillmorton Hospital,Youth Specialty Services (Adolescent unit),Mental Health,1986,1,0,1,831,NO DATA,NO DATA,1,A,IL2,High Zone
+20142,Southern,4,Canterbury,16,Hillmorton Hospital,Training Unit & Library,Administration,1971,1,0,1,494,NO DATA,NO DATA,0.5,C,IL2,High Zone
+10199,Southern,4,Canterbury,16,Hillmorton Hospital,Energy Centre / Site Maintenance - ERU,Industrial,1998,1,0,1,358,Good,1.97,0.8,A,IL3,High Zone
+10210,Southern,4,Canterbury,17,Kaikoura IFHC,Kaikoura IFHC (New),Community Hospital,2015,2,0,2,2747,Very Good,0.7,NSA,NA,IL3,High Zone
+10211,Southern,4,Canterbury,18,Lincoln Hospital,Lincoln Hospital,Community Hospital,1926,2,0,2,501,Very Poor,4.1,0.4,C,IL2,High Zone
+10212,Southern,4,Canterbury,19,Oxford Hospital,Oxford Hospital,Community Hospital,1915,2,0,2,811,Poor,3.08,0.5,C,IL2,High Zone
+20129,Southern,4,Canterbury,113,Princess Margaret,Main Building Block B,Nil,1950,9,0,9,-,NO DATA,NO DATA,0.4,C,IL3,High Zone
+20130,Southern,4,Canterbury,113,Princess Margaret,Main Building Block E,Nil,1950,9,0,9,-,NO DATA,NO DATA,0.25,D,IL3,High Zone
+20131,Southern,4,Canterbury,113,Princess Margaret,Main Building Block F,Nil,1950,9,0,9,-,NO DATA,NO DATA,0.4,C,IL2,High Zone
+20132,Southern,4,Canterbury,113,Princess Margaret,Main Building Block H,Nil,1950,9,0,9,-,NO DATA,NO DATA,0.4,C,IL2,High Zone
+20133,Southern,4,Canterbury,113,Princess Margaret,Main Building Block J,Nil,1950,9,0,9,-,NO DATA,NO DATA,0.6,C,IL2,High Zone
+20134,Southern,4,Canterbury,113,Princess Margaret,Main Building Block R,Nil,1950,9,0,9,-,NO DATA,NO DATA,0.69,B,IL3,High Zone
+20128,Southern,4,Canterbury,113,Princess Margaret,Main Building Block A,Nil,1950,9,0,9,22687,NO DATA,NO DATA,0.35,C,IL3,High Zone
+20127,Southern,4,Canterbury,113,Princess Margaret,K Ward,Nil,1968,1,0,1,2047,NO DATA,NO DATA,0.62,C,IL3,High Zone
+20126,Southern,4,Canterbury,113,Princess Margaret,Riley Day Hospital,Hospital,1982,0,0,0,1002,NO DATA,NO DATA,0.27,D,IL2,High Zone
+20124,Southern,4,Canterbury,113,Princess Margaret,Boiler House,Industrial,1982,1,0,1,705,NO DATA,NO DATA,0.35,C,IL3,High Zone
+20135,Southern,4,Canterbury,113,Princess Margaret,Mabel Howard,Nil,1968,-,-,-,573,NO DATA,NO DATA,0.38,C,IL2,High Zone
+20125,Southern,4,Canterbury,113,Princess Margaret,Chapel,Administration,1970,-,-,-,464,NO DATA,NO DATA,0.45,C,IL2,High Zone
+20137,Southern,4,Canterbury,113,Princess Margaret,Recreation Hall,Administration,1962,1,0,1,325,NO DATA,NO DATA,0.2,D,IL2,High Zone
+20123,Southern,4,Canterbury,113,Princess Margaret,93 Cashmere Rd,Nil,1920,2,0,2,221,NO DATA,NO DATA,0.15,E,IL2,High Zone
+20136,Southern,4,Canterbury,113,Princess Margaret,Emergency Generator Room,Industrial,1955,-,-,-,164,NO DATA,NO DATA,0.4,C,IL2,High Zone
+10214,Southern,4,Canterbury,20,Princess Margaret Hospital,Heathcote - East and West Blocks (SMHS to be relocated to Hillmorton - business case process underway. OPH community teams to be relocated to various),Mental Health,1960,6,0,6,8316,Poor,3.18,0.35,C,IL3,High Zone
+10213,Southern,4,Canterbury,20,Princess Margaret Hospital,C Block (SMHS to be relocated to Hillmorton - business case process underway),Mental Health,1975,1,0,1,4274,Poor,3.75,0.27,D,IL3,High Zone
+20138,Southern,4,Canterbury,20,Princess Margaret Hospital,Reservoir,Industrial,1978,NA,0,0,244,NO DATA,NO DATA,0.4,C,IL3,High Zone
+10215,Southern,4,Canterbury,21,Rangiora Health Hub,Rangiora Health Hub (New Stage 1 & 2),Community Hospital,2015,1,0,1,1250,Good,1.06,1,A,IL3,High Zone
+10216,Southern,4,Canterbury,22,Waikari Hospital,Waikari Hospital,Community Hospital,1918,2,0,2,639,Poor,3.08,0.2,D,IL2,High Zone
+10228,Central,6,Capital and Coast,23,Kenepuru/Porirua,Ward Block,Hospital,1979,,,3,9704,Average,2.21,0.76,B,IL3,High Zone
+10217,Central,6,Capital and Coast,23,Kenepuru/Porirua,Clinical Services - Kenepuru,Hospital,1979,,,5,8987,Average,2.33,0.33,D,IL3,High Zone
+10227,Central,6,Capital and Coast,23,Kenepuru/Porirua,Te Whare O Rangituhi & Rangitahi,Mental Health,1991,,,-,5041,Good,1.32,1.36,A+,IL3,High Zone
+10218,Central,6,Capital and Coast,23,Kenepuru/Porirua,Community Health Building,Community Hospital,1965,,,-,1804,Average,2.45,0.2,D,IL2,High Zone
+10225,Central,6,Capital and Coast,23,Kenepuru/Porirua,CCDHB Kenepuru Psychogeriatric,Mental Health,2006,,,2,1131,Average,2.11,1.36,A+,IL3,High Zone
+10219,Central,6,Capital and Coast,23,Kenepuru/Porirua,Dialysis,Hospital,2014,,,-,860,Very Good,1,1,A,IL4,High Zone
+10223,Central,6,Capital and Coast,23,Kenepuru/Porirua,Forensic Youth,Mental Health,2016,,,-,800,Very Good,1,1,A,IL4,High Zone
+10226,Central,6,Capital and Coast,23,Kenepuru/Porirua,Staff Residence 2 - Kenepuru,Administration,1981,,,-,656,Good,1.64,0.98,A,IL2,High Zone
+10224,Central,6,Capital and Coast,23,Kenepuru/Porirua,Birthing Unit Annexe,Hospital,1990,,,1,355,Average,2.54,NSA,NA,IL3,High Zone
+10220,Central,6,Capital and Coast,23,Kenepuru/Porirua,Flat No. 5 - MH Crisis Respite,Mental Health,1965,,,-,97,Good,1.85,0.7,B,IL2,High Zone
+10221,Central,6,Capital and Coast,23,Kenepuru/Porirua,Flat No. 6 - MH Crisis Respite,Mental Health,1965,,,-,97,Good,1.85,0.7,B,IL2,High Zone
+10222,Central,6,Capital and Coast,23,Kenepuru/Porirua,Flat No. 7 - MH Crisis Respite,Mental Health,1965,,,-,97,Good,1.85,0.7,B,IL2,High Zone
+20002,Central,6,Capital and Coast,23,Kenepuru/Porirua,Generator Building,Industrial,1978,,,-,0,NO DATA,NO DATA,0.78,B,IL4,High Zone
+10229,Central,6,Capital and Coast,24,Paraparaumu,Kapiti Health Centre ,Hospital,2003,,,-,1956,Good,1.19,1.03,A+,IL3,High Zone
+10230,Central,6,Capital and Coast,25,Porirua off Campus,Waitangirua Health Centre,Nil,1975,,,-,900,NO DATA,NO DATA,1.01,A+,IL2,High Zone
+10263,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,CCDHB RRoP MH Tāwhirimātea,Mental Health,2001,,,-,1791,Average,2.1,0.91,A,IL3,High Zone
+10254,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Puketiro Centre,Mental Health,1979,,,-,1722,Good,1.12,0.48,C,IL2,High Zone
+10246,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,CCDHB RRoP MH Rangipapa,Mental Health,2003,,,-,1651,Good,2,0.77,B,IL3,High Zone
+10231,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Administration,Nil,1925,,,-,1488,NO DATA,NO DATA,0.31,D,IL2,High Zone
+10255,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,CCDHB RRoP MH Purehurehu,Mental Health,1990,,,-,1475,Average,2.5,0.84,A,IL3,High Zone
+10259,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Stores - Porirua,Nil,1936,,,-,1221,NO DATA,NO DATA,0.16,E,IL2,High Zone
+10265,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Villa 7,Nil,1946,,,-,1188,NO DATA,NO DATA,0.08,E,IL2,High Zone
+10245,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Football Academy ,Nil,1946,,,-,1100,Poor,3.35,0.4,C,IL2,High Zone
+10249,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,CCDHB RRoP MH Haumietiketike,Mental Health,2004,,,2,1032,Average,2.27,0.86,A,IL3,High Zone
+10261,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,CCDHB RRoP MH Tane Mahuta,Mental Health,2003,,,-,1015,Average,2.3,1.37,A+,IL3,High Zone
+10244,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,F Annexe,Administration,1915,,,-,987,Average,2.8,0.22,D,IL2,High Zone
+10250,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Laundry / 2nd Chance,Nil,1946,,,-,754,NO DATA,NO DATA,0.19,E,IL2,High Zone
+10268,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Workshops / Boiler,Nil,1936,-,,-,735,NO DATA,NO DATA,0.06,E,IL2,High Zone
+10247,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Forensic Administration,Mental Health,2003,,,-,527,Good,1.18,0.8,A,IL3,High Zone
+10267,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Works Office,Administration,1949,,,-,388,NO DATA,NO DATA,0.36,C,IL2,High Zone
+10252,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Ngā Wāhi Akōnga - Te Papa Building,Mental Health,1956,,,-,351,Very Good,0.55,2.11,A+,IL2,High Zone
+10257,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Ruaumoko Building,Mental Health,1956,,,-,323,Very Good,0.61,1,A,IL2,High Zone
+10260,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Supply / Diagnostic Service,Administration,1945,,,-,320,Poor,3.45,0.36,C,IL2,High Zone
+10262,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Tangaroa Activities,Mental Health,2003,,,-,316,Very Good,0.8,1.37,A+,IL2,High Zone
+10256,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Rongomatane Building,Mental Health,1956,,,-,311,Very Good,0.55,2.11,A+,IL2,High Zone
+10251,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,MCE Building Mana Community Enterprises,Nil,2006,,,-,294,Good,1.32,1.02,A+,IL2,High Zone
+10234,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Chapel - Porirua,Administration,1965,,,-,290,Average,2.1,0.29,D,IL2,High Zone
+10264,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,"Te Aruhe (Youth ID Secure Services - YIDSS, Porirua)",Mental Health,2011,,,-,282,Good,1.1,0.99,A,IL2,High Zone
+10248,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Forensic step down house 2,Mental Health,2009,,,-,233,Good,1.18,0.99,A,IL2,High Zone
+10266,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Whanau,Mental Health,2003,,,-,219,Good,1.06,1.53,A+,IL2,High Zone
+10242,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 8,Mental Health,2005,,,-,188,Good,1.1,0.99,A,IL2,High Zone
+10243,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 9,Mental Health,2005,,,-,188,Good,1.1,0.99,A,IL2,High Zone
+10258,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Saunders Cottage,Mental Health,2009,,,-,177,Good,1.18,0.99,A,IL2,High Zone
+10233,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Central Services,Industrial,2003,,,1,170,Average,2.14,0.77,B,IL4,High Zone
+10253,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Ngā Wāhi Akōnga - Te Piki Building,Mental Health,1956,,,-,151,Very Good,0.55,2.11,A+,IL2,High Zone
+10235,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 1,Mental Health,2001,,,-,114,Good,1.1,1.79,A+,IL2,High Zone
+10240,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 6,Mental Health,2001,,,-,114,Good,1.1,1.79,A+,IL2,High Zone
+10241,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 7,Mental Health,2001,,,-,114,Good,1.1,1.79,A+,IL2,High Zone
+10236,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 2,Mental Health,2001,,,-,62,Good,1.1,1.6,A+,IL2,High Zone
+10239,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 5,Mental Health,2001,,,-,62,Good,1.1,1.79,A+,IL2,High Zone
+10237,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 3,Mental Health,2001,,,-,36,Good,1.1,1.6,A+,IL2,High Zone
+10238,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Cottage 4,Mental Health,2001,,,-,36,Good,1.1,1.6,A+,IL2,High Zone
+20003,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Swimming,Administration,1978,,,-,0,NO DATA,NO DATA,0.63,C,IL3,High Zone
+20001,Central,6,Capital and Coast,26,Rātonga Rua o Porirua,Te Maara,Industrial,2018,,,-,0,NO DATA,NO DATA,1,A,IL2,High Zone
+,Central,6,Capital and Coast,27,Wellington Hospital,Campus Infrastructure,Administration,1978,,,-,-,Poor,3.1,,,IL4,
+10281,Central,6,Capital and Coast,27,Wellington Hospital,NRH Main Hospital Building,Hospital,2005,,,-,60430,Good,1.8,0.7,B,IL4,High Zone
+10272,Central,6,Capital and Coast,27,Wellington Hospital,Clinical Services Block,Hospital,1979,,,13,25635,Average,2.07,0.68,B,IL3,High Zone
+10275,Central,6,Capital and Coast,27,Wellington Hospital,Grace Neill ,Hospital,1980,,,-,17630,Average,2.99,0.82,A,IL3,High Zone
+10287,Central,6,Capital and Coast,27,Wellington Hospital,Ward Support Block,Hospital,1982,,,-,16960,Average,2.33,0.67,B,IL3,High Zone
+10286,Central,6,Capital and Coast,27,Wellington Hospital,Total Energy Centre,Industrial,1980,,,3,10300,Average,2.8,0.82,A,IL4,High Zone
+10285,Central,6,Capital and Coast,27,Wellington Hospital,CCDHB Te Whare O Matairangi Mental Health,Mental Health,1971,,,-,3695,Good,1.8,1,A,IL3,High Zone
+10271,Central,6,Capital and Coast,27,Wellington Hospital,Children's Hospital,Hospital,1988,,,-,3160,Good,1.92,0.98,A,IL3,High Zone
+10274,Central,6,Capital and Coast,27,Wellington Hospital,Ewart Hospital,Hospital,1974,,,-,2883,Poor,3.29,0.65,C,IL2,High Zone
+10273,Central,6,Capital and Coast,27,Wellington Hospital,Emergency Department,Hospital,2000,,,-,2815,Good,1.15,0.34,C,IL4,High Zone
+10278,Central,6,Capital and Coast,27,Wellington Hospital,Link Block,Nil,1979,,,-,2630,Average,2.89,1.11,A+,IL2,High Zone
+10269,Central,6,Capital and Coast,27,Wellington Hospital,Blood Transfusion Centre - building,Nil,1990,,,-,2079,Good,1.67,1,A,IL3,High Zone
+10279,Central,6,Capital and Coast,27,Wellington Hospital,Mein Street Admin Centre,Mental Health,1980,,,-,1176,Good,1.87,1,A,IL2,High Zone
+10277,Central,6,Capital and Coast,27,Wellington Hospital,Limb & Orthotics,Administration,1975,,,-,852,Average,2.09,0.14,E,IL2,High Zone
+10283,Central,6,Capital and Coast,27,Wellington Hospital,Parkview,Nil,1920,,,-,848,NO DATA,NO DATA,1,A,IL2,High Zone
+10282,Central,6,Capital and Coast,27,Wellington Hospital,NRH Short Stay Unit ,Hospital,2005,,,-,403,Good,1.31,0.34,C,IL4,High Zone
+10276,Central,6,Capital and Coast,27,Wellington Hospital,Selby House (joint venture HVDHB and CCDHB),Hospital,2016,,,-,198,Very Good,1,NSA,NA,IL2,High Zone
+10270,Central,6,Capital and Coast,27,Wellington Hospital,Child Care Centre,Nil,1973,,,-,180,Average,2.26,0.99,A,IL2,High Zone
+10284,Central,6,Capital and Coast,27,Wellington Hospital,Records,Nil,1973,,,-,180,Average,2.64,1.51,A+,IL2,High Zone
+10280,Central,6,Capital and Coast,27,Wellington Hospital,Mein Street Sub station,Industrial,1970,,,1,16,Poor,3.03,NSA,NA,IL4,High Zone
+20052,Northern,3,Counties Manukau,33,"Bairds Road, Otara",Otara Hospital Block E,Industrial,1970,1,0,1,1824,NO DATA,NO DATA,0.55,C,IL3,Low Zone
+20051,Northern,3,Counties Manukau,33,"Bairds Road, Otara",Otara Hospital Block D,Administration,1970,1,0,1,1550,NO DATA,NO DATA,0.7,B,IL3,Low Zone
+30001,Northern,3,Counties Manukau,33,"Bairds Road, Otara",Otara Hospital Block A - Spinal Unit Ward,Hospital,1970,1,0,1,1309,NO DATA,NO DATA,0.55,C,IL3,Low Zone
+20053,Northern,3,Counties Manukau,33,"Bairds Road, Otara",Otara Hospital Block F,Administration,1970,1,0,1,686,NO DATA,NO DATA,0.8,A,IL3,Low Zone
+10327,Northern,3,Counties Manukau,33,"Bairds Road, Otara",Otara Hospital Block C,Hospital,1970,1,0,1,509,Poor,3.35,0.6,C,IL3,Low Zone
+30003,Northern,3,Counties Manukau,33,"Bairds Road, Otara",Otara Hospital Block M - Family Accommodation Units,Residential,1979,1,0,1,230,NO DATA,NO DATA,0.75,B,IL3,Low Zone
+10325,Northern,3,Counties Manukau,33,"Bairds Road, Otara",Otara Hospital Block B,Administration,1970,1,0,1,0,Average,2.85,0.55,C,IL3,Low Zone
+10289,Northern,3,Counties Manukau,29,Botany Downs Hospital,Botany Maternity (& infras.),Hospital,1991,1,0,1,966,Average,2.28,1.01,A+,IL3,Low Zone
+10290,Northern,3,Counties Manukau,29,Botany Downs Hospital,Botany SuperClinic,Hospital,1995,1,0,1,625,Good,1.99,NSA,NA,IL2,Low Zone
+10291,Northern,3,Counties Manukau,29,Botany Downs Hospital,Howick Home Healthcare,Hospital,1991,1,0,1,273,Average,2.74,NSA,NA,IL2,Low Zone
+10297,Northern,3,Counties Manukau,117,CMDHB Community - Dental,Community Dental Clinics,Hospital,2011,1,0,1,2487,Good,1.31,NSA,NA,IL2,Low Zone
+10298,Northern,3,Counties Manukau,117,CMDHB Community - Dental,Community Mobile Dental Site Pads (48),Hospital,2011,1,0,1,0,Very Good,1,NSA,NA,IL2,Low Zone
+10299,Northern,3,Counties Manukau,117,CMDHB Community - Dental,Community Mobile Dental Units (18),Hospital,2011,1,0,1,0,Average,2.23,NSA,NA,IL2,Low Zone
+10292,Northern,3,Counties Manukau,30,Community,Multiple Leased,Hospital,1978,0,0,0,12385,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10295,Northern,3,Counties Manukau,30,Community,Victoria Ave,Nil,1950,1,0,1,163,Good,1.8,NSA,NA,IL2,Low Zone
+10294,Northern,3,Counties Manukau,30,Community,Sheehan Ave,Hospital,1995,1,0,1,127,Good,1.91,NSA,NA,IL2,Low Zone
+10293,Northern,3,Counties Manukau,30,Community,Salas Place,Hospital,1995,1,0,1,125,Average,2.19,NSA,NA,IL2,Low Zone
+20063,Northern,3,Counties Manukau,111,Mangere,Dental Clinic 235 Buckland Rd Māngere,Hospital,1978,1,0,1,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+30012,Northern,3,Counties Manukau,31,Manukau Super Clinic,B309 Dangerous Goods Shed,Administration,1978,1,0,1,-,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+30013,Northern,3,Counties Manukau,31,Manukau Super Clinic,B310 Dental Clinic,Hospital,1978,1,0,1,-,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+30009,Northern,3,Counties Manukau,31,Manukau Super Clinic,B306 Generator,Industrial,1978,1,0,1,-,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+30010,Northern,3,Counties Manukau,31,Manukau Super Clinic,B307 Liquid Oxygen Storage Tank,Industrial,1978,1,0,1,-,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+30011,Northern,3,Counties Manukau,31,Manukau Super Clinic,B308 Water Pump Shed,Industrial,1978,1,0,1,-,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+30007,Northern,3,Counties Manukau,31,Manukau Super Clinic,B302 Manukau Elective Surgery Centre,Hospital,1999,3,0,3,8723,NO DATA,NO DATA,0.9,A,IL3,Low Zone
+30002,Northern,3,Counties Manukau,31,Manukau Super Clinic,B301 Manukau Super Clinic,Hospital,1996,2,0,2,7198,NO DATA,NO DATA,0.55,C,IL3,Low Zone
+30004,Northern,3,Counties Manukau,31,Manukau Super Clinic,B303 Opthamology,Administration,2008,2,0,2,1242,NO DATA,NO DATA,0.85,A,IL3,Low Zone
+30005,Northern,3,Counties Manukau,31,Manukau Super Clinic,B304 Conference Centre,Administration,2008,2,0,2,840,NO DATA,NO DATA,0.85,A,IL3,Low Zone
+30006,Northern,3,Counties Manukau,31,Manukau Super Clinic,B305 Renal Unit,Hospital,2008,1,0,1,657,NO DATA,NO DATA,0.85,A,IL3,Low Zone
+10312,Northern,3,Counties Manukau,32,Middlemore Hospital,Harley Gray (Theatres and Critical Care),Hospital,2011,4,1,5,34152,Good,1.35,1,A,IL4,Low Zone
+10311,Northern,3,Counties Manukau,32,Middlemore Hospital,"Galbraith (Maternity), Acute Block ",Hospital,1960,8,1,9,20927,Average,2.7,0.2,D,IL4,Low Zone
+10307,Northern,3,Counties Manukau,32,Middlemore Hospital,CMDHB Middlemore Edmund Hillary,Hospital,2008,7,1,8,16693,Good,1.32,NSA,NA,IL4,Low Zone
+10303,Northern,3,Counties Manukau,32,Middlemore Hospital,Carpark (Privately Owned),Parking,2004,5,0,5,14540,Good,1.06,0.4,C,IL2,Low Zone
+10323,Northern,3,Counties Manukau,32,Middlemore Hospital,Scott (Wards & CCU),Hospital,2001,7,0,7,14277,Average,2.23,0.9,A,IL3,Low Zone
+10317,Northern,3,Counties Manukau,32,Middlemore Hospital,CMDHB Middlemore McIndoe,Hospital,1997,3,0,3,11361,Average,2.79,0.65,C,IL4,Low Zone
+10304,Northern,3,Counties Manukau,32,Middlemore Hospital,Colvin (Rehab & Wards),Hospital,1987,2,1,3,7548,Average,2.71,0.25,D,IL3,Low Zone
+10310,Northern,3,Counties Manukau,32,Middlemore Hospital,"Esme Green (AUT, MIT, University of Auckland)",Administration,1962,6,1,7,7197,Average,2.83,0.25,D,IL3,Low Zone
+10314,Northern,3,Counties Manukau,32,Middlemore Hospital,Kidz First,Hospital,2000,3,1,4,7154,Average,2.52,0.75,B,IL4,Low Zone
+10319,Northern,3,Counties Manukau,32,Middlemore Hospital,Multiple Non - Clinical,Administration,1978,0,0,0,5418,Poor,3.36,NSA,NA,IL2,Low Zone
+10315,Northern,3,Counties Manukau,32,Middlemore Hospital,Ko Awatea,Administration,2011,2,0,2,4619,Good,1.09,NSA,NA,IL3,Low Zone
+10301,Northern,3,Counties Manukau,32,Middlemore Hospital,CMDHB Middlemore Acute MH (Tiaho Mai),Mental Health,2018,2,0,2,4498,Very Good,1,1,A,IL3,Low Zone
+10302,Northern,3,Counties Manukau,32,Middlemore Hospital,Bray,Administration,1958,4,1,5,4385,Average,2.98,0.84,A,IL3,Low Zone
+10322,Northern,3,Counties Manukau,32,Middlemore Hospital,Poutasi (Link & Carparking),Administration,1945,2,0,2,1519,Poor,3.08,0.67,B,IL3,Low Zone
+10320,Northern,3,Counties Manukau,32,Middlemore Hospital,Oral Health,Hospital,1986,2,1,3,1473,Average,2.95,NSA,NA,IL3,Low Zone
+10306,Northern,3,Counties Manukau,32,Middlemore Hospital,CT ,Administration,1987,1,0,1,974,Average,2.31,0.8,A,IL4,Low Zone
+20023,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 28 Medical Gas Room ,Industrial,1994,1,0,1,821,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10305,Northern,3,Counties Manukau,32,Middlemore Hospital,Creche,Administration,1995,1,1,2,689,Average,2.21,NSA,NA,IL3,Low Zone
+10308,Northern,3,Counties Manukau,32,Middlemore Hospital,Energy Centre,Industrial,2001,2,1,3,675,Good,1.92,0.75,B,IL4,Low Zone
+20035,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 59 Oxygen Manpacks,Industrial,1978,1,0,1,374,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+20034,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 58 MRI & CT Scan,Administration,1995,1,0,1,354,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+10321,Northern,3,Counties Manukau,32,Middlemore Hospital,Pink Palace,Administration,1966,1,0,1,232,Average,2.7,0.88,A,IL3,Low Zone
+20022,Northern,3,Counties Manukau,32,Middlemore Hospital,Engineering Administration and Workshops,Industrial,1940,1,0,1,139,NO DATA,NO DATA,0.6,C,IL2,Low Zone
+20028,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 45 RMO Lounge,Administration,2010,1,0,1,138,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+10313,Northern,3,Counties Manukau,32,Middlemore Hospital,Home Health Care (Western Campus),Administration,2001,2,1,3,131,Average,2.87,0.3,D,IL3,Low Zone
+30008,Northern,3,Counties Manukau,32,Middlemore Hospital,Minimum Care Dialysis (Renal Home Training),Administration,1978,1,0,1,131,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+20027,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 41 Boiler House,Industrial,1986,1,0,1,128,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+10309,Northern,3,Counties Manukau,32,Middlemore Hospital,Energy Centre Annex,Industrial,2010,1,0,1,116,Good,1.75,1,A,IL3,Low Zone
+20029,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 47 Filter Storage Shed,Administration,1978,1,0,1,112,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+20037,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 61 Engineering store,Industrial,1978,1,0,1,110,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+20021,Northern,3,Counties Manukau,32,Middlemore Hospital,Facilities and Engineering Project Team Offices,Industrial,1940,1,0,1,86,NO DATA,NO DATA,0.95,A,IL2,Low Zone
+20032,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 50 Dirty Linen  / Waste,Administration,1960,1,0,1,38,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+20038,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 62 Bike Shed,Administration,1978,1,0,1,35,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+30014,Northern,3,Counties Manukau,32,Middlemore Hospital,Transformer (Partly Demoloshed),Industrial,1994,1,0,1,31,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+20036,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 60 Medical AirManpacks,Industrial,1978,1,0,1,29,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+20024,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 29 Water Care Building,Industrial,1978,1,0,1,22,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+20026,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 34 Smoke Free Services,Administration,1978,1,0,1,20,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+20031,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 49 Garage Store Shed,Administration,1985,1,0,1,19,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+20020,Northern,3,Counties Manukau,32,Middlemore Hospital,Facilities and Engineering Project Offices,Industrial,1940,1,0,1,17,NO DATA,NO DATA,0.95,A,IL2,Low Zone
+20030,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 48 Waste  / Linen Shed,Administration,2003,1,0,1,13,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+20033,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 53 Trade Workshop,Industrial,2010,1,1,2,4,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+20025,Northern,3,Counties Manukau,32,Middlemore Hospital,Building 33 VIE Enclosure,Industrial,1978,0,0,0,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+20019,Northern,3,Counties Manukau,32,Middlemore Hospital,Danger Goods Store,Industrial,2011,1,0,1,0,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+10328,Northern,3,Counties Manukau,35,Papakura,Papakura Birthing Unit,Hospital,1890,1,1,2,639,Average,2.23,0.7,B,IL3,Low Zone
+20058,Northern,3,Counties Manukau,35,Papakura,Papakura Birthing Unit - Consultation building,Hospital,1890,1,0,1,501,NO DATA,NO DATA,0.8,A,IL3,Low Zone
+20056,Northern,3,Counties Manukau,35,Papakura,Awhinatia Centre (front building),Mental Health,1985,1,0,1,293,NO DATA,NO DATA,1.01,A+,IL3,Low Zone
+20055,Northern,3,Counties Manukau,35,Papakura,Awhinatia Centre (back building),Hospital,1982,1,0,1,0,NO DATA,NO DATA,1.01,A+,IL3,Low Zone
+10329,Northern,3,Counties Manukau,36,Pukekohe,Pukekohe Hospital,Hospital,1952,2,0,2,3893,Average,2.01,0.65,C,IL3,Low Zone
+20061,Northern,3,Counties Manukau,36,Pukekohe,Pukekohe Hospital - Plantroom building,Industrial,1955,1,0,1,658,NO DATA,NO DATA,0.3,D,IL3,Low Zone
+10330,Northern,3,Counties Manukau,37,Waiuku,Franklin Memorial Hospital,Hospital,1930,1,0,1,1095,Average,2.4,0.25,D,IL3,Low Zone
+20062,Northern,3,Counties Manukau,37,Waiuku,Fire Pump House 19 - FP,Industrial,1922,1,0,1,190,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10331,Central,10,Hawke's Bay,38,Central Hawke's Bay Health,CHB Health Centre Leased,Hospital,1998,,,0,1850,NO DATA,NO DATA,1,A,IL4,High Zone
+10341,Central,10,Hawke's Bay,39,Flaxmere Community Health,Flaxmere Community Health,Hospital,1982,1,,1,260,Average,2.13,NSA,NA,IL3,High Zone
+10361,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Emergency Department (ED),Hospital,1983,1,0,1,-,Average,2.09,0.88,A,IL4,High Zone
+30017,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Pauawananga Building - Secure Wing,Nil,1994,1,0,1,-,NO DATA,NO DATA,0.85,A,IL3,High Zone
+10349,Central,10,Hawke's Bay,40,Hawke's Bay Hospital, B Block,Hospital,1968,5,,5,3829,Average,2.44,0.8,A,IL3,High Zone
+10379,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Theatre,Hospital,1997,1,1,2,2965,Average,2.09,0.4,C,IL4,High Zone
+10358,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Corporate Building (Leased),Administration,2004,,,0,2788,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10346,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,AAU Building,#N/A,1980,2,0,2,2757,Very Good,0.92,0.35,C,IL3,High Zone
+10348,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Puawananga Building,Hospital,1975,1,0,1,2599,Good,1.94,0.41,C,IL2,High Zone
+10376,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Ngā Rau Rākau,Mental Health,2016,2,1,3,2477,Very Good,1,1,A,IL3,High Zone
+30015,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Laboratory,Administration,1997,2,1,3,2136,NO DATA,NO DATA,0.7,B,IL4,High Zone
+10347,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,AB Block,Hospital,1958,5,1,6,1973,Average,2.61,1,A,IL3,High Zone
+10355,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Cashmore Building,Administration,1959,3,0,3,1884,Good,1.55,0.54,C,IL2,High Zone
+10367,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Ruakopito,Hospital,2018,1,0,1,1850,Very Good,1,1,A,IL3,High Zone
+10389,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,AT&R (Therapies & Rehabilitation),Hospital,1984,1,0,1,1772,Good,1.56,1,A,IL3,High Zone
+10381,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Procurement Warehouse Leased,Administration,2009,,,0,1400,NO DATA,NO DATA,NSA,NA,IL4,High Zone
+10382,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Radiology,Hospital,1983,1,0,1,1398,Average,2.41,0.34,C,IL4,High Zone
+10350,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Kia Ngawari- Ballantyne House (Dialysis),#N/A,1940,1,0,1,1166,Very Good,0.67,0.78,B,IL3,High Zone
+10380,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Physiotherapy,Administration,1983,1,1,2,1141,Good,1.74,0.4,C,IL3,High Zone
+30016,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Māori Health Unit,Residential,1941,3,0,3,1096,NO DATA,NO DATA,0.82,A,IL2,High Zone
+10393,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 2 - Cardiology,Hospital,1940,2,0,2,1024,Good,1.65,0.87,A,IL3,High Zone
+10402,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,West Wing,Administration,1965,1,0,1,1005,Good,1.49,0.89,A,IL3,High Zone
+10373,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Laboratory,Administration,1983,2,1,3,891,Poor,3.03,0.65,C,IL4,High Zone
+10371,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Intensive Care Unit (ICU),Hospital,1996,1,0,1,861,Good,1.93,0.4,C,IL4,High Zone
+10372,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Kitchen,Administration,1998,1,0,1,808,Good,1.57,0.73,B,IL4,High Zone
+10403,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Wilson House,Hospital,1940,1,0,1,765,Good,1.8,0.37,C,IL3,High Zone
+10375,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Māori Health Unit,Administration,1941,1,0,1,701,Good,1.59,0.35,C,IL2,High Zone
+10390,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Tutorial Building,Community Hospital,1940,2,0,2,682,Good,1.74,0.41,C,IL2,High Zone
+10354,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Te Honohono,Administration,1958,2,0,2,682,Good,1.83,0.68,B,IL3,High Zone
+10378,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Nga Punawai Aroha ,Mental Health,1960,1,0,1,679,Good,1.61,0.5,C,IL2,High Zone
+10397,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 6 - Oncology,Hospital,1940,1,0,1,655,Average,2.4,0.41,C,IL3,High Zone
+10384,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Special Care Baby Unit (SCBU),Hospital,1984,1,0,1,624,Average,2.06,0.4,C,IL4,High Zone
+10369,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Helicopter Hanger,Nil,2000,1,0,1,598,Very Good,0.79,1,A,IL4,High Zone
+10383,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Service Entry,Administration,1998,1,0,1,584,Good,1.64,0.94,A,IL2,High Zone
+10363,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Facilities Office,Administration,1940,1,0,1,471,Good,1.56,0.4,C,IL2,High Zone
+10368,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Harding Hall,Administration,1963,1,0,1,464,Good,2,0.41,C,IL2,High Zone
+10399,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 8 - Orthotics,Hospital,1940,1,0,1,446,Good,1.66,0.54,C,IL2,High Zone
+10374,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Maintenance Workshop,Industrial,1940,2,0,2,432,Very Good,0.58,1,A,IL3,High Zone
+10370,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Information Centre,Administration,1997,1,0,1,421,Good,1.16,0.9,A,IL2,High Zone
+10404,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Zac's Café,Administration,1997,1,0,1,397,Good,1.52,1,A,IL2,High Zone
+10398,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 7 - Paediatric Clinics,Hospital,1940,1,0,1,383,Average,2.18,0.4,C,IL3,High Zone
+10394,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 3 - Dentistry / Eye Clinic,Hospital,1997,1,0,1,382,Good,1.9,1,A,IL3,High Zone
+10391,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 1 - Orthopaedics,Hospital,1997,1,0,1,380,Good,1.44,0.35,C,IL3,High Zone
+10351,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Boiler House,Industrial,1958,1,0,1,378,Good,1.73,1,A,IL4,High Zone
+10395,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 4 - Urology / Gynaecology,Hospital,1997,1,0,1,371,Good,1.62,1,A,IL3,High Zone
+30018,Central,10,Hawke's Bay,40,Hawke's Bay Hospital, B Block - Waioha,Hospital,2016,1,,1,370,NO DATA,NO DATA,1,A,IL4,High Zone
+10400,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 9 - Child Development Unit (CDU),Hospital,1951,1,0,1,349,Good,1.71,0.4,C,IL2,High Zone
+10357,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Chiller Plant Room,Industrial,2014,1,1,2,340,Good,1.66,1,A,IL4,High Zone
+10345,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Te Kuhunga Ki Te Waiora (400 Omahu Road),Hospital,1940,1,0,1,335,Average,2.62,0.54,C,IL2,High Zone
+10392,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 16 - Diabetes Centre,Hospital,1956,1,0,1,294,Average,2.04,0.6,C,IL2,High Zone
+10387,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,307 Omahu Road (Te Ara Manapau),Hospital,1960,1,0,1,190,Good,1.4,NSA,NA,IL2,High Zone
+10356,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Chapel,Administration,1941,1,0,1,178,Good,1.65,0.83,A,IL2,High Zone
+10385,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,307 Omahu Road,Hospital,1960,1,0,1,173,Good,1.45,NSA,NA,IL2,High Zone
+10377,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Mortuary,Administration,1958,1,0,1,167,Good,1.3,0.95,A,IL2,High Zone
+10343,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Te Kākano Antenatal Clinic (398 Omahu Rd),Hospital,1940,1,0,1,148,Good,1.57,0.48,C,IL2,High Zone
+10360,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Store,Administration,2000,1,,1,144,Good,1.4,1,A,IL2,High Zone
+10386,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,307 Omahu Road,Nil,1960,1,0,1,132,Good,1.45,NSA,NA,IL2,High Zone
+10396,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Villa 5 - Audiology,Hospital,1997,1,0,1,131,Good,1.53,1,A,IL3,High Zone
+10388,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,307 Omahu Road,Parking,1960,1,0,1,57,Good,1.45,NSA,NA,IL1,High Zone
+10364,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Fleet Services,Administration,2014,1,0,1,55,Good,1.04,1,A,IL2,High Zone
+10359,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Dangerous Goods,Administration,2011,1,0,1,27,Very Good,0.55,NULL,NA,IL4,High Zone
+10362,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,Plant Room (adjacent to AT&R),Industrial,1978,1,0,1,27,Good,1.4,NSA,NA,IL1,High Zone
+10353,Central,10,Hawke's Bay,40,Hawke's Bay Hospital,"Bus Shelter, Omahu Rd (Historic)",Nil,1922,1,0,1,19,Good,1.6,0.55,C,IL2,High Zone
+10334,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Hastings Central School Dental Clinic,Hospital,2010,1,,1,136,Very Good,0.79,NSA,NA,IL2,High Zone
+10335,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Hastings Mahora School Dental Clinic,Hospital,2010,1,,1,136,Very Good,0.79,NSA,NA,IL2,High Zone
+10338,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Napier Tamatea Intermediate School Dental,Hospital,2011,1,,1,136,Very Good,0.79,NSA,NA,IL2,High Zone
+10340,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Wairoa College Dental Clinic,Hospital,2012,1,,1,136,Very Good,0.79,NSA,NA,IL2,High Zone
+10332,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Flaxmere Community Dental Leased,Hospital,2012,,,0,111,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10336,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Havelock North Intermediate School Dental,Hospital,2011,1,,1,88,Very Good,0.79,NSA,NA,IL2,High Zone
+10337,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Napier Onekawa Primary School Dental,Hospital,2011,1,,1,88,Very Good,0.79,NSA,NA,IL2,High Zone
+10339,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Waipukurau Primary School Dental Clinic,Hospital,2012,1,,1,88,Very Good,0.79,NSA,NA,IL2,High Zone
+10333,Central,10,Hawke's Bay,118,HBDHB Community - Dental,Greenmeadows Primary School Dental Clinic Leased,Hospital,1978,,,0,0,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10406,Central,10,Hawke's Bay,41,Napier Health,Napier Health Centre (Leased),Hospital,2000,2,0,2,5060,NO DATA,NO DATA,0.5,C,IL3,High Zone
+10407,Central,10,Hawke's Bay,41,Napier Health,Springhill Residential Centre Leased,Hospital,1978,,,0,0,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10408,Central,10,Hawke's Bay,42,Pōrangahau,Flats - Kahira House,Residential,1978,,,0,225,Good,1.85,NSA,NA,IL2,High Zone
+10411,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,D Block,Community Hospital,1972,2,1,3,3121,Good,1.88,0.55,C,IL3,High Zone
+10412,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,Francis Kimble-Community Health,Residential,1960,2,1,3,1684,Average,2.55,0.44,C,IL2,High Zone
+10410,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,C Block Mortuary / Admin,Hospital,1958,2,1,3,1334,Good,1.79,1,A,IL3,High Zone
+10414,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,B Block,#N/A,1965,1,1,2,1291,Good,1.47,0.37,C,IL2,High Zone
+10413,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,Integrated Family Health Centre,Community Hospital,2015,1,0,1,924,Very Good,0.58,1,A,IL3,High Zone
+10409,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,81 Lucknow Street,Residential,1950,,,0,173,Good,1.65,NSA,NA,IL2,High Zone
+10415,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,St John's Ambulance / Residence,Administration,1940,1,0,1,128,Good,1.81,0.63,C,IL2,High Zone
+10416,Central,10,Hawke's Bay,43,Wairoa Hospital & Health Centre,St John's Ambulance Garage,Parking,1990,1,,1,0,Very Good,0.55,1,A,IL4,High Zone
+10423,Central,12,Hutt Valley,44,Hutt Hospital,Heretaunga Block,Hospital,1974,8,1,9,18630,Average,2.36,0.43,C,IL3,High Zone
+10426,Central,12,Hutt Valley,44,Hutt Hospital,New EDT,Hospital,2010,3,1,4,11450,Good,1.12,1,A,IL4,High Zone
+10419,Central,12,Hutt Valley,44,Hutt Hospital,Clocktower (Wards),Hospital,1942,3,1,4,6091,Good,1.97,0.4,C,IL2,High Zone
+10418,Central,12,Hutt Valley,44,Hutt Hospital,Carpark Building,Parking,2009,3,,3,5670,Very Good,0.6,1,A,IL2,High Zone
+10428,Central,12,Hutt Valley,44,Hutt Hospital,Pilmuir House,Administration,1944,3,,3,5339,Average,2.9,0.6,C,IL2,High Zone
+10420,Central,12,Hutt Valley,44,Hutt Hospital,Community Health Building (CHB),Hospital,1968,4,1,5,4914,Poor,3.06,1,A,IL2,High Zone
+10417,Central,12,Hutt Valley,44,Hutt Hospital,Care Block,Hospital,1984,3,1,4,3638,Average,2.5,0.35,C,IL3,High Zone
+11222,Central,12,Hutt Valley,44,Hutt Hospital,Supply / Linen,Administration,1942,1,,1,3233,Poor,3.1,1,A,IL2,High Zone
+10424,Central,12,Hutt Valley,44,Hutt Hospital,Kitchen & Cafeteria,Administration,1942,2,,2,3233,Poor,3.6,0.36,C,IL2,High Zone
+10427,Central,12,Hutt Valley,44,Hutt Hospital,Old EDT,Hospital,1997,2,1,3,3214,Good,1.59,1,A,IL4,High Zone
+10430,Central,12,Hutt Valley,44,Hutt Hospital,Therapies  / Rehab,Hospital,1981,1,-,1,2626,Good,1.82,0.68,B,IL2,High Zone
+10429,Central,12,Hutt Valley,44,Hutt Hospital,Te Whare Ahuru Building (TWA),Mental Health,1997,1,,1,2026,Average,2.32,1,A,IL3,High Zone
+10421,Central,12,Hutt Valley,44,Hutt Hospital,F Block,Administration,1942,2,,2,1986,Good,1.38,0.4,C,IL2,High Zone
+10425,Central,12,Hutt Valley,44,Hutt Hospital,Kowhai House,Nil,1940,2,,2,683,Average,2.96,0.39,C,IL2,High Zone
+10422,Central,12,Hutt Valley,44,Hutt Hospital,Garages,Industrial,1940,1,,1,308,Average,2.39,1,A,IL3,High Zone
+10444,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Clinical Services CSB ,Hospital,1979,,,4,12000,Average,2.53,0.9,A,IL4,Medium Zone
+10469,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,"Whakaue Rauoranga (ED< Wards, ICU)",Hospital,2011,,,-,9000,Very Good,0.77,1,A,IL4,Medium Zone
+10437,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Bridgeman (North Wing),Hospital,1960,,,-,4012,Good,1.63,1,A,IL3,Medium Zone
+10459,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Ngāti Whakaue,Hospital,1968,,,-,4000,NO DATA,NO DATA,1,A,IL4,Medium Zone
+10432,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Acute Psychiatric Unit - Te Whare Oranga Tangata o Whakaue (Whare Whakaue),Mental Health,1976,,,1,2000,Average,2.4,0.67,B,IL4,Medium Zone
+10438,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Bridgeman (South Wing),Hospital,1955,,,-,1822,Good,1.85,1,A,IL3,Medium Zone
+10460,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,OPRS Elderly services,Hospital,1992,,,-,1500,Very Good,0.92,1,A,IL4,Medium Zone
+10436,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Bridgeman (West Wing),Administration,1956,,,-,1244,Good,1.84,1,A,IL3,Medium Zone
+10457,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Laboratory (+basement amenities),Administration,2010,,,-,1050,Very Good,0.74,1,A,IL4,Medium Zone
+10435,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Bridgeman (Kitchen),Administration,1955,,,-,832,Good,1.9,NSA,NA,IL4,Medium Zone
+10440,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Bulk Store,Industrial,1975,,,-,760,Good,1.63,0.34,C,IL3 ,Medium Zone
+10451,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Engineering Workshops,Industrial,1973,,,-,700,Good,1.96,NSA,NA,IL2,Medium Zone
+10463,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Perinatal  / SCBU Wing,Hospital,1995,,,-,600,Good,1.5,0.5,C,IL4,Medium Zone
+10454,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Geothermal exchange plant house,Industrial,1979,,,1,600,Average,2.29,0.34,C,IL3 ,Medium Zone
+10434,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Boiler House inc Computer Room,Industrial,1975,,,4,488,Average,2.49,1,A,IL3,Medium Zone
+20111,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Bridgeman (Central),Administration,1951,,,-,400,NO DATA,NO DATA,1,A,IL3,Medium Zone
+10458,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Mechanical Plant Room,Industrial,1979,,,-,300,Average,2.03,1,A,IL4,Medium Zone
+10462,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Paimarie (4 studio units) ,Residential,2006,,,-,292,Good,1.19,NSA,NA,IL2,Medium Zone
+10443,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Chapel & Gas Store,Administration,1975,,,-,284,Good,1.13,1,A,IL3,Medium Zone
+10467,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Renal Dialysis Unit,Administration,1970,,,-,250,Good,1.65,0.75,B,IL4,Medium Zone
+10433,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Board Room,Administration,1975,,,-,188,Good,1.43,NSA,NA,IL2,Medium Zone
+10442,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Carpenter's & Plumber's W / S,Industrial,1970,,,-,175,Good,1.99,NSA,NA,IL2,Medium Zone
+10461,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Paimarie (2 bed unit),Residential,1993,,,-,158,Very Good,0.98,NSA,NA,IL2,Medium Zone
+10464,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,"Rangiuru St, MHSOP",Mental Health,1972,,,-,146,Good,1.95,NSA,NA,IL2,Medium Zone
+10441,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Cafeteria,Administration,2009,,,-,140,Good,1.2,NSA,NA,IL2,Medium Zone
+10448,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Doctor's Unit One (2x1 bed unit),Residential,1976,,,-,123,Good,1.33,NSA,NA,IL2,Medium Zone
+10455,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,House Surgeon Quarters,Residential,1975,,,-,115,Good,1.35,NSA,NA,IL2,Medium Zone
+10449,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Doctor's Unit Three (2x1 bed unit),Residential,1976,,,-,113,Good,1.42,NSA,NA,IL2,Medium Zone
+10450,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Doctor's Unit Two (2x1 bed unit),Residential,1976,,,-,113,Good,1.6,NSA,NA,IL2,Medium Zone
+10465,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,"Rangiuru St, Sanctuary MH",Administration,1972,,,-,98,Very Good,0.6,NSA,NA,IL2,Medium Zone
+10466,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,"Rangiuru St, Sexual Health",Hospital,1972,,,-,98,Very Good,0.9,NSA,NA,IL2,Medium Zone
+10439,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Bridgeman F (Plant..),Industrial,1960,,,-,90,Good,1.02,0.72,B,IL3,Medium Zone
+10452,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Gardening Garage ,Industrial,1970,,,-,89,Good,1.36,NSA,NA,IL2,Medium Zone
+10447,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,DNS Lockwood,Administration,1994,,,-,80,Very Good,0.65,NSA,NA,IL2,Medium Zone
+10446,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,DNS Brown building,Administration,2005,,,-,80,Very Good,0.79,NSA,NA,IL2,Medium Zone
+10445,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Dangerous Goods Store,Industrial,1975,,,-,80,Very Good,0.8,NSA,NA,IL2,Medium Zone
+10431,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,"2 Ranolf St, Offices in House",Administration,1940,,,-,70,Good,1.35,NSA,NA,IL2,Medium Zone
+10456,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Implement Shed,Industrial,1975,,,-,54,Good,1.87,NSA,NA,IL2,Medium Zone
+10453,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Gardening Office ,Administration,1970,,,-,48,Good,1.36,NSA,NA,IL2,Medium Zone
+10468,Te Manawa Taki,15,Lakes,28,Rotorua Hospital,Shed Beside Bulk Store,Industrial,2008,,,-,24,NO DATA,NO DATA,NSA,NA,IL2,Medium Zone
+10479,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Taupo Main Hospital Building,Hospital,1969,,,-,1258,Good,1.97,0.8,A,IL4,Medium Zone
+10478,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Mental health (was maternity),Mental Health,1972,,,-,500,Good,1.3,1,A,IL3,Medium Zone
+10470,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Boiler House  / Storage,Industrial,1968,,,-,450,Good,1.66,1,A,IL3,Medium Zone
+20110,Te Manawa Taki,15,Lakes,45,Taupo Hospital,MRI Building,Administration,2005,,,-,330,NO DATA,NO DATA,0.2,D,IL3,Medium Zone
+10473,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Dwelling One used as Offices  / DNS,Administration,1970,,,-,107,Good,1.55,NSA,NA,IL2,Medium Zone
+10474,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Dwelling Three (PH),Administration,1970,,,-,104,Good,1.43,NSA,NA,IL2,Medium Zone
+10475,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Dwelling Two,Residential,1970,,,-,104,Good,1.7,NSA,NA,IL2,Medium Zone
+10471,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Dental Clinic,Hospital,2009,,,-,97,Very Good,0.93,NSA,NA,IL2,Medium Zone
+10477,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Gardeners Shed,Industrial,1970,,,-,91,Good,1.45,NSA,NA,IL2,Medium Zone
+10472,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Dwelling Four,Residential,1970,,,-,73,Good,1.7,NSA,NA,IL2,Medium Zone
+10476,Te Manawa Taki,15,Lakes,45,Taupo Hospital,"Garage, Single",Industrial,1970,,,-,24,Very Good,0.6,NSA,NA,IL2,Medium Zone
+10480,Te Manawa Taki,15,Lakes,45,Taupo Hospital,Water Pump Building,Industrial,1970,,,-,24,Very Good,0.75,1,A,IL3,Medium Zone
+10484,Central,9,Mid Central,46,Heretaunga Street,Junior Doctor's Residences,Residential,1963,#N/A,#N/A,#N/A,708,Average,2.01,0.37,C,IL2,High Zone
+10483,Central,9,Mid Central,46,Heretaunga Street,73 Heretaunga Street,Residential,1930,1,0,1,200,Good,1.6,0.33,D,IL2,High Zone
+10485,Central,9,Mid Central,47,Horowhenua Health Centre,Horowhenua Health Centre (Levin),Hospital,2006,1,0,1,5664,Average,2.13,1,A,IL4,High Zone
+10481,Central,9,Mid Central,119,MCDHB Community - Dental,Intermediate Normal School,Hospital,2012,#N/A,#N/A,#N/A,90,Very Good,0.98,NSA,NA,IL2,High Zone
+10482,Central,9,Mid Central,119,MCDHB Community - Dental,Ross Intermediate School,Hospital,2012,#N/A,#N/A,#N/A,90,Good,1.12,NSA,NA,IL2,High Zone
+10490,Central,9,Mid Central,48,Palmerston North Hospital,Board Communications,Administration,1953,1,0,1,-,Good,1.89,1,A,IL2,High Zone
+30019,Central,9,Mid Central,48,Palmerston North Hospital,Campus Infrastructure,Administration,1978,#N/A,#N/A,#N/A,-,Average,3,,,IL4,
+30022,Central,9,Mid Central,48,Palmerston North Hospital,Main Antrim ,Nil,1978,-,-,-,-,NO DATA,NO DATA,0.68,C,IL3,High Zone
+30020,Central,9,Mid Central,48,Palmerston North Hospital,Main Corridor,Nil,1978,2,1,3,-,NO DATA,NO DATA,0.33,D,IL4,High Zone
+30021,Central,9,Mid Central,48,Palmerston North Hospital,Roof Plant Space ,Nil,1978,1,0,1,-,NO DATA,NO DATA,0.33,D,IL4,High Zone
+10499,Central,9,Mid Central,48,Palmerston North Hospital,"ED, Main Entrance - (B Block)",Hospital,2001,5,1,6,16797,Average,2.85,0.4,C,IL4,High Zone
+10508,Central,9,Mid Central,48,Palmerston North Hospital,Kitchen Block H,Administration,1975,2,1,3,6785,Average,2.87,0.53,C,IL3,High Zone
+10531,Central,9,Mid Central,48,Palmerston North Hospital,Women's / Children's (C Block),Hospital,2002,3,1,4,6773,Good,1.55,0.4,C,IL4,High Zone
+10498,Central,9,Mid Central,48,Palmerston North Hospital,"ED, Main Entrance - (A Block)",Hospital,2001,2,1,3,6292,Average,2.4,0.5,C,IL4,High Zone
+10513,Central,9,Mid Central,48,Palmerston North Hospital,Main Laundry & Extension,Administration,1968,2,1,3,4654,Average,2.61,0.4,C,IL4,High Zone
+10488,Central,9,Mid Central,48,Palmerston North Hospital,Block D,Hospital,2001,1,0,1,4153,Average,2.45,1,A,IL3,High Zone
+10501,Central,9,Mid Central,48,Palmerston North Hospital,Rehabilitation,Hospital,1972,1,1,2,2987,Average,2.08,0.38,C,IL3,High Zone
+10512,Central,9,Mid Central,48,Palmerston North Hospital,Link Block,Administration,2000,3,1,4,2064,Average,2.2,0.6,C,IL3,High Zone
+10516,Central,9,Mid Central,48,Palmerston North Hospital,Northside,Hospital,1966,1,1,2,1979,Average,2.55,0.45,C,IL3,High Zone
+10489,Central,9,Mid Central,48,Palmerston North Hospital,Blood Donors,Hospital,1990,2,1,3,1951,Average,2.32,0.34,C,IL3,High Zone
+10491,Central,9,Mid Central,48,Palmerston North Hospital,Board Extensions,Administration,1953,2,0,2,1706,Good,1.95,0.76,B,IL2,High Zone
+10526,Central,9,Mid Central,48,Palmerston North Hospital,Service Tunnels to Boiler House & Kitchen Block,Industrial,1978,0,1,1,1580,Average,2.78,0.72,B,IL4,High Zone
+10492,Central,9,Mid Central,48,Palmerston North Hospital,Board Office,Administration,1925,1,0,1,1551,Good,1.91,0.34,C,IL4,High Zone
+10532,Central,9,Mid Central,48,Palmerston North Hospital,Workshops,Industrial,1961,1,0,1,1474,Average,2.42,0.57,C,IL3,High Zone
+10511,Central,9,Mid Central,48,Palmerston North Hospital,Linear Accelerator,Hospital,2001,2,0,2,1452,Average,2.96,0.68,B,IL3,High Zone
+10494,Central,9,Mid Central,48,Palmerston North Hospital,Boiler House,Industrial,1975,1,1,2,1353,Average,2.76,0.35,C,IL4,High Zone
+10524,Central,9,Mid Central,48,Palmerston North Hospital,Ruahine House,Hospital,1945,2,1,3,1266,Average,2.37,0.86,A,IL3,High Zone
+10525,Central,9,Mid Central,48,Palmerston North Hospital,Ruahine House (Community Village Building),Hospital,1978,2,1,3,1266,NO DATA,NO DATA,0.67,B,IL3,High Zone
+10500,Central,9,Mid Central,48,Palmerston North Hospital,Education Centre - 1973 Extension (Now Spotless office),Administration,1959,#N/A,#N/A,#N/A,1093,Average,2.03,0.67,B,IL2,High Zone
+10504,Central,9,Mid Central,48,Palmerston North Hospital,Hospital Administration Block,Administration,1935,2,1,3,1080,Average,2.02,1,A,IL2,High Zone
+10509,Central,9,Mid Central,48,Palmerston North Hospital,Konini Court (Community Village Building),Hospital,1976,2,0,2,658,Average,2.22,0.67,B,IL3,High Zone
+10528,Central,9,Mid Central,48,Palmerston North Hospital,Transitory Care (F Block),Hospital,1941,1,1,2,545,Average,2.67,0.42,C,IL3,High Zone
+10507,Central,9,Mid Central,48,Palmerston North Hospital,Kauri Court (Community Village Building),Hospital,1973,2,0,2,521,Good,1.86,0.67,B,IL3,High Zone
+10523,Central,9,Mid Central,48,Palmerston North Hospital,Rimu Court (Community Village Building),Hospital,1976,2,0,2,521,Good,1.88,0.67,B,IL3,High Zone
+10527,Central,9,Mid Central,48,Palmerston North Hospital,Totara Court (Community Village Building),Hospital,1973,2,0,2,521,Good,1.94,0.67,B,IL3,High Zone
+10510,Central,9,Mid Central,48,Palmerston North Hospital,Kowhai Court (Community Village Building),Hospital,1978,2,0,2,521,Good,1.99,0.67,B,IL3,High Zone
+10522,Central,9,Mid Central,48,Palmerston North Hospital,Rata Court (Community Village Building),Hospital,1973,2,0,2,521,Average,2.12,0.67,B,IL3,High Zone
+10515,Central,9,Mid Central,48,Palmerston North Hospital,Nikau Court (Community Village Building),Hospital,1976,2,0,2,521,Average,2.13,0.67,B,IL3,High Zone
+10505,Central,9,Mid Central,48,Palmerston North Hospital,Information Systems,Administration,1953,1,0,1,502,Good,1.77,0.38,C,IL3,High Zone
+10487,Central,9,Mid Central,48,Palmerston North Hospital,Ambulance Station,Administration,1936,1,0,1,374,Good,1.68,0.62,C,IL2,High Zone
+10486,Central,9,Mid Central,48,Palmerston North Hospital,73 Heretaunga Street - Extension Flats,Residential,1970,1,0,1,345,Very Good,0.9,0.56,C,IL2,High Zone
+10496,Central,9,Mid Central,48,Palmerston North Hospital,Clinical Records Block,Administration,2002,2,1,3,282,Good,1.12,0.68,B,IL3,High Zone
+10521,Central,9,Mid Central,48,Palmerston North Hospital,Rapuora,Administration,1943,1,1,2,237,Average,2.09,1,A,IL2,High Zone
+10506,Central,9,Mid Central,48,Palmerston North Hospital,Kahikatea (Community Village Building),Hospital,1974,1,0,1,231,Average,2.03,0.42,C,IL3,High Zone
+10495,Central,9,Mid Central,48,Palmerston North Hospital,Chapel,Administration,1967,0,0,0,195,Good,1.62,0.45,C,IL2,High Zone
+10497,Central,9,Mid Central,48,Palmerston North Hospital,Dangerous Goods Store,Industrial,1975,1,0,1,168,Average,2.35,0.5,C,IL4,High Zone
+10529,Central,9,Mid Central,48,Palmerston North Hospital,Vehicle Workshop,Industrial,1968,1,0,1,152,Average,2.29,0.2,D,IL3,High Zone
+10518,Central,9,Mid Central,48,Palmerston North Hospital,Old District Nurses,Hospital,1974,#N/A,#N/A,#N/A,150,Average,2.49,NSA,NA,IL2,High Zone
+10530,Central,9,Mid Central,48,Palmerston North Hospital,Water Tower,Industrial,1925,4,1,5,100,Poor,3.36,0.17,E,IL4,High Zone
+10493,Central,9,Mid Central,48,Palmerston North Hospital,Boiler Chimney,Industrial,1974,0,0,0,11,Good,2,0.35,C,IL4,High Zone
+10502,Central,9,Mid Central,48,Palmerston North Hospital,Ex.Grounds Dept (Medical Museum),Administration,1974,1,0,1,5,Poor,3.07,0.37,C,IL2,High Zone
+10503,Central,9,Mid Central,48,Palmerston North Hospital,Fleetwise Buildings (Education Block),Administration,1940,1,1,2,5,NO DATA,NO DATA,0.67,B,IL2,High Zone
+10514,Central,9,Mid Central,48,Palmerston North Hospital,Medical Gases Storage,Industrial,1925,1,1,2,0,Good,1.86,0.4,C,IL4,High Zone
+10533,Central,9,Mid Central,49,Rongopai Street,4 Rongopai Street,Mental Health,1940,1,0,1,200,Average,2.81,0.35,C,IL2,High Zone
+10534,Southern,14,Nelson Marlborough,50,Alexandra Hospital,Alexandra Hospital ,Community Hospital,1970,1,0,1,158,Good,1.8,NSA,NA,IL3,Medium Zone
+10554,Southern,14,Nelson Marlborough,52,Community - GP,Mapua Health Clinic,Community Hospital,1950,1,0,1,1730,Good,1.43,NSA,NA,IL2,Medium Zone
+10555,Southern,14,Nelson Marlborough,52,Community - GP,Tapawera Clinic,Community Hospital,1960,1,0,1,72,Average,2.63,NSA,NA,IL2,Medium Zone
+10556,Southern,14,Nelson Marlborough,52,Community - GP,Tapawera House,Residential,1962,1,0,1,57,Poor,3.57,NSA,NA,IL2,Medium Zone
+10557,Southern,14,Nelson Marlborough,53,Community - Residential,110 Toi Toi Street,Residential,1952,1,0,1,324,Good,1.57,NSA,NA,IL2,Medium Zone
+10561,Southern,14,Nelson Marlborough,53,Community - Residential,79 Halifax Street,Residential,1978,1,0,1,203,Good,1.25,NSA,NA,IL2,Medium Zone
+10560,Southern,14,Nelson Marlborough,53,Community - Residential,"67 Songer Street, Stoke",Residential,1968,1,0,1,165,Good,1.54,NSA,NA,IL2,Medium Zone
+10558,Southern,14,Nelson Marlborough,53,Community - Residential,110A Toi Toi Street - Flats,Residential,1952,1,0,1,103,Good,1.66,NSA,NA,IL2,Medium Zone
+10559,Southern,14,Nelson Marlborough,53,Community - Residential,22 Tasman Street - Flats ,Residential,1960,1,0,1,100,Good,1.35,NSA,NA,IL2,Medium Zone
+10563,Southern,14,Nelson Marlborough,54,Murchison Hospital and Health Centre (Campus),Murchison Staff Accomodation,Residential,2014,1,0,1,996,Very Good,0.55,NSA,NA,IL2,High Zone
+10562,Southern,14,Nelson Marlborough,54,Murchison Hospital and Health Centre (Campus),Murchison Community Hospital,Hospital,2007,1,0,1,89,Good,1.81,NSA,NA,IL3,High Zone
+,Southern,14,Nelson Marlborough,51,Nelson Hospital,Campus Infrastructure,Administration,1978,0,0,0,-,Average,3,,,IL4,
+10585,Southern,14,Nelson Marlborough,51,Nelson Hospital,George Manson (Main Block),Hospital,1960,8,0,8,6863,Very Poor,4.15,0.4,C,IL4,Medium Zone
+10573,Southern,14,Nelson Marlborough,51,Nelson Hospital,42 Franklyn Street,Administration,1920,1,0,1,5500,Good,1.6,NSA,NA,IL2,Medium Zone
+10589,Southern,14,Nelson Marlborough,51,Nelson Hospital,Paediatric Outpatients,Hospital,1980,1,0,1,5230,Good,1.6,NSA,NA,IL2,Medium Zone
+10549,Southern,14,Nelson Marlborough,51,Nelson Hospital,Summer House Project Office. ,Administration,1960,1,0,1,3135,Good,1.57,NSA,NA,IL2,Medium Zone
+10586,Southern,14,Nelson Marlborough,51,Nelson Hospital,ICU and Mortuary,Administration,2000,1,0,1,2375,Good,1.91,0.3,D,IL4,Medium Zone
+10587,Southern,14,Nelson Marlborough,51,Nelson Hospital,Inpatient,Hospital,2002,3,0,3,2350,Good,1.89,0.65,C,IL4,Medium Zone
+10584,Southern,14,Nelson Marlborough,51,Nelson Hospital,Emergency Dept.,Hospital,2002,1,1,2,2197,Good,1.78,0.3,D,IL4,Medium Zone
+10583,Southern,14,Nelson Marlborough,51,Nelson Hospital,Day Stay,Hospital,2002,1,1,2,1650,Good,1.56,Unknown,NA,IL3,Medium Zone
+10548,Southern,14,Nelson Marlborough,51,Nelson Hospital,Seminar Centre. ,Administration,1980,1,0,1,1250,Average,2.56,NSA,NA,IL3,Medium Zone
+10537,Southern,14,Nelson Marlborough,51,Nelson Hospital,Boiler House & Bunkers. ,Industrial,1960,1,0,1,987,Average,2.87,0.2,D,IL4,Medium Zone
+10580,Southern,14,Nelson Marlborough,51,Nelson Hospital,63 Tipahi Street,Mental Health,2000,1,0,1,920,Average,3,0.75,B,IL2,Medium Zone
+10544,Southern,14,Nelson Marlborough,51,Nelson Hospital,Mental Health Administration. ,Mental Health,1970,1,0,1,805,Good,1.83,NSA,NA,IL3,Medium Zone
+10591,Southern,14,Nelson Marlborough,51,Nelson Hospital,Radiology,Hospital,2002,2,0,2,770,NO DATA,NO DATA,0.55,C,IL4,Medium Zone
+10541,Southern,14,Nelson Marlborough,51,Nelson Hospital,Finance and Support. ,Administration,1980,1,0,1,705,Average,2.38,NSA,NA,IL3,Medium Zone
+10545,Southern,14,Nelson Marlborough,51,Nelson Hospital,Mental Health Community Team. ,Mental Health,1910,1,0,1,653,Good,1.45,NSA,NA,IL3,Medium Zone
+10543,Southern,14,Nelson Marlborough,51,Nelson Hospital,Kawai Clinic,Hospital,1970,2,0,2,646,Average,2.06,NSA,NA,IL3,Medium Zone
+10538,Southern,14,Nelson Marlborough,51,Nelson Hospital,DHB Office. ,Administration,1980,1,0,1,635,Average,2.03,NSA,NA,IL3,Medium Zone
+10547,Southern,14,Nelson Marlborough,51,Nelson Hospital,Regional Laundry. ,Administration,1980,1,1,2,623,Average,2.98,1,A,IL2,Medium Zone
+10540,Southern,14,Nelson Marlborough,51,Nelson Hospital,Engineering Workshop. ,Industrial,1980,1,0,1,583,Average,2.62,NSA,NA,IL2,Medium Zone
+10575,Southern,14,Nelson Marlborough,51,Nelson Hospital,53A Tipahi Street,Residential,1960,1,0,1,373,Good,1.42,NSA,NA,IL2,Medium Zone
+10576,Southern,14,Nelson Marlborough,51,Nelson Hospital,55A & B Tipahi Street,Residential,1959,1,1,2,370,Good,1.45,NSA,NA,IL2,Medium Zone
+10564,Southern,14,Nelson Marlborough,51,Nelson Hospital,128 Kawai Street,Administration,1950,1,0,1,354,Good,1.4,NSA,NA,IL2,Medium Zone
+10592,Southern,14,Nelson Marlborough,51,Nelson Hospital,Theatres & Recovery Rooms,Hospital,1998,1,1,2,310,Average,2.91,0.4,C,IL4,Medium Zone
+10574,Southern,14,Nelson Marlborough,51,Nelson Hospital,49 Tipahi Street,Administration,1925,1,0,1,257,Good,1.95,NSA,NA,IL2,Medium Zone
+10546,Southern,14,Nelson Marlborough,51,Nelson Hospital,Organisational Development. ,Administration,1980,1,0,1,253,Average,2.18,NSA,NA,IL3,Medium Zone
+10550,Southern,14,Nelson Marlborough,51,Nelson Hospital,Transport Building,Administration,1990,1,0,1,200,Good,1.45,NSA,NA,IL2,Medium Zone
+10579,Southern,14,Nelson Marlborough,51,Nelson Hospital,61 Tipahi Street - Flats 6,Residential,1973,1,0,1,191,Good,1.44,NSA,NA,IL2,Medium Zone
+10572,Southern,14,Nelson Marlborough,51,Nelson Hospital,"153 Kawai Street, Offices",Community Hospital,1950,1,0,1,185,Good,1.31,NSA,NA,IL2,Medium Zone
+10577,Southern,14,Nelson Marlborough,51,Nelson Hospital,57 Tipahi Street,Administration,1970,1,0,1,160,Good,1.05,NSA,NA,IL2,Medium Zone
+10578,Southern,14,Nelson Marlborough,51,Nelson Hospital,59 Tipahi Street,Residential,1969,1,0,1,155,Good,1.44,NSA,NA,IL2,Medium Zone
+10570,Southern,14,Nelson Marlborough,51,Nelson Hospital,150 Kawai Street,Administration,1950,1,0,1,140,Average,2.31,NSA,NA,IL2,Medium Zone
+10568,Southern,14,Nelson Marlborough,51,Nelson Hospital,134A & B Kawai Street,Residential,1950,1,1,2,140,Average,2.35,NSA,NA,IL2,Medium Zone
+10569,Southern,14,Nelson Marlborough,51,Nelson Hospital,148 Kawai Street,Administration,1950,1,0,1,136,Average,2.04,NSA,NA,IL2,Medium Zone
+10582,Southern,14,Nelson Marlborough,51,Nelson Hospital,After Hours GP Building ,Community Hospital,2008,1,0,1,134,Very Good,0.55,NSA,NA,IL3,Medium Zone
+10542,Southern,14,Nelson Marlborough,51,Nelson Hospital,Groundsman Shelter. ,Industrial,1978,1,0,1,127,Good,1.8,NSA,NA,IL1,Medium Zone
+10571,Southern,14,Nelson Marlborough,51,Nelson Hospital,152 / 154 Kawai Street,Administration,1950,1,0,1,125,Good,1.75,NSA,NA,IL2,Medium Zone
+10588,Southern,14,Nelson Marlborough,51,Nelson Hospital,Nelson Dental Clinic,Hospital,2008,1,0,1,121,Very Good,0.57,NSA,NA,IL2,Medium Zone
+10590,Southern,14,Nelson Marlborough,51,Nelson Hospital,Percy Brunette Block,Hospital,1978,7,0,7,113,Poor,3.08,0.35,C,IL4,Medium Zone
+10565,Southern,14,Nelson Marlborough,51,Nelson Hospital,130 Kawai Street,Administration,1950,1,0,1,110,Average,2.75,NSA,NA,IL2,Medium Zone
+10567,Southern,14,Nelson Marlborough,51,Nelson Hospital,134 Kawai Street,Administration,1950,1,0,1,101,Average,2.5,NSA,NA,IL2,Medium Zone
+10566,Southern,14,Nelson Marlborough,51,Nelson Hospital,132 Kawai Street,Administration,1950,1,1,2,98,Average,2.31,NSA,NA,IL2,Medium Zone
+10539,Southern,14,Nelson Marlborough,51,Nelson Hospital,Emergency Reservoir with pump house,Industrial,1980,1,0,1,68,Good,1.4,0.67,B,IL4,Medium Zone
+10536,Southern,14,Nelson Marlborough,51,Nelson Hospital,Archives Store,Administration,1990,1,0,1,45,Good,1.43,NSA,NA,IL2,Medium Zone
+10535,Southern,14,Nelson Marlborough,51,Nelson Hospital,Allied Health / OT Store,Industrial,2013,1,0,1,0,Good,1.43,NSA,NA,IL2,Medium Zone
+10552,Southern,14,Nelson Marlborough,120,NMDHB Community - Dental,Richmond Dental Clinic,Hospital,2010,1,0,1,169,Very Good,0.57,NSA,NA,IL2,Medium Zone
+10551,Southern,14,Nelson Marlborough,120,NMDHB Community - Dental,Motueka Dental Clinic,Hospital,2010,1,0,1,127,Very Good,0.57,NSA,NA,IL2,Medium Zone
+10553,Southern,14,Nelson Marlborough,120,NMDHB Community - Dental,Stoke Dental Clinic,Hospital,2010,1,0,1,107,Very Good,0.73,NSA,NA,IL2,Medium Zone
+10597,Southern,14,Nelson Marlborough,55,Wairau Hospital,40 Hospital Road,Residential,1960,1,0,1,-,Average,2.08,NSA,NA,IL2,High Zone
+10596,Southern,14,Nelson Marlborough,55,Wairau Hospital,38 Hospital Road,Residential,1970,1,0,1,-,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10608,Southern,14,Nelson Marlborough,55,Wairau Hospital,Graham Smart Theatre Suite including Day Stay,Hospital,1995,1,0,1,5512,Average,2.57,NSA,NA,IL4,High Zone
+10605,Southern,14,Nelson Marlborough,55,Wairau Hospital,Boiler House  / Plant Room,Industrial,1987,1,0,1,3955,Poor,3.5,NSA,NA,IL4,High Zone
+10610,Southern,14,Nelson Marlborough,55,Wairau Hospital,Main Hospital (New),Hospital,2011,1,1,2,3555,Average,3,NSA,NA,IL4,High Zone
+10604,Southern,14,Nelson Marlborough,55,Wairau Hospital,Arthur Wicks Building,Hospital,1976,2,1,3,2104,Good,1.65,1,A,IL4,High Zone
+10601,Southern,14,Nelson Marlborough,55,Wairau Hospital,Administration and Nurses Home,Nil,1918,0,0,0,1685,NO DATA,NO DATA,NSA,NA,IL1,High Zone
+10613,Southern,14,Nelson Marlborough,55,Wairau Hospital,Mortuary,Administration,1950,1,0,1,730,Good,1.75,0.2,D,IL4,High Zone
+10616,Southern,14,Nelson Marlborough,55,Wairau Hospital,Workshop Amenities,Industrial,1960,1,0,1,600,Average,2.29,NSA,NA,IL2,High Zone
+10615,Southern,14,Nelson Marlborough,55,Wairau Hospital,Store: Inwards and Outwards Goods ,Administration,1987,1,0,1,590,Good,1.45,NSA,NA,IL2,High Zone
+10603,Southern,14,Nelson Marlborough,55,Wairau Hospital,Ambulance Bay and Garage,Industrial,1980,1,0,1,475,Average,2.3,NSA,NA,IL2,High Zone
+10611,Southern,14,Nelson Marlborough,55,Wairau Hospital,Marlborough Dental Clinic,Hospital,1978,1,0,1,370,Good,1.02,NSA,NA,IL2,High Zone
+10594,Southern,14,Nelson Marlborough,55,Wairau Hospital,32 Hospital Road,Residential,1960,1,0,1,299,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10607,Southern,14,Nelson Marlborough,55,Wairau Hospital,Former Pharmacy: Records Annex,Administration,1930,1,0,1,274,Average,2.06,0.4,C,IL2,High Zone
+10593,Southern,14,Nelson Marlborough,55,Wairau Hospital,30 Hospital Road,Residential,1930,1,1,2,273,Average,2.94,NSA,NA,IL2,High Zone
+10602,Southern,14,Nelson Marlborough,55,Wairau Hospital,After Hours GP Facility,Community Hospital,1960,1,0,1,240,Good,1.21,NSA,NA,IL2,High Zone
+10612,Southern,14,Nelson Marlborough,55,Wairau Hospital,"Mental Heath, Old Churchill & MOG Building ",Mental Health,1988,1,0,1,213,Average,2.02,NSA,NA,IL3,High Zone
+10598,Southern,14,Nelson Marlborough,55,Wairau Hospital,42 Hospital Road,Residential,1986,1,0,1,213,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10617,Southern,14,Nelson Marlborough,55,Wairau Hospital,Workshops ,Industrial,1950,1,0,1,165,Poor,3.26,0.2,D,IL2,High Zone
+10614,Southern,14,Nelson Marlborough,55,Wairau Hospital,Staff Recreation ,Administration,1970,1,0,1,156,Good,1.57,0.4,C,IL3,High Zone
+10606,Southern,14,Nelson Marlborough,55,Wairau Hospital,CAMHS ,Community Hospital,1987,1,0,1,143,Good,1.45,NSA,NA,IL3,High Zone
+10599,Southern,14,Nelson Marlborough,55,Wairau Hospital,44 Hospital Road ,Residential,1986,1,0,1,110,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10600,Southern,14,Nelson Marlborough,55,Wairau Hospital,46 Hospital Road,Residential,1970,1,0,1,110,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10595,Southern,14,Nelson Marlborough,55,Wairau Hospital,36 Hospital Road,Residential,1970,1,0,1,97,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10609,Southern,14,Nelson Marlborough,55,Wairau Hospital,Kitchen,Administration,2011,1,0,1,70,Very Good,0.55,NSA,NA,IL2,High Zone
+10629,Northern,11,Northland,56,Bay of Islands Hospital,Infrastructure,Industrial,1978,,,-,-,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+10630,Northern,11,Northland,56,Bay of Islands Hospital,Kitchen ,Administration,1982,,,-,0,Very Good,0.55,NSA,NA,IL2,Low Zone
+10631,Northern,11,Northland,56,Bay of Islands Hospital,Laboratory (Ex Physio),Administration,1979,,,-,0,Good,1.69,NSA,NA,IL3,Low Zone
+10619,Northern,11,Northland,56,Bay of Islands Hospital,Clinical Records (Ex Workshop),Administration,1961,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10633,Northern,11,Northland,56,Bay of Islands Hospital,Main Hospital (new),Hospital,2018,,,-,0,Very Good,1,NSA,NA,IL3,Low Zone
+10632,Northern,11,Northland,56,Bay of Islands Hospital,Main Hospital - General ward No longer used,Hospital,1951,,,-,0,Poor,3.35,0.3,D,IL2,Low Zone
+10620,Northern,11,Northland,56,Bay of Islands Hospital,Community Nursing & Mental Health,Hospital,1960,,,-,0,Poor,3.53,NSA,NA,IL2,Low Zone
+10637,Northern,11,Northland,56,Bay of Islands Hospital,Workshop / Generator / Ex Boiler House,Industrial,1970,,,-,0,Good,1.17,NSA,NA,IL3,Low Zone
+10636,Northern,11,Northland,56,Bay of Islands Hospital,Whanau Day Room - not fit for occupancy,Nil,1959,,,-,0,NO DATA,NO DATA,0.38,C,IL1,Low Zone
+10623,Northern,11,Northland,56,Bay of Islands Hospital,Garage 3 & 4: Hospital Rd,Residential,1960,,,-,0,Good,1.6,NSA,NA,IL1,Low Zone
+10621,Northern,11,Northland,56,Bay of Islands Hospital,Garage 1 & 2: Hospital Rd,Residential,1960,,,-,0,Good,1.8,NSA,NA,IL1,Low Zone
+10622,Northern,11,Northland,56,Bay of Islands Hospital,Garage 10: 1 Hospital Rd,Residential,1960,,,-,0,Good,1.8,NSA,NA,IL1,Low Zone
+10625,Northern,11,Northland,56,Bay of Islands Hospital,House 10: 1 Hospital Rd,Residential,1960,,,-,0,Average,2.13,NSA,NA,IL2,Low Zone
+10626,Northern,11,Northland,56,Bay of Islands Hospital,House 8: Below Community Health,Residential,1960,,,-,0,Average,2.23,NSA,NA,IL2,Low Zone
+10627,Northern,11,Northland,56,Bay of Islands Hospital,Houses 1 & 2: Hospital Rd (Joined),Residential,1960,,,-,0,Average,2.23,NSA,NA,IL2,Low Zone
+10628,Northern,11,Northland,56,Bay of Islands Hospital,Houses 3 & 4: Hospital Rd (Joined),Residential,1960,,,-,0,Average,2.23,NSA,NA,IL2,Low Zone
+10624,Northern,11,Northland,56,Bay of Islands Hospital,Garage to Community Nursing,Residential,1960,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10821,Northern,11,Northland,58,Community - SMHS,Friendship House - Community Addictions Services,Hospital,1947,,,-,137,NO DATA,NO DATA,0.6,C,IL2,High Zone
+10645,Northern,11,Northland,58,Community - SMHS,"245 Commerce St, House 7 Kaitaia",Mental Health,1950,,,-,0,Good,2,NSA,NA,IL2,Low Zone
+10646,Northern,11,Northland,58,Community - SMHS,"245 Commerce St, House 7 Kaitaia",Parking,1950,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10648,Northern,11,Northland,59,Dargaville Hospital,Community Health (Ex Nurses Home),Administration,1965,,,-,1035,Good,1.15,0.67,B,IL2,Low Zone
+10655,Northern,11,Northland,59,Dargaville Hospital,Energy Centre / Workshops (boilerhouse),Industrial,1985,,,-,780,NO DATA,NO DATA,0.67,B,IL4,Low Zone
+11230,Northern,11,Northland,59,Dargaville Hospital,Admin / Laboratory,Administration,1956,,,-,767,NO DATA,NO DATA,0.67,B,IL3,Low Zone
+11225,Northern,11,Northland,59,Dargaville Hospital,Dargaville Medical Centre,Hospital,1975,,,-,760,NO DATA,NO DATA,0.67,B,IL4,Low Zone
+11223,Northern,11,Northland,59,Dargaville Hospital,General Ward,Hospital,1956,,,-,682,NO DATA,NO DATA,0.67,B,IL4,Low Zone
+11227,Northern,11,Northland,59,Dargaville Hospital,Physiotherapy,Administration,1956,,,-,450,NO DATA,NO DATA,0.67,B,IL2,Low Zone
+11226,Northern,11,Northland,59,Dargaville Hospital,Kitchen / Occ Therapy / Physio,Hospital,1956,,,-,437,NO DATA,NO DATA,0.67,B,IL2,Low Zone
+10656,Northern,11,Northland,59,Dargaville Hospital,Te Ha Oranga (Māori Health) Ex Lodge,Mental Health,1956,,,-,360,Good,1.2,0.67,B,IL2,Low Zone
+11229,Northern,11,Northland,59,Dargaville Hospital,Outpatients dept,Hospital,1956,,,-,324,NO DATA,NO DATA,0.67,B,IL2,Low Zone
+11231,Northern,11,Northland,59,Dargaville Hospital,Detox / Maternity,Hospital,1956,,,-,237,NO DATA,NO DATA,0.67,B,IL3,Low Zone
+10647,Northern,11,Northland,59,Dargaville Hospital,"Flats 1, 3 bed & Flat 2, 4 bed. Joined.
+Carports x 2 for Flats 1 & 2",Residential,1960,,,-,190,Good,1.12,NSA,NA,IL2,Low Zone
+11228,Northern,11,Northland,59,Dargaville Hospital,X - ray,Administration,1956,,,-,177,NO DATA,NO DATA,0.67,B,IL3,Low Zone
+10654,Northern,11,Northland,59,Dargaville Hospital,"House 3, 4 bedroom, Huia (Engineers) Cottage (Single Garage Under)",Residential,1960,,,-,160,Good,1.04,NSA,NA,IL2,Low Zone
+10652,Northern,11,Northland,59,Dargaville Hospital,"House 2, 4 bedroom
+House 2 Carport (Joined)",Residential,1960,,,-,145,Very Good,0.74,NSA,NA,IL2,Low Zone
+10650,Northern,11,Northland,59,Dargaville Hospital,"House 1, 4 bedroom
+House 1 Carport (Joined)",Residential,1960,,,-,145,Very Good,0.93,NSA,NA,IL2,Low Zone
+11224,Northern,11,Northland,59,Dargaville Hospital,Ambulance entry / Maty clinic / Dining Room,Hospital,1956,,,-,60,NO DATA,NO DATA,0.67,B,IL4,Low Zone
+10657,Northern,11,Northland,60,Kaitaia,"27 Reservoir Road, Kaikohe ",Residential,1985,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10675,Northern,11,Northland,57,Kaitaia Hospital,Infrastructure,Industrial,1960,,,-,-,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+10662,Northern,11,Northland,57,Kaitaia Hospital,"34 Worth St, House 6",Residential,1960,,,-,1350,Average,2.27,NSA,NA,IL2,Low Zone
+10669,Northern,11,Northland,57,Kaitaia Hospital,"Chapel, Kitchen, Canteen",Administration,1966,,,-,0,Average,2.23,NSA,NA,IL2,Low Zone
+10679,Northern,11,Northland,57,Kaitaia Hospital,Recreation Hall,Administration,1970,,,-,0,Average,2.28,0.53,C,IL1,Low Zone
+10672,Northern,11,Northland,57,Kaitaia Hospital,"ED, GP's, X - ray, OPD",Hospital,1964,,,-,0,Good,1.12,NSA,NA,IL3,Low Zone
+10676,Northern,11,Northland,57,Kaitaia Hospital,Maternity and Basement,Hospital,1964,,,-,0,Good,1.41,NSA,NA,IL3,Low Zone
+10671,Northern,11,Northland,57,Kaitaia Hospital,Day Surgery Unit / Theatres / Sterilising,Hospital,1960,,,-,0,Good,1.56,0.14,E,IL3,Low Zone
+10670,Northern,11,Northland,57,Kaitaia Hospital,Community and Mental Health,Hospital,1960,,,-,0,Average,2.1,NSA,NA,IL1,Low Zone
+10680,Northern,11,Northland,57,Kaitaia Hospital,Ward Block,Hospital,1964,,,-,0,NO DATA,NO DATA,0.67,B,IL3,Low Zone
+10668,Northern,11,Northland,57,Kaitaia Hospital,Carpenters Shed,Industrial,1970,,,-,0,Good,1.3,NSA,NA,IL1,Low Zone
+10667,Northern,11,Northland,57,Kaitaia Hospital,Boiler Extension and Switchroom,Industrial,1960,,,-,0,Good,1.31,NSA,NA,IL4,Low Zone
+10683,Northern,11,Northland,57,Kaitaia Hospital,Workshop & Amenities,Industrial,1964,,,-,0,Good,1.37,NSA,NA,IL2,Low Zone
+10681,Northern,11,Northland,57,Kaitaia Hospital,Ward Block Basement and Roof,Industrial,1964,,,-,0,Good,1.8,NSA,NA,IL3,Low Zone
+10678,Northern,11,Northland,57,Kaitaia Hospital,Plantroom Day Surgery Unit / Theatres / Sterilising,Industrial,1960,,,-,0,Average,2.5,NSA,NA,IL3,Low Zone
+10677,Northern,11,Northland,57,Kaitaia Hospital,Old Boiler House,Nil,1960,,,-,0,Good,1.11,NSA,NA,IL2,Low Zone
+10673,Northern,11,Northland,57,Kaitaia Hospital,"House beside recreation hall, House 4",Residential,1960,,,-,0,Good,1.37,NSA,NA,IL2,Low Zone
+10682,Northern,11,Northland,57,Kaitaia Hospital,Whare Rapu Ora Atawhai Building,Residential,1964,,,-,0,Good,1.52,0.64,C,IL2,Low Zone
+10660,Northern,11,Northland,57,Kaitaia Hospital,"32 Worth St, House 5",Residential,1960,,,-,0,Average,2.12,NSA,NA,IL2,Low Zone
+10674,Northern,11,Northland,57,Kaitaia Hospital,"House beside recreation hall, House 4",Residential,1960,,,-,0,Average,2.4,NSA,NA,IL2,Low Zone
+10665,Northern,11,Northland,57,Kaitaia Hospital,"4 Dominion Rd, House 2",Residential,1960,,,-,0,Average,2.83,NSA,NA,IL2,Low Zone
+10658,Northern,11,Northland,57,Kaitaia Hospital,"1 Okahu Rd, House 1 Kaitaia",Residential,1930,,,-,0,Very Poor,4.9,NSA,NA,IL2,Low Zone
+10659,Northern,11,Northland,57,Kaitaia Hospital,"1 Okahu Rd, House 1 Kaitaia",Residential,1930,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10661,Northern,11,Northland,57,Kaitaia Hospital,"32 Worth St, House 5",Residential,1965,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10663,Northern,11,Northland,57,Kaitaia Hospital,"34 Worth St, House 6",Residential,1965,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10664,Northern,11,Northland,57,Kaitaia Hospital,"4 Dominion Rd, House 1",Residential,1960,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10666,Northern,11,Northland,57,Kaitaia Hospital,"4 Dominion Rd, House 2",Residential,1960,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10641,Northern,11,Northland,121,NDHB Community - Dental,"Dental Clinic, 123 Hone Heke Road, Kerikeri",Hospital,2010,,,-,0,Very Good,0.94,NSA,NA,IL3,Low Zone
+10642,Northern,11,Northland,121,NDHB Community - Dental,"Dental Clinic, Kaikohe East Primary School",Hospital,2012,,,-,0,Good,1.14,NSA,NA,IL3,Low Zone
+10640,Northern,11,Northland,121,NDHB Community - Dental,"3 Grant Street, Kamo, Dental Clinic",Hospital,2012,,,-,0,Good,1.28,NSA,NA,IL3,Low Zone
+10639,Northern,11,Northland,121,NDHB Community - Dental,"14a Rata Place, Otangarei, Whāngārei (14 William Jones Drive)",Hospital,1960,,,-,0,Good,1.83,NSA,NA,IL3,Low Zone
+10638,Northern,11,Northland,121,NDHB Community - Dental,"10 Alexander St, Whāngārei",Hospital,1990,,,-,0,Good,1.96,NSA,NA,IL3,Low Zone
+10643,Northern,11,Northland,121,NDHB Community - Dental,"Dental Clinic, Onerahi Primary School",Hospital,2012,,,-,0,Average,2.9,NSA,NA,IL3,Low Zone
+10684,Northern,11,Northland,61,Ōkaihau,"59 Settlers Way, Ōkaihau, Near Kerikeri",Community Hospital,1970,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10685,Northern,11,Northland,62,Whangarei,"14 Second Ave, Whāngārei",Community Hospital,1900,,,-,0,Average,2.63,NSA,NA,IL2,Low Zone
+10688,Northern,11,Northland,62,Whangarei,"Dental Clinic, Dargaville Intermediate School",Hospital,2012,,,-,0,Good,1.04,NSA,NA,IL2,Low Zone
+10687,Northern,11,Northland,62,Whangarei,"6 Wakelin Street, Kamo",Nil,1978,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10686,Northern,11,Northland,62,Whangarei,"48a George St, Hikurangi, Whāngārei",Residential,1965,,,-,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10695,Northern,11,Northland,63,Whangarei Hospital,Chapel,Administration,1961,,,-,-,Good,1.06,0.32,D,IL2,Low Zone
+10732,Northern,11,Northland,63,Whangarei Hospital,"Skills Lab, 3 Prefab Buildings (Refurbished) Inc walkways",Administration,2009,,,-,-,Good,1.15,NSA,NA,IL2,Low Zone
+10735,Northern,11,Northland,63,Whangarei Hospital,Surgical Wing ,Hospital,1956,,,7,-,Average,2.95,NSA,NA,IL3,Low Zone
+10719,Northern,11,Northland,63,Whangarei Hospital,Infrastructure,Industrial,1968,,,-,-,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+10689,Northern,11,Northland,63,Whangarei Hospital,53 Hospital Road,Residential,1963,,,-,-,Good,1.82,NSA,NA,IL2,Low Zone
+10730,Northern,11,Northland,63,Whangarei Hospital,Radiology Prefab,Administration,2009,,,-,8280,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10741,Northern,11,Northland,63,Whangarei Hospital,Theatre Block Basement,Industrial,1990,,,-,7889,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+10720,Northern,11,Northland,63,Whangarei Hospital,Kitchen,Administration,1974,,,-,4710,Average,2.11,0.56,C,IL3,Low Zone
+10712,Northern,11,Northland,63,Whangarei Hospital,Histology Store (New),Administration,2009,,,-,4152,Good,1.7,NSA,NA,IL1,Low Zone
+10698,Northern,11,Northland,63,Whangarei Hospital,Child Health Prefab,Administration,2009,,,-,3600,Average,2.17,NSA,NA,IL2,Low Zone
+10731,Northern,11,Northland,63,Whangarei Hospital,Renal Wing (Block C),Administration,2005,,,-,3180,Good,1.32,NSA,NA,IL3,Low Zone
+10724,Northern,11,Northland,63,Whangarei Hospital,Medical Wing (Block A),Hospital,1973,,,6,2488,Average,2.36,0.89,A,IL3,Low Zone
+10703,Northern,11,Northland,63,Whangarei Hospital,DHB Building,Administration,1945,,,-,2011,Average,2.39,NSA,NA,IL3,Low Zone
+10726,Northern,11,Northland,63,Whangarei Hospital,Old Maternity Wing (Block B) Endoscopy Theatre,Hospital,1972,,,-,1749,Good,1.69,NSA,NA,IL3,Low Zone
+10746,Northern,11,Northland,63,Whangarei Hospital,Whanau House,Residential,1994,,,-,1202,Average,2.12,NSA,NA,IL2,Low Zone
+10700,Northern,11,Northland,63,Whangarei Hospital,Clinical Records Prefab,Administration,2009,,,-,1002,Good,1.54,NSA,NA,IL2,Low Zone
+10722,Northern,11,Northland,63,Whangarei Hospital,Maunu House,Administration,1951,,,-,800,Average,2.67,0.62,C,IL3,Low Zone
+10704,Northern,11,Northland,63,Whangarei Hospital,Diabetes Centre,Administration,1966,,,-,680,Average,2.11,0.5,C,IL2,Low Zone
+10748,Northern,11,Northland,63,Whangarei Hospital,Workshop / Maintenance,Industrial,1965,,,-,630,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+10729,Northern,11,Northland,63,Whangarei Hospital,Pukawakawa Lodge,Residential,1945,,,-,547,Good,1.66,0.3,D,IL3,Low Zone
+10707,Northern,11,Northland,63,Whangarei Hospital,Estate Management,Administration,1986,,,-,447,Good,1.39,0.7,B,IL2,Low Zone
+10725,Northern,11,Northland,63,Whangarei Hospital,Mental Health Inpatient Unit - Tumanako,Mental Health,2010,,,-,337,Good,1.9,NSA,NA,IL3,Low Zone
+10717,Northern,11,Northland,63,Whangarei Hospital,House 8c & d Westend Ave,Residential,1958,,,-,328,Good,1.48,NSA,NA,IL2,Low Zone
+10702,Northern,11,Northland,63,Whangarei Hospital,Dangerous Goods,Industrial,1962,,,-,243,Very Good,0.6,NSA,NA,IL4,Low Zone
+10711,Northern,11,Northland,63,Whangarei Hospital,Hazardous Waste,Industrial,1976,,,-,219,Good,1.2,NSA,NA,IL1,Low Zone
+10736,Northern,11,Northland,63,Whangarei Hospital,Swimming Pool Plant Room,Industrial,1956,,,-,218,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+10691,Northern,11,Northland,63,Whangarei Hospital,Breast Screening Clinic,Administration,2006,,,-,210,Good,1.13,NSA,NA,IL3,Low Zone
+10742,Northern,11,Northland,63,Whangarei Hospital,Theatre Block Roof Plantroom,Industrial,1987,,,-,200,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+10744,Northern,11,Northland,63,Whangarei Hospital,Vehicle Ramp and Platform to West of 4,Administration,1968,,,-,192,Average,2.3,NSA,NA,IL2,Low Zone
+10696,Northern,11,Northland,63,Whangarei Hospital,Child Health,Administration,1986,,,-,173,Poor,3.21,NSA,NA,IL2,Low Zone
+10699,Northern,11,Northland,63,Whangarei Hospital,"Child Health, 2 Prefab Buildings (Refurbished)",Administration,2009,,,-,167,Good,1.53,NSA,NA,IL2,Low Zone
+10708,Northern,11,Northland,63,Whangarei Hospital,Gen Store  / Purchasing - abandoned,Industrial,1965,,,-,161,NO DATA,NO DATA,NSA,NA,IL1,Low Zone
+10723,Northern,11,Northland,63,Whangarei Hospital,Medical Prefab,Administration,2009,,,-,152,Very Good,0.82,NSA,NA,IL2,Low Zone
+10716,Northern,11,Northland,63,Whangarei Hospital,House 8a & b Westend Ave,Residential,1958,,,-,148,Good,1.75,NSA,NA,IL2,Low Zone
+10718,Northern,11,Northland,63,Whangarei Hospital,House 8e & f Westend Ave,Residential,1968,,,-,140,Good,1.7,NSA,NA,IL2,Low Zone
+10727,Northern,11,Northland,63,Whangarei Hospital,Orthotics / Spotless Building,Administration,1989,,,-,120,Good,1.43,NSA,NA,IL2,Low Zone
+10710,Northern,11,Northland,63,Whangarei Hospital,Gym (New),Administration,2014,,,-,114,Very Good,0.85,NSA,NA,IL3,Low Zone
+10715,Northern,11,Northland,63,Whangarei Hospital,House 6 Westend Ave,Residential,1954,,,-,104,Good,1.6,NSA,NA,IL2,Low Zone
+10714,Northern,11,Northland,63,Whangarei Hospital,House 4 Westend Ave,Residential,1910,,,-,104,Good,1.71,NSA,NA,IL2,Low Zone
+10705,Northern,11,Northland,63,Whangarei Hospital,Diabetes Centre Prefab,Administration,1966,,,-,102,Good,1.43,0.5,C,IL2,Low Zone
+10713,Northern,11,Northland,63,Whangarei Hospital,House 2 Westend Ave,Residential,1910,,,-,74,Good,1.7,NSA,NA,IL2,Low Zone
+10743,Northern,11,Northland,63,Whangarei Hospital,Tohorā House Office Building (New),Administration,2015,,,-,70,Very Good,0.81,NSA,NA,IL3,Low Zone
+10694,Northern,11,Northland,63,Whangarei Hospital,"Central Block East - Imaging, ED, ICU, Ambulance Canopy",Hospital,2000,,,5,70,Average,2.32,NSA,NA,IL4,Low Zone
+10706,Northern,11,Northland,63,Whangarei Hospital,Energy Centre / Boiler House,Industrial,1958,,,1,66,Average,2.17,NSA,NA,IL4,Low Zone
+10709,Northern,11,Northland,63,Whangarei Hospital,Generator House,Industrial,1958,,,1,47,Good,1.87,0.3,D,IL4,Low Zone
+10747,Northern,11,Northland,63,Whangarei Hospital,Wheelchair Services (New),Administration,2014,,,-,0,Very Good,0.85,NSA,NA,IL2,Low Zone
+10728,Northern,11,Northland,63,Whangarei Hospital,Passageway to Orthotics / Spotless,Administration,1989,,,-,0,Very Good,0.95,NSA,NA,IL1,Low Zone
+10745,Northern,11,Northland,63,Whangarei Hospital,Walkway to Renal Wing (Block C),Administration,2013,,,-,0,Very Good,1,NSA,NA,IL1,Low Zone
+10733,Northern,11,Northland,63,Whangarei Hospital,Staff Cafeteria,Administration,1974,,,-,0,Good,1.45,NSA,NA,IL3,Low Zone
+10701,Northern,11,Northland,63,Whangarei Hospital,CT Scanner,Administration,2014,,,-,0,Good,1.92,NSA,NA,-,Low Zone
+10738,Northern,11,Northland,63,Whangarei Hospital,"Te Roopu Kimiora Prefab, Westend Ave",Administration,2009,,,-,0,Average,2.32,NSA,NA,IL2,Low Zone
+10721,Northern,11,Northland,63,Whangarei Hospital,Laundry,Administration,1959,,,-,0,Average,2.36,0.43,C,IL3,Low Zone
+10693,Northern,11,Northland,63,Whangarei Hospital,Central Block,Administration,1956,,,-,0,Average,2.65,NSA,NA,IL3,Low Zone
+10697,Northern,11,Northland,63,Whangarei Hospital,Child Health Extension,Administration,1986,,,-,0,Average,2.78,NSA,NA,IL2,Low Zone
+10739,Northern,11,Northland,63,Whangarei Hospital,"Te Roopu Kimiora, 14 Westend Ave",Administration,1977,,,-,0,Average,2.9,NSA,NA,IL2,Low Zone
+10737,Northern,11,Northland,63,Whangarei Hospital,Te Kotuku Maternity (New),Hospital,2016,,,-,0,Very Good,0.83,NSA,NA,IL3,Low Zone
+10690,Northern,11,Northland,63,Whangarei Hospital,Antenatal Prefabs,Hospital,2009,,,-,0,Very Good,1,NSA,NA,IL2,Low Zone
+10740,Northern,11,Northland,63,Whangarei Hospital,Theatre Block,Hospital,1990,,,2,0,Average,2.37,NSA,NA,IL4,Low Zone
+10734,Northern,11,Northland,63,Whangarei Hospital,"Sub Acute Psychiatric, 8 Hospital Road",Mental Health,2012,,,-,0,Very Good,0.55,NSA,NA,IL2,Low Zone
+10692,Northern,11,Northland,63,Whangarei Hospital,Cancer Centre (Jim Carney) (New),Parking,2014,,,-,0,Very Good,0.85,NSA,NA,IL3,Low Zone
+10749,Southern,17,South Canterbury,64,Talbot Park,Talbot Park,Hospital,1965,1,1,2,1926,Average,2.46,NSA,NA,IL3,Medium Zone
+10750,Southern,17,South Canterbury,65,Tekapo,"24 Allan St, Tekapo, Tekapo Huts",Residential,2010,1,0,1,224,Very Good,0.59,NSA,NA,IL2,Medium Zone
+10753,Southern,17,South Canterbury,66,Timaru,Car park 34 - Memorial Ave,Parking,1978,0,0,0,2755,Very Good,1,NSA,NA,-,Medium Zone
+10754,Southern,17,South Canterbury,66,Timaru,Car park 78 - 80 High St,Parking,1978,0,0,0,2202,Very Good,1,NSA,NA,-,Medium Zone
+10752,Southern,17,South Canterbury,66,Timaru,8 Victoria Street,Nil,1978,1,0,1,120,Very Good,1,NSA,NA,IL2,Medium Zone
+20016,Southern,17,South Canterbury,66,Timaru,53 Edward Street - Nissan Hut,Industrial,1940,1,0,1,45,NO DATA,NO DATA,NSA,NA,IL1,Medium Zone
+20015,Southern,17,South Canterbury,66,Timaru,53 Edward Street - Dieticians Office,Administration,1940,1,0,1,45,NO DATA,NO DATA,NSA,NA,IL1,Medium Zone
+,Southern,17,South Canterbury,66,Timaru Hospital,Campus Infrastructure,Administration,1978,-,-,-,-,Poor,3.7,,,IL4,
+10765,Southern,17,South Canterbury,67,Timaru Hospital,Gardens Block,Administration,1959,1,1,2,-,NO DATA,NO DATA,0.21,D,IL2,Medium Zone
+10770,Southern,17,South Canterbury,67,Timaru Hospital,Laboratory,Administration,1997,1,0,1,-,NO DATA,NO DATA,NSA,NA,IL3,Medium Zone
+10767,Southern,17,South Canterbury,67,Timaru Hospital,Gardens Block South,Hospital,1959,5,1,6,-,Average,2.3,0.96,A,IL2,Medium Zone
+10760,Southern,17,South Canterbury,67,Timaru Hospital,Clinical Services building - Main,Hospital,1976,5,1,6,-,Average,2.92,0.33,D,IL4,Medium Zone
+10759,Southern,17,South Canterbury,67,Timaru Hospital,Clinical Services building - East ,Hospital,1976,5,1,6,10151,Poor,3.07,NSA,NA,IL4,Medium Zone
+10766,Southern,17,South Canterbury,67,Timaru Hospital,Gardens Block North,Administration,1964,7,0,7,4109,Average,2.02,0.74,B,IL2,Medium Zone
+10769,Southern,17,South Canterbury,67,Timaru Hospital,Kensington,Mental Health,1986,1,1,2,1647,Average,2.27,NSA,NA,IL3,Medium Zone
+10756,Southern,17,South Canterbury,67,Timaru Hospital,Cafe & Kitchen,Administration,1993,2,1,3,1251,Good,1.53,NSA,NA,IL2,Medium Zone
+10771,Southern,17,South Canterbury,67,Timaru Hospital,Laundry,Administration,1950,2,1,3,1141,Very Good,1,0.13,E,IL2,Medium Zone
+10764,Southern,17,South Canterbury,67,Timaru Hospital,Energy Centre,Industrial,1982,4,0,4,930,Poor,3.18,0.5,C,IL4,Medium Zone
+10778,Southern,17,South Canterbury,67,Timaru Hospital,Stores,Administration,1962,3,0,3,727,Very Good,1,0.15,E,IL3,Medium Zone
+10774,Southern,17,South Canterbury,67,Timaru Hospital,Orthotics,Hospital,1940,2,0,2,570,Average,2.82,NSA,NA,IL2,Medium Zone
+10777,Southern,17,South Canterbury,67,Timaru Hospital,Records Building,Administration,2016,1,0,1,408,Very Good,1,NSA,NA,IL2,Medium Zone
+10763,Southern,17,South Canterbury,67,Timaru Hospital,Education Centre,Administration,2004,1,0,1,325,Very Good,0.88,NSA,NA,IL2,Medium Zone
+10772,Southern,17,South Canterbury,67,Timaru Hospital,MRI Scanner Suite,Administration,2014,1,0,1,232,Very Good,0.88,NSA,NA,IL3,Medium Zone
+10757,Southern,17,South Canterbury,67,Timaru Hospital,Chapel,Administration,1968,1,0,1,145,Good,1.53,NSA,NA,IL3,Medium Zone
+10773,Southern,17,South Canterbury,67,Timaru Hospital,Occupational Therapy,Administration,1998,1,0,1,95,Good,1.84,NSA,NA,IL2,Medium Zone
+10775,Southern,17,South Canterbury,67,Timaru Hospital,OT Storage garage,Administration,2010,1,0,1,36,Very Good,1,NSA,NA,IL1,Medium Zone
+10768,Southern,17,South Canterbury,67,Timaru Hospital,Gas Enclosure,Industrial,1998,1,0,1,31,Average,2.31,NSA,NA,IL2,Medium Zone
+10761,Southern,17,South Canterbury,67,Timaru Hospital,Dangerous Goods,Industrial,1980,1,0,1,11,Very Good,1,NSA,NA,IL1,Medium Zone
+10776,Southern,17,South Canterbury,67,Timaru Hospital,Pharmacy,Administration,1993,1,0,1,0,Good,1.17,NSA,NA,IL3,Medium Zone
+20005,Southern,17,South Canterbury,67,Timaru Hospital,Site Wide Tunnels,#N/A,1978,0,1,1,0,NO DATA,NO DATA,1,A,-,Medium Zone
+10786,Southern,7,Southern,68,Dunedin Hospital,Ward Block,Hospital,1976,10,1,11,50258,NO DATA,NO DATA,1,A,IL4,Low Zone
+10781,Southern,7,Southern,68,Dunedin Hospital,Clinical Services,Hospital,1966,7,1,8,14816,NO DATA,NO DATA,1,A,IL4,Low Zone
+10782,Southern,7,Southern,68,Dunedin Hospital,Fraser Building,Hospital,1946,3,1,4,9090,NO DATA,NO DATA,1,A,IL3,Low Zone
+10784,Southern,7,Southern,68,Dunedin Hospital,Oncology ,Hospital,1993,3,1,4,6103,Average,2.49,1,A,IL4,Low Zone
+10780,Southern,7,Southern,68,Dunedin Hospital,Children's Pavilion,Hospital,1945,4,1,5,4482,Poor,3.12,0.67,B,IL3,Low Zone
+10785,Southern,7,Southern,68,Dunedin Hospital,Psych Services,Hospital,1936,3,1,4,3635,Average,3,1,A,IL2,Low Zone
+10779,Southern,7,Southern,68,Dunedin Hospital,Boiler House,Industrial,1956,1,0,1,1478,NO DATA,NO DATA,1,A,IL4,Low Zone
+10783,Southern,7,Southern,68,Dunedin Hospital,Building 1 - 38 Leith Street,Administration,1956,1,0,1,1042,Average,2.44,1,A,IL4,Low Zone
+20087,Southern,7,Southern,68,Dunedin Hospital,Building 2 - 38 Leith Street ,Administration,1956,2,0,2,1042,NO DATA,NO DATA,1,A,IL4,Low Zone
+20088,Southern,7,Southern,68,Dunedin Hospital,Building 3 - 159 Castle Street,Administration,1976,1,0,1,1042,NO DATA,NO DATA,1,A,IL4,Low Zone
+10788,Southern,7,Southern,69,Dunstan,Main Block,Hospital,2005,1,0,1,4794,Very Good,0.98,1,A,IL3,Medium Zone
+10789,Southern,7,Southern,69,Dunstan,Mental Health Building,Nil,1970,1,0,1,714,Average,2.17,1,A,IL2,Medium Zone
+10787,Southern,7,Southern,69,Dunstan,Kitchen Block,Nil,1958,1,0,1,346,Average,2.25,1,A,IL2,Medium Zone
+20090,Southern,7,Southern,69,Dunstan,Doctors Residence,Nil,1910,1,0,1,346,NO DATA,NO DATA,0.33,D,IL2,Medium Zone
+10790,Southern,7,Southern,69,Dunstan,Staff residences (House 1),Nil,1958,1,0,1,89,Good,1.61,0.9,A,IL2,Medium Zone
+20089,Southern,7,Southern,69,Dunstan,Staff residences (House 2),Nil,1958,1,0,1,89,NO DATA,NO DATA,0.9,A,IL2,Medium Zone
+10791,Southern,7,Southern,70,Gore,Gore Hospital,Hospital,1940,0,0,0,0,NO DATA,NO DATA,NSA,NA,IL2,Medium Zone
+10792,Southern,7,Southern,71,Lakes,Hospital,Hospital,1989,1,0,1,3317,NO DATA,NO DATA,1.1,A+,IL3,High Zone
+10797,Southern,7,Southern,72,Southland Hospital,Clinical Services,Hospital,2004,2,0,2,23140,NO DATA,NO DATA,1.03,A+,IL4,Medium Zone
+10805,Southern,7,Southern,72,Southland Hospital,Obstetrics Building,Nil,1978,3,0,3,6831,NO DATA,NO DATA,0.2,D,IL2,Medium Zone
+10800,Southern,7,Southern,72,Southland Hospital,Elm Court,Hospital,1997,1,0,1,3711,NO DATA,NO DATA,1.16,A+,IL3,Medium Zone
+10798,Southern,7,Southern,72,Southland Hospital,Community Services Building ,Hospital,1982,1,0,1,2212,Average,2.76,1.26,A+,IL3,Medium Zone
+10804,Southern,7,Southern,72,Southland Hospital,Nurses Home,Nil,1936,2,0,2,2049,NO DATA,NO DATA,0.2,D,IL2,Medium Zone
+10802,Southern,7,Southern,72,Southland Hospital,Southland Hospital Inpatient Mental Health,Mental Health,2004,1,0,1,1740,Average,2.54,1.16,A+,IL2,Medium Zone
+10793,Southern,7,Southern,72,Southland Hospital,Administration Building,Nil,1937,1,0,1,1056,Good,1.24,0.67,B,IL2,Medium Zone
+10799,Southern,7,Southern,72,Southland Hospital,Doctors Accommodation,Residential,1954,1,0,1,893,Average,2.35,0.76,B,IL2,Medium Zone
+10801,Southern,7,Southern,72,Southland Hospital,Garage,Administration,1970,1,0,1,827,NO DATA,NO DATA,0.65,C,IL2,Medium Zone
+10796,Southern,7,Southern,72,Southland Hospital,Bulk Store,Administration,1973,2,0,2,669,NO DATA,NO DATA,1,A,IL2,Medium Zone
+10794,Southern,7,Southern,72,Southland Hospital,Boiler House,Industrial,1964,1,0,1,617,Average,2.6,0.25,D,IL4,Medium Zone
+10806,Southern,7,Southern,72,Southland Hospital,Well Child Building,Nil,1939,1,0,1,280,Average,2.2,0.18,E,IL2,Medium Zone
+10803,Southern,7,Southern,72,Southland Hospital,Mortuary,Administration,1972,1,0,1,258,Good,1.14,0.54,C,IL2,Medium Zone
+10795,Southern,7,Southern,72,Southland Hospital,Boiler House Chimney,Industrial,1964,1,0,1,0,Average,2.2,0.275,D,IL4,Medium Zone
+10807,Southern,7,Southern,73,Stewart Island,Stewart Island,Hospital,1994,1,0,1,314.7,Good,1.68,1,A,IL2,Low Zone
+10808,Southern,7,Southern,74,Tokanui,Tokanui,Hospital,1960,1,0,1,99.8,Average,2.35,0.85,A,IL2,Low Zone
+10817,Southern,7,Southern,75,Wakari,Main Block,Community Hospital,1956,4,0,4,12463,Poor,3.09,1,A,IL3,Low Zone
+10810,Southern,7,Southern,75,Wakari,Helensburgh House,Hospital,1955,5,1,6,5623,NO DATA,NO DATA,1,A,IL3,Low Zone
+10814,Southern,7,Southern,75,Wakari,Ward 9A & 9B (all areas),Mental Health,1992,1,0,1,2595,Average,2.5,1,A,IL3,Low Zone
+10815,Southern,7,Southern,75,Wakari,Ward 9C,Mental Health,1956,2,1,3,2449,Good,2,1,A,IL3,Low Zone
+10818,Southern,7,Southern,75,Wakari,Transport Building,Administration,1956,1,0,1,1302,Good,1.57,1,A,IL2,Low Zone
+10809,Southern,7,Southern,75,Wakari,Boiler House,Administration,1956,1,0,1,843,Poor,3.08,1,A,IL4,Low Zone
+10811,Southern,7,Southern,75,Wakari,Māori Mental Health,Mental Health,1972,1,0,1,293,Good,1.45,1,A,IL2,Low Zone
+10813,Southern,7,Southern,75,Wakari,Rehab Flats,Hospital,1979,1,0,1,287,Good,1.51,1,A,IL2,Low Zone
+10812,Southern,7,Southern,75,Wakari,Padget House,Mental Health,1970,1,0,1,239,Good,1.45,1,A,IL2,Low Zone
+10816,Southern,7,Southern,75,Wakari,Early Childcare Centre (was chapel),Administration,1956,1,0,1,230,NO DATA,NO DATA,1,A,IL2,Low Zone
+10895,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Ward Block,Hospital,1982,,,3,9058,Average,2.34,0.74,B,IL4,High Zone
+10834,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Clinical Services - Ambulance Bay, Day of Surgery unit, Emergency, Finance, Information Services, Change Rooms, Medical Records, Outpatients, Pathology Laboratory, Pharmacy, Mortuary",Hospital,1982,,,1,5411,Average,2.35,0.74,B,IL4,High Zone
+10872,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Morris Adair,Nil,1965,,,-,4032,NO DATA,NO DATA,0.2,D,IL2,High Zone
+10833,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Clinical services - Main Entry, Entry Canopy, Cafe, Chapel, Corridors and Maternity",Hospital,1982,,,1,2299,Average,2.1,0.74,B,IL4,High Zone
+10856,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Engineering, Orthotics",Hospital,1965,,,-,2029,NO DATA,NO DATA,0.7,B,IL2,High Zone
+10849,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Clinical Services - Theatre CSSD, Theatre ",Hospital,1982,,,1,1771,Average,2.52,0.74,B,IL4,High Zone
+10887,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,TaiDHB Gisborne Psychiatric,Mental Health,1982,,,1,1609,Average,2.94,0.74,B,IL4,High Zone
+10868,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Laundry ,Administration,1965,,,-,1573,NO DATA,NO DATA,0.2,D,IL4,High Zone
+10862,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Hospital Stores, Corridors",Administration,1965,,,-,1183,NO DATA,NO DATA,0.55,C,IL2,High Zone
+10843,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Clinical Services - MRI and CT Suite, Radiology",Administration,1982,,,-,1124,NO DATA,NO DATA,0.74,B,IL4,High Zone
+10865,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Kitchen ,Administration,1982,,,-,993,NO DATA,NO DATA,0.74,B,IL4,High Zone
+10822,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Admin Building - Entry Canopy, Corporate Services & Board room",Administration,1982,,,-,958,NO DATA,NO DATA,0.74,B,IL2,High Zone
+10824,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Boiler House - Boilerhouse,Industrial,1965,,,1,658,Average,2.62,1,A,IL4,High Zone
+10892,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Te Rito House - Child & Adolescent Mental Health,Mental Health,1982,,,-,582,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10873,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Alzheimers Cancer Society, Alzheimers Storage Garage, Alzheimers Storage Shed, Alzhemers Deck, Cancer Soc Storage Garage",Hospital,1965,,,-,553,NO DATA,NO DATA,0.4,C,IL2,High Zone
+10826,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Boiler House - Boilerhouse Coal Store,Industrial,1965,,,-,458,NO DATA,NO DATA,0.8,A,IL2,High Zone
+10867,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Ko Matakerepo,Administration,1982,,,-,359,NO DATA,NO DATA,0.74,B,IL4,High Zone
+10890,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Sports & Social Club - Social Activities,Nil,1988,,,-,264,NO DATA,NO DATA,0.6,C,IL2,High Zone
+10851,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,"Clinical services - Dialysis Unit, Tui te Ora  -  Long Term Conditions Unit",Hospital,2010,,,-,225,NO DATA,NO DATA,NSA,NA,IL4,High Zone
+10885,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Palliative Care ,Hospital,1988,,,-,208,NO DATA,NO DATA,0.6,C,IL2,High Zone
+10907,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Boilerhouse Water Treatment,Industrial,1965,,,1,174,Average,2.8,1,A,IL4,High Zone
+10871,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Medical Gases - Medical Gases,Industrial,1982,,,-,153,NO DATA,NO DATA,0.74,B,IL4,High Zone
+10860,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Generator House - Generator House,Industrial,1982,,,1,144,Good,1.96,0.74,B,IL4,High Zone
+10830,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Carpentry Storage Sheds 1 & 2,Industrial,1982,,,-,117,NO DATA,NO DATA,NSA,NA,IL1,High Zone
+10883,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Natural Gas Enclosure - Gas Supply & Meters,Industrial,1985,,,-,40,NO DATA,NO DATA,NSA,NA,IL4,High Zone
+10861,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Glasshouse - Glasshouse,Administration,1982,,,-,29,NO DATA,NO DATA,NSA,NA,IL1,High Zone
+10859,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,GDC Council Pumphouse - Watermain Pump house,Industrial,1985,,,-,23,NO DATA,NO DATA,0.7,B,IL4,High Zone
+10889,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Security Building - Main Gate Booth,Administration,1982,,,-,5,NO DATA,NO DATA,1,A,IL1,High Zone
+20018,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Titiro Building (corner of Bright Street and Childers Road),Hospital,1978,,,-,0,NO DATA,NO DATA,0.4,C,IL2,High Zone
+10825,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Boiler House Bulk Liquid Oxygen,Industrial,1990,,,-,0,NO DATA,NO DATA,NSA,NA,IL4,High Zone
+10864,Te Manawa Taki,18,Tairāwhiti,108,Gisborne Hospital,Infrastructure - not applicable,Industrial,1982,,,-,0,NO DATA,NO DATA,NSA,NA,IL4,High Zone
+10908,Te Manawa Taki,18,Tairāwhiti,109,Matawai,"Clinic, Matawai - Leased to Turanga Health",Nil,1965,,,-,142,NO DATA,NO DATA,0.6,C,IL2,High Zone
+10819,Te Manawa Taki,18,Tairāwhiti,123,TaiDHB Community - Dental,Oral Health Clinic (Ilminster) - Community Oral Health Services,Hospital,2009,,,-,119,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+10909,Te Manawa Taki,18,Tairāwhiti,110,Te Karaka,"Clinic, Te Karaka - Leased to Turanga Health",Nil,1910,,,-,302,NO DATA,NO DATA,0.6,C,IL2,High Zone
+20017,Te Manawa Taki,18,Tairāwhiti,110,Te Karaka,Te Karaka Doctors residece,Residential,1978,,,-,0,NO DATA,NO DATA,0.6,C,IL2,High Zone
+10915,Te Manawa Taki,13,Taranaki,77,Hawera Hospital,Hawera Hospital,Hospital,2001,,,-,3610,NO DATA,NO DATA,NSA,NA,IL4,Medium Zone
+10916,Te Manawa Taki,13,Taranaki,77,Hawera Hospital,Hawera Whaiora + Ambulance Station,Administration,1957,,,-,925,NO DATA,NO DATA,NSA,NA,IL4,Medium Zone
+10914,Te Manawa Taki,13,Taranaki,77,Hawera Hospital,Hawera Flats  / Overnight unit,Residential,1970,,,-,190,NO DATA,NO DATA,NSA,NA,IL2,Medium Zone
+10917,Te Manawa Taki,13,Taranaki,79,Mokau Health Clinic,Mokau Health Clinic,Hospital,1960,,,-,107,Average,2.65,NSA,NA,IL2,Medium Zone
+10919,Te Manawa Taki,13,Taranaki,80,Stratford Health Centre,Stratford Health Centre + Health Trust complex,Hospital,2001,,,-,580,Good,1.92,0.68,B,IL2,Medium Zone
+10918,Te Manawa Taki,13,Taranaki,80,Stratford Health Centre,Stratford Ambulance Station,Administration,1995,,,-,150,Average,2.79,0.68,B,IL4,Medium Zone
+10920,Te Manawa Taki,13,Taranaki,80,Stratford Health Centre,Stratford Oral Health Centre,Hospital,2001,,,-,0,Good,1.49,1,A,IL2,Medium Zone
+10923,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Acute Services Building (ASB),Hospital,2014,,,-,14500,Good,1.51,1,A,IL4,Medium Zone
+10935,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Clinical Services Block ,Hospital,1968,,,7,7510,Poor,3.11,0.1,E,IL4,Medium Zone
+10971,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Special Services Block A,Hospital,1971,,,6,5980,Poor,3.03,0.15,E,IL4,Medium Zone
+10962,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Older Peoples Health & Rehab and District Nursing,Hospital,1986,,,-,4870,Average,2.72,1,A,IL2,Medium Zone
+10967,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Service Ducts & Tunnels ,Administration,1960,,,1,4470,Average,3,NSA,NA,IL3,Medium Zone
+10927,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Block C,Hospital,1972,,,-,2940,Average,2.7,0.1,E,IL4,Medium Zone
+10926,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Barrett Tabor Staff Hostel,Residential,1955,,,-,2660,Poor,3.61,0.25,D,IL2,Medium Zone
+10975,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Te Puna Waiora - Mental Health Inpatient Unit,Mental Health,1987,,,2,2360,Average,2.37,0.89,A,IL3,Medium Zone
+10957,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Medical & Oncology Outpatients & Mental Health Service,Hospital,1991,,,-,2360,Average,2.85,1,A,IL2,Medium Zone
+20012,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Maternity Block - B,Hospital,1954,,,-,1702,NO DATA,NO DATA,0.3,D,IL4,Medium Zone
+10973,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Stores & Orthotics,Administration,1994,,,-,1676,Average,2.65,0.35,C,IL4,Medium Zone
+10953,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Laundry Building,Administration,1955,,,-,1610,Poor,3.38,0.2,D,IL2,Medium Zone
+10934,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Child & Adolescent Community Centre,Hospital,1993,,,-,1520,Average,2.8,0.8,A,IL2,Medium Zone
+10960,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Mortuary & Offices,Administration,1985,,,-,1410,Average,2.74,0.25,D,IL4,Medium Zone
+10937,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Corporate Offices,Administration,1993,,,-,1408,Average,2.96,0.55,C,IL2,Medium Zone
+10974,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Surgical Outpatients (ex Medical Block) - A,Hospital,1954,,,-,1356,Poor,3.45,1,A,IL2,Medium Zone
+10932,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Central Block,Administration,1956,,,-,1077,Poor,3.29,0.25,D,IL4,Medium Zone
+10954,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Link Main Entrance Building ,Administration,2014,,,-,1000,Very Good,0.98,1,A,IL3,Medium Zone
+10956,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Maternity Block - A,Hospital,1954,,,5,568,Average,2.89,0.5,C,IL4,Medium Zone
+20010,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Surgical Outpatients (ex Medical Block) - B,Hospital,1954,,,-,540,NO DATA,NO DATA,1,A,IL2,Medium Zone
+10955,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Māori Health & Whaiora (was JMO),Hospital,1972,,,-,512,Average,2.8,0.47,C,IL2,Medium Zone
+10961,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Neonatal Unit,Hospital,1995,,,-,433,Average,2.97,0.65,C,IL4,Medium Zone
+10933,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Chapel ,Administration,1974,,,-,374,Poor,3.27,0.35,C,IL2,Medium Zone
+10925,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Ambulance Station Control Building,Administration,1987,,,-,340,Poor,3.1,1.27,A+,IL4,Medium Zone
+10940,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Engineering Offices,Industrial,1971,,,-,313,Average,2.9,0.6,C,IL2,Medium Zone
+10942,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Engineering Workshop North,Industrial,1970,,,-,313,NO DATA,NO DATA,0.85,A,IL2,Medium Zone
+10943,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Engineering Workshop South,Industrial,1970,,,-,313,NO DATA,NO DATA,0.7,B,IL2,Medium Zone
+10952,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,ICT Building,Administration,2012,,,-,300,Good,1.64,NSA,NA,IL2,Medium Zone
+10950,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Helicopter Hanger,Administration,2000,,,-,300,Good,1.77,0.5,C,IL4,Medium Zone
+10965,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Quality & Risk ,Administration,1972,,,-,300,Average,3,0.6,C,IL2,Medium Zone
+10966,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Recreation Complex,Administration,1977,,,-,275,Average,2.9,0.45,C,IL2,Medium Zone
+20014,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Swimming Pool,Administration,1977,,,-,275,NO DATA,NO DATA,NSA,NA,IL2,Medium Zone
+10972,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Staff Flats - 25 David Street,Residential,1972,,,-,250,Average,2.51,0.47,C,IL2,Medium Zone
+10936,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Clinical Skills Centre,Administration,2008,,,-,250,Average,2.85,0.75,B,IL2,Medium Zone
+10963,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Overnight Units - 29 David Street,Residential,1980,,,-,200,Average,2.98,1,A,IL2,Medium Zone
+10922,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,126 - D Tukapa St - Project Maunga House,Administration,1950,,,-,162,Average,2.94,NSA,NA,IL2,Medium Zone
+10921,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,126 - C Tukapa St - ICT Offices,Administration,2012,,,-,126,Good,1.72,NSA,NA,IL2,Medium Zone
+10976,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Transformer Building Adjacent to Laundry,Industrial,1955,,,1,108,Average,2.99,1.01,A+,IL4,Medium Zone
+10946,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Gardener's Shed,Administration,1975,,,-,102,Poor,3.25,NSA,NA,IL1,Medium Zone
+10947,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Generator Building,Industrial,2007,,,-,100,Good,1.5,0.68,B,IL4,Medium Zone
+10924,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Ambulance Station - Garage,Administration,1987,,,-,100,Average,2.29,1.27,A+,IL4,Medium Zone
+10964,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Power Building,Industrial,1968,,,1,100,Poor,3.16,1.01,A+,IL4,Medium Zone
+20008,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Special Services Block B,Administration,1971,,,-,100,NO DATA,NO DATA,0.5,C,IL4,Medium Zone
+10959,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Mobility Garden,Hospital,2014,,,-,50,Very Good,0.8,NSA,NA,IL2,Medium Zone
+10939,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Doctors Lounge & Overnight Accom,Residential,1991,,,-,50,Average,2.55,0.35,C,IL2,Medium Zone
+10938,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Dangerous Goods Store,Industrial,1970,,,-,30,Average,2.43,0.7,B,IL3,Medium Zone
+10931,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Bulk Liquid Oxygen Storage Facility,Industrial,1990,,,-,30,NO DATA,NO DATA,1,A,IL4,Medium Zone
+10949,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Helicopter - Emergency (adjacent to Buildings 105 &107),Administration,1999,,,-,0,Good,1.6,NSA,NA,IL4,Medium Zone
+10951,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Helicopter Main,Administration,2000,,,-,0,Average,2.09,NSA,NA,IL4,Medium Zone
+10958,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,"Medical Records, & Alcohol & Drug",Administration,1986,,,-,0,Average,2.63,1,A,IL2,Medium Zone
+10944,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Entrance Wing Building,Administration,1969,,,-,0,Poor,3.04,0.25,D,IL4,Medium Zone
+10969,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Service Tunnel (Between B - 119A & B - 107),Administration,1969,,,-,0,NO DATA,NO DATA,0.3,D,IL4,Medium Zone
+10928,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Boiler Chimney,Industrial,1987,,,-,0,Average,3,1,A,IL4,Medium Zone
+10945,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Fire Water Tank Farm,Industrial,2013,,,-,0,Average,3,1.01,A+,IL4,Medium Zone
+10929,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Boiler House ,Industrial,1968,,,-,0,Poor,4,0.2,D,IL4,Medium Zone
+10948,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Generator Room,Industrial,1968,,,-,0,NO DATA,NO DATA,1,A,IL4,Medium Zone
+10970,Te Manawa Taki,13,Taranaki,78,Taranaki Base Hospital,Service Tunnel (South of B - 104),Industrial,1969,,,-,0,NO DATA,NO DATA,0.25,D,IL4,Medium Zone
+10911,Te Manawa Taki,13,Taranaki,122,TarDHB Community - Dental,Manukorihi Oral Health Facility - Waitara,Hospital,2008,,,-,0,Good,1.09,1,A,IL2,Medium Zone
+10910,Te Manawa Taki,13,Taranaki,122,TarDHB Community - Dental,Inglewood Primary Oral Health Facility,Hospital,2008,,,-,0,Good,1.12,1,A,IL2,Medium Zone
+10912,Te Manawa Taki,13,Taranaki,122,TarDHB Community - Dental,Rangiatea Oral Health Facility - Spotswood,Hospital,2008,,,-,0,Good,1.18,1,A,IL2,Medium Zone
+10913,Te Manawa Taki,13,Taranaki,122,TarDHB Community - Dental,Te Henui Oral Health Facility - NP Girls College,Hospital,2008,,,-,0,Good,1.21,1,A,IL2,Medium Zone
+10978,Te Manawa Taki,5,Waikato,81,Hamilton - Other Property,Buildings 1 & 2,Hospital,1949,1,1,2,1102,NO DATA,NO DATA,NSA,NA,IL3,Medium Zone
+11005,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Meade Clinical Centre (outpatients),Hospital,2010,5,1,6,36920,Good,1.42,1,A,IL4,Medium Zone
+11004,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Main Carpark Building ,Parking,2006,18,0,18,21960,Good,1.04,NSA,NA,IL3,Medium Zone
+11007,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Menzies Building (surgical and medical),Hospital,1967,11,2,13,15990,Average,2.27,0.38,C,IL3,Medium Zone
+10989,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Elizabeth Rothwell Building (children's and women's Health),Hospital,1970,12,4,16,14880,Average,2.24,0.5,C,IL3,Medium Zone
+11030,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Waiora Waikato Building (clinical offices),Hospital,1960,5,2,7,14790,Good,1.71,0.15,E,IL3,Medium Zone
+10979,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Acute Services Building,Hospital,2008,4,1,5,12070,Good,1.04,1,A,IL4,Medium Zone
+10995,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Henry Rongomau Bennett Centre (Adult Mental Health),Mental Health,1990,4,0,4,8070,Average,2.24,NSA,NA,IL4,Medium Zone
+11021,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Pembroke Carpark,Administration,2011,6,3,9,8060,Very Good,0.96,NSA,NA,IL2,Medium Zone
+11018,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Older Persons & Rehabilitation Services Building,Hospital,2013,1,3,4,7760,Good,1.3,0.72,B,IL4,Medium Zone
+10997,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Hockin Building (corporate Services),Administration,1950,5,1,6,5560,Average,2.42,0.5,C,IL2,Medium Zone
+10983,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Bryant Education Centre & Library incl remnants of Hilda Ross Building,Administration,1959,2,2,4,5150,Good,1.48,NSA,NA,IL2,Medium Zone
+10999,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Kempthorne Block,Hospital,1970,5,2,7,4360,Good,1.83,0.4,C,IL4,Medium Zone
+11003,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Lomas Building (MRI and Cancer services),Administration,1965,2,3,5,4340,Good,1.76,NSA,NA,IL3,Medium Zone
+10985,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Central laundry,Administration,1957,2,1,3,3650,Poor,3.03,0.34,C,IL2,Medium Zone
+11000,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,"Kitchen, Food & Nutrition",Administration,1990,4,2,6,3050,Good,1.45,NSA,NA,IL2,Medium Zone
+10984,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Campbell Johnston Building,Administration,1940,4,2,6,1780,Average,2.38,0.4,C,IL3,Medium Zone
+11025,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Regional Renal Dialysis Building,Hospital,1967,1,0,1,1725,Good,1.21,0.7,B,IL3,Medium Zone
+11001,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Limb Centre,Hospital,1986,2,2,4,1670,Average,2.22,0.5,C,IL2,Medium Zone
+10991,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Engineering Workshop,Industrial,1960,1,0,1,1522,Good,1.34,0.5,C,IL2,Medium Zone
+10980,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Blood Donor Centre,Hospital,1986,1,1,2,1420,Good,1.08,0.8,A,IL2,Medium Zone
+10992,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Entry & Transit Lounge Building,Hospital,2006,3,5,8,1230,Good,1.4,NSA,NA,IL2,Medium Zone
+11024,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Portacoms,Administration,2009,1,0,1,1130,Good,1.4,NSA,NA,IL2,Medium Zone
+10981,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Boiler House,Industrial,1954,1,1,2,1025,Good,1.44,0.67,B,IL4,Medium Zone
+11023,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Pharmacy Building,Administration,2008,1,1,2,960,Good,1.39,0.5,C,IL3,Medium Zone
+11029,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Transport Garage,Administration,1962,2,1,3,906,Good,1.46,NSA,NA,IL2,Medium Zone
+11026,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Renal Dialysis Building (Ryburn),Administration,1993,1,0,1,590,Good,1.24,0.4,C,IL2,Medium Zone
+10988,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Diabetic Respiratory Building - Ryburn,Hospital,1993,1,0,1,550,Good,1.52,0.4,C,IL2,Medium Zone
+10982,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Breastcare Building,Hospital,1967,1,1,2,520,Good,1.15,1,A,IL2,Medium Zone
+10990,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Engineering & Properties Office,Industrial,1960,2,1,3,510,Good,1.28,0.5,C,IL2,Medium Zone
+11008,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Mortuary,Administration,1960,1,1,2,385,Good,1.55,1,A,IL2,Medium Zone
+11009,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Motel Flats,Administration,1970,1,0,1,370,Good,1.48,0.7,B,IL2,Medium Zone
+11031,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Wilson Building,Administration,1940,1,1,2,340,Poor,3.13,0.5,C,IL3,Medium Zone
+11010,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Mothercraft Unit,Administration,1997,1,0,1,300,Good,1.83,0.65,C,IL2,Medium Zone
+11027,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Renal Dialysis Building (Ryburn),Administration,1968,#N/A,#N/A,#N/A,290,Good,1.02,NSA,NA,IL2,Medium Zone
+10987,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Day Clinic building - Puni Whiti,Mental Health,1979,1,0,1,260,Good,1.32,NSA,NA,IL3,Medium Zone
+10994,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Generator Building ,Industrial,2010,1,0,1,250,Good,1.49,NSA,NA,IL4,Medium Zone
+11016,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Offices - 3 Ohaupo Rd,Hospital,1960,1,1,2,230,Good,1.84,0.4,C,IL2,Medium Zone
+11022,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Percival office,Administration,1960,1,0,1,200,Good,1.32,0.55,C,IL2,Medium Zone
+10993,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,FMH Whare day clinic & (30) Kokiri day clinic ,Mental Health,2009,1,0,1,170,Good,1.02,NSA,NA,IL2,Medium Zone
+11028,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Te Whare Taurima ,Residential,1950,1,0,1,170,Good,1.22,1,A,IL2,Medium Zone
+11015,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Offices - 218 Pembroke St,Administration,1940,1,0,1,170,Good,1.85,NSA,NA,IL2,Medium Zone
+11017,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Offices - 9 Ohaupo Rd,Hospital,1950,1,1,2,160,Good,1.72,NSA,NA,IL2,Medium Zone
+11012,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Offices - 13 Ohaupo Rd,Administration,1940,1,0,1,120,Good,1.82,NSA,NA,IL2,Medium Zone
+11011,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Offices - 11 Ohaupo Rd,Administration,1940,1,0,1,106,Average,2.07,NSA,NA,IL2,Medium Zone
+11006,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Medical Gases,Industrial,2009,1,0,1,100,Good,1.8,NSA,NA,IL1,Medium Zone
+11013,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Offices - 196 & 192 Pembroke St,Administration,1960,1,0,1,100,Good,1.8,0.37,C,IL2,Medium Zone
+11014,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Offices - 198 Pembroke St,Administration,1960,1,0,1,80,Good,1.82,NSA,NA,IL2,Medium Zone
+10986,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Dangerous Goods Store,Industrial,1962,1,0,1,65,Very Good,0.88,NSA,NA,IL3,Medium Zone
+11019,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Parker Building,Administration,1950,1,0,1,60,Good,1.8,1,A,IL2,Medium Zone
+11020,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Parking Control building,Administration,1993,1,0,1,45,Good,1.6,0.55,C,IL2,Medium Zone
+11002,Te Manawa Taki,5,Waikato,82,Hamilton Hospital,Liquid Oxygen Store,Industrial,2013,1,0,1,10,NO DATA,NO DATA,NSA,NA,IL3,Medium Zone
+11032,Te Manawa Taki,5,Waikato,83,Matamata - Other Property,Buildings - 1,Hospital,1959,1,0,1,200,Good,1.45,NSA,NA,IL3,Medium Zone
+11033,Te Manawa Taki,5,Waikato,84,"Matariki, Te Awamutu",Buildings 1 - 5,Hospital,1967,1,0,1,1990,Average,2.08,0.1,E,IL3,Medium Zone
+11034,Te Manawa Taki,5,Waikato,85,Ngāruawāhia - Other Property,Buildings - 1,Nil,1989,1,0,1,182,Very Good,1,NSA,NA,IL3,Medium Zone
+11035,Te Manawa Taki,5,Waikato,86,Rhoda Reed - Morrinsville,Buildings 1 - 7,Hospital,1967,1,0,1,2468,Good,1.46,0.35,C,IL3,Medium Zone
+11037,Te Manawa Taki,5,Waikato,87,Taumarunui,Ambulatory,Hospital,1990,1,0,1,1393,Average,2.2,1,A,IL3,Medium Zone
+11047,Te Manawa Taki,5,Waikato,87,Taumarunui,Theatre  / Laboratory  / Ward,Hospital,1968,1,0,1,1322,Good,1.89,0.5,C,IL3,Medium Zone
+11045,Te Manawa Taki,5,Waikato,87,Taumarunui,Storage & Maintenance,Industrial,1984,1,1,2,900,Good,1.07,0.95,A,IL2,Medium Zone
+11039,Te Manawa Taki,5,Waikato,87,Taumarunui,Community Services Wing,Hospital,1963,1,0,1,729,Good,1.66,0.4,C,IL3,Medium Zone
+11048,Te Manawa Taki,5,Waikato,87,Taumarunui,Under cover parking (Ex Laundry Block),Parking,1970,1,0,1,685,Very Good,0.76,0.55,C,IL2,Medium Zone
+11044,Te Manawa Taki,5,Waikato,87,Taumarunui,Staff / Admin Wing,Administration,1963,1,0,1,671,Average,2.05,NSA,NA,IL2,Medium Zone
+11041,Te Manawa Taki,5,Waikato,87,Taumarunui,Kitchen,Administration,1952,1,0,1,616,Average,2.65,0.4,C,IL2,Medium Zone
+11036,Te Manawa Taki,5,Waikato,87,Taumarunui,Accomodation,Residential,1950,1,0,1,500,Average,2.26,0.75,B,IL2,Medium Zone
+11038,Te Manawa Taki,5,Waikato,87,Taumarunui,Boiler House,Industrial,1968,2,1,3,300,NO DATA,NO DATA,0.33,D,IL3,Medium Zone
+11042,Te Manawa Taki,5,Waikato,87,Taumarunui,Maternity,Hospital,1954,1,0,1,230,Good,1.32,0.4,C,IL3,Medium Zone
+11043,Te Manawa Taki,5,Waikato,87,Taumarunui,Old Stores,Nil,1950,1,0,1,205,Average,2.35,0.45,C,IL2,Medium Zone
+11049,Te Manawa Taki,5,Waikato,87,Taumarunui,Whanau building,Residential,1968,1,0,1,187,Good,1.23,0.75,B,IL2,Medium Zone
+11046,Te Manawa Taki,5,Waikato,87,Taumarunui,Storage (Dangerous Goods Store),Industrial,1968,1,0,1,30,Good,1.64,NSA,NA,IL3,Medium Zone
+11040,Te Manawa Taki,5,Waikato,87,Taumarunui,Emergency Generator,Industrial,2017,1,0,1,23,Very Good,1,NSA,NA,IL4,Medium Zone
+11050,Te Manawa Taki,5,Waikato,88,Te Awamutu  - Other Property,Buildings - 1,Hospital,1960,1,0,1,90,Average,2.12,NSA,NA,IL2,Medium Zone
+11059,Te Manawa Taki,5,Waikato,89,Te Kuiti,Ward & Clinics Block,Hospital,1965,3,1,4,4070,Good,1.31,0.2,D,IL3,Medium Zone
+11056,Te Manawa Taki,5,Waikato,89,Te Kuiti,Medical Centre,Community Hospital,1964,1,0,1,779,Good,1.14,0.34,C,IL3,Medium Zone
+11053,Te Manawa Taki,5,Waikato,89,Te Kuiti,Community Health,Hospital,1949,1,0,1,485,Average,2.93,0.5,C,IL3,Medium Zone
+11054,Te Manawa Taki,5,Waikato,89,Te Kuiti,Dwelling - Accommodation Flats x 6,Residential,1965,1,0,1,392,Average,2.4,0.9,A,IL2,Medium Zone
+11052,Te Manawa Taki,5,Waikato,89,Te Kuiti,Boiler House & Stores,Administration,1963,2,0,2,296,Good,1.89,0.1,E,IL3,Medium Zone
+11060,Te Manawa Taki,5,Waikato,89,Te Kuiti,Workshops,Industrial,1977,1,0,1,269,Good,1.26,1,A,IL2,Medium Zone
+11057,Te Manawa Taki,5,Waikato,89,Te Kuiti,Mental Health,Mental Health,1956,1,0,1,230,Good,1.43,0.5,C,IL3,Medium Zone
+11051,Te Manawa Taki,5,Waikato,89,Te Kuiti,Admin & ED,Hospital,1965,1,0,1,166,Average,2.12,0.2,D,IL4,Medium Zone
+11058,Te Manawa Taki,5,Waikato,89,Te Kuiti,Physiotherapy,Hospital,1968,1,0,1,140,Good,1.55,0.6,C,IL3,Medium Zone
+11055,Te Manawa Taki,5,Waikato,89,Te Kuiti,Former Administration Block,Nil,1970,1,1,2,90,Good,1.99,0.6,C,IL2,Medium Zone
+11069,Te Manawa Taki,5,Waikato,90,Thames,X - ray  / A&E  / Opd / Surgical / Inpatients,Hospital,2007,1,0,1,3410,Good,1.16,NSA,NA,IL4,Medium Zone
+11066,Te Manawa Taki,5,Waikato,90,Thames,Ward Block  / Theatres  / Admin  / Stores,Hospital,1960,5,1,6,3400,Good,1.79,0.34,C,IL3,Medium Zone
+11063,Te Manawa Taki,5,Waikato,90,Thames,Manaaki Centre  / Karaka Hostel,Mental Health,1950,3,1,4,2610,Average,2.86,0.8,A,IL3,Medium Zone
+11065,Te Manawa Taki,5,Waikato,90,Thames,Physio  / Lab  / X - ray,Administration,1970,3,1,4,1540,Good,1.72,NSA,NA,IL3,Medium Zone
+11064,Te Manawa Taki,5,Waikato,90,Thames,OT / P&I / Rear Block,Hospital,1950,3,0,3,760,Good,1.62,0.5,C,IL3,Medium Zone
+11068,Te Manawa Taki,5,Waikato,90,Thames,Workshops  / Boiler,Industrial,1950,2,0,2,750,Good,1.72,0.7,B,IL3,Medium Zone
+11061,Te Manawa Taki,5,Waikato,90,Thames,Birthing Unit,Hospital,2011,1,0,1,350,Good,1.09,NSA,NA,IL3,Medium Zone
+11062,Te Manawa Taki,5,Waikato,90,Thames,"Kitchen, Food & Nutrition",Administration,2007,1,0,1,290,Good,1.28,NSA,NA,IL2,Medium Zone
+11067,Te Manawa Taki,5,Waikato,90,Thames,Whanau House,Residential,1986,1,0,1,200,Good,1.73,1,A,IL2,Medium Zone
+11070,Te Manawa Taki,5,Waikato,91,Thames - Other Property,Buildings 1 - 4,Residential,1985,1,1,2,1310,Average,2.07,NSA,NA,IL2,Medium Zone
+11087,Te Manawa Taki,5,Waikato,92,Tokoroa,Tullock House,Residential,1966,2,0,2,1249,Good,1.68,0.35,C,IL2,Medium Zone
+11072,Te Manawa Taki,5,Waikato,92,Tokoroa,Admin  / Library,Administration,1966,1,0,1,993,Good,1.33,0.4,C,IL3,Medium Zone
+11073,Te Manawa Taki,5,Waikato,92,Tokoroa,Building 2 - Ward 3,Hospital,1973,1,0,1,746,Good,1.1,0.6,C,IL3,Medium Zone
+11074,Te Manawa Taki,5,Waikato,92,Tokoroa,Building 4 - Ward 1,Hospital,1966,1,0,1,740,Good,1.55,0.2,D,IL3,Medium Zone
+11075,Te Manawa Taki,5,Waikato,92,Tokoroa,Community services - Ward 2,Community Hospital,1966,1,0,1,710,Good,1.12,0.2,D,IL3,Medium Zone
+11080,Te Manawa Taki,5,Waikato,92,Tokoroa,Inpatients Ward 4 & workshops,Administration,1975,1,1,2,700,Good,1.05,0.35,C,IL3,Medium Zone
+11078,Te Manawa Taki,5,Waikato,92,Tokoroa,Engineers  / Boiler house,Industrial,1966,1,0,1,700,Good,1.4,0.35,C,IL3,Medium Zone
+11081,Te Manawa Taki,5,Waikato,92,Tokoroa,Kitchen Café,Administration,1966,1,1,2,535,Good,1.21,0.5,C,IL3,Medium Zone
+11079,Te Manawa Taki,5,Waikato,92,Tokoroa,Flats,Residential,1966,1,0,1,500,Good,1.25,NSA,NA,IL2,Medium Zone
+11083,Te Manawa Taki,5,Waikato,92,Tokoroa,Mental Health,Mental Health,1954,1,0,1,460,Good,1.83,0.4,C,IL3,Medium Zone
+11076,Te Manawa Taki,5,Waikato,92,Tokoroa,Day Theatre (Converted to Birthing Unit 2019),Hospital,1966,1,1,2,360,Very Good,1,NSA,NA,IL3,Medium Zone
+11084,Te Manawa Taki,5,Waikato,92,Tokoroa,Outpatients  / Day Clinic,Hospital,1966,1,0,1,310,Good,1.15,NSA,NA,IL3,Medium Zone
+11085,Te Manawa Taki,5,Waikato,92,Tokoroa,Pharmacy Building,Administration,1966,1,0,1,212,Good,1.05,0.35,C,IL3,Medium Zone
+11071,Te Manawa Taki,5,Waikato,92,Tokoroa,A & E,Hospital,1966,1,0,1,187,Good,1.32,NSA,NA,IL4,Medium Zone
+11089,Te Manawa Taki,5,Waikato,92,Tokoroa,X - ray,Administration,1966,1,1,2,153,Very Good,1,NSA,NA,IL3,Medium Zone
+11082,Te Manawa Taki,5,Waikato,92,Tokoroa,Laboratory,Administration,1981,1,0,1,145,NO DATA,NO DATA,NSA,NA,IL4,Medium Zone
+11077,Te Manawa Taki,5,Waikato,92,Tokoroa,Dwelling - Accommodation ,Residential,1970,1,0,1,126,Good,1.23,NSA,NA,IL2,Medium Zone
+11086,Te Manawa Taki,5,Waikato,92,Tokoroa,Physiotherapy,Administration,1966,1,0,1,70,Good,1.05,NSA,NA,IL2,Medium Zone
+11088,Te Manawa Taki,5,Waikato,92,Tokoroa,Whanau room,Administration,1966,1,0,1,30,Good,1.15,NSA,NA,IL2,Medium Zone
+11090,Te Manawa Taki,5,Waikato,93,Tokoroa - Other Property,Buildings 1 ,Residential,1970,1,0,1,120,Average,2.1,NSA,NA,IL2,Medium Zone
+10977,Te Manawa Taki,5,Waikato,128,WkDHB Community - Dental,Dental Units 1 - 7 ,Hospital,2011,1,0,1,826,Very Good,0.94,NSA,NA,IL3,Medium Zone
+11092,Central,19,Wairarapa,94,Greytown,S Wairarapa DNS Base,Administration,1976,,,-,125,NO DATA,NO DATA,1.01,A+,IL2,High Zone
+11093,Central,19,Wairarapa,94,Greytown,Wellington Free Ambulance Base,Administration,1975,,,-,125,NO DATA,NO DATA,0.85,A,IL2,High Zone
+11098,Central,19,Wairarapa,95,Wairarapa Hospital,Main Hospital Building,Hospital,2006,,,-,8375,Very Good,0.99,1,A,IL4,High Zone
+11096,Central,19,Wairarapa,95,Wairarapa Hospital,Clinical & support Services Building,Administration,1937,,,-,1518,Poor,3.08,0.65,C,IL2,High Zone
+11101,Central,19,Wairarapa,95,Wairarapa Hospital,Mental Health Building,Hospital,1986,,,-,1060,Average,2.19,1.02,A+,IL2,High Zone
+11103,Central,19,Wairarapa,95,Wairarapa Hospital,Taku Wāhi,Administration,2007,,,-,380,NO DATA,NO DATA,0.64,C,IL2,High Zone
+11104,Central,19,Wairarapa,95,Wairarapa Hospital,Training Centre,Administration,1961,,,-,378,NO DATA,NO DATA,0.25,D,IL2,High Zone
+11099,Central,19,Wairarapa,95,Wairarapa Hospital,Maintenance Workshop & Therapy Store,Industrial,2014,,,-,330,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+11097,Central,19,Wairarapa,95,Wairarapa Hospital,Doctor Accommodation,Residential,1966,,,-,255,Good,1.39,1.07,A+,IL2,High Zone
+11105,Central,19,Wairarapa,95,Wairarapa Hospital,Vacant Block (ex Selina Sutherland),Nil,1915,,,-,192,NO DATA,NO DATA,0.07,E,IL2,High Zone
+11100,Central,19,Wairarapa,95,Wairarapa Hospital,Maintenance / Medical Gas / Waste Hold,Industrial,2006,,,-,140,NO DATA,NO DATA,NSA,NA,IL4,High Zone
+11094,Central,19,Wairarapa,95,Wairarapa Hospital,Body Hold,Administration,2006,,,-,70,Very Good,0.52,NSA,NA,IL4,High Zone
+11095,Central,19,Wairarapa,95,Wairarapa Hospital,Chapel,Administration,2006,,,-,60,Very Good,0.81,NSA,NA,IL2,High Zone
+11102,Central,19,Wairarapa,95,Wairarapa Hospital,Pandemic Store,Industrial,1986,,,-,60,NO DATA,NO DATA,0.45,C,IL2,High Zone
+11091,Central,19,Wairarapa,124,WrDHB Community - Dental,Oral Health Hub (Masterton Intermediate),Hospital,2012,,,-,180,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+11117,Northern,2,Waitematā,96,Leased Buildings District Wide,Slark Hyperbaric Unit,Administration,1960,1,0,1,0,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+11118,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B01C - KATO - Mason - Kauri Totara (Mason Clinic) - Building 1,Mental Health,1992,2,0,2,2821,Average,3,0.83,A,IL3,Low Zone
+11129,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B17C - New 15 Bed Unit (Te Aka),Mental Health,2018,2,0,2,1771,Very Good,1,NSA,NA,IL3,Low Zone
+11123,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B13C - POHU - Mason - Pōhutukawa Unit (ID inpatient) - Building 13,Mental Health,2007,2,0,2,1497,Average,2.2,1.01,A+,IL3,Low Zone
+11120,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B08C - RATA - Mason - Rata Unit - Building 8,Mental Health,2000,1,0,1,1465,Average,2.5,0.71,B,IL3,Low Zone
+11122,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B12C - TAWH - Mason - Tane Whakapiripiri (Kaupapa) - Building 12,Mental Health,2007,2,0,2,1020,Good,1.6,1.12,A+,IL2,Low Zone
+11119,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B02C - KAHI - Mason - Kahikatea - Building 2,Mental Health,1993,1,0,1,981,Average,2.5,0.76,B,IL3,Low Zone
+11124,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B14C - RIMU - Mason - Rimu Unit - Building 14,Mental Health,2007,1,0,1,444,Average,2.2,1.12,A+,IL2,Low Zone
+11125,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B4C - Garage / Workshop / Equipment / Training,Administration,1980,1,0,1,340,NO DATA,NO DATA,1.96,A+,IL2,Low Zone
+11127,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B5C - Kōwhai Centre,Administration,1980,1,0,1,296,NO DATA,NO DATA,1.76,A+,IL2,Low Zone
+11132,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,Te Miro Community Building - Concrete slab up re - build in Feb 2016,Mental Health,2016,1,0,1,145,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+11130,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,Puriri Pod - Relocated in 2016,Administration,2001,1,0,1,99,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+11126,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B11C - Generator House,Industrial,2000,1,0,1,65,NO DATA,NO DATA,0.79,B,IL4,Low Zone
+11128,Northern,2,Waitematā,97,Mason Clinic  - 81A Carrington,B15C - Kurawaka Building,Administration,2007,1,0,1,54,NO DATA,NO DATA,1.12,A+,IL2,Low Zone
+11140,Northern,2,Waitematā,98,North Shore Hospital,B15N - TOWBL - Main Hospital Building,Hospital,1983,13,2,15,46604,Average,2.69,0.25,D,IL4,Low Zone
+11148,Northern,2,Waitematā,98,North Shore Hospital,B26N - Car Park Building,Parking,2011,6,1,7,35308,Very Good,1,1.84,A+,IL2,Low Zone
+11135,Northern,2,Waitematā,98,North Shore Hospital,B06N - GERBL - Geriatric Block (Stage 1) - Building 6,Mental Health,1972,2,1,3,8437,Poor,3.27,1.1,A+,IL3,Low Zone
+11145,Northern,2,Waitematā,98,North Shore Hospital,B28N - NSESC - Elective Surgery Centre,Hospital,2013,3,1,4,5556,Very Good,1,NSA,NA,IL3,Low Zone
+11143,Northern,2,Waitematā,98,North Shore Hospital,B25N - LE - Lakeview Extension - Building 25,Hospital,2010,3,1,4,4542,Very Good,1,1.29,A+,IL4,Low Zone
+11146,Northern,2,Waitematā,98,North Shore Hospital,B30N - HPWAI - He Puna Waiora - Building 30 (Mental Health),Mental Health,2015,2,1,3,3700,Good,1.1,NSA,NA,IL3,Low Zone
+11134,Northern,2,Waitematā,98,North Shore Hospital,B05N - KAHMAN - Kahui Manaaki Building - Building 5 (outpatients),Hospital,1972,3,1,4,3664,Good,1.3,0.8,A,IL2,Low Zone
+11162,Northern,2,Waitematā,98,North Shore Hospital,B35N - Whenua Pupuke - Waitematā Clinical Skills centre,Administration,2017,2,0,2,2140,NO DATA,NO DATA,NSA,NA,IL3,Low Zone
+11141,Northern,2,Waitematā,98,North Shore Hospital,B16N - MKCA - Main Kitchen  / Cafeteria - Building 16,Administration,1984,1,1,2,1849,Good,1.3,0.95,A,IL3,Low Zone
+11156,Northern,2,Waitematā,98,North Shore Hospital,B23N - Mary Poynton - Office administration,Administration,1982,2,0,2,1800,Very Good,1,1.03,A+,IL2 ,Low Zone
+11144,Northern,2,Waitematā,98,North Shore Hospital,B27N - RENAL - Renal Inpatient Care Unit - Building 27,Hospital,2011,1,1,2,1010,Very Good,1,1.01,A+,IL3,Low Zone
+11161,Northern,2,Waitematā,98,North Shore Hospital,B3N - Trades Workshops,Industrial,1970,2,0,2,839,Good,2,1.8,A+,IL2,Low Zone
+11137,Northern,2,Waitematā,98,North Shore Hospital,B12N - 124A - Marinoto North (Child Health) - Building 12,Hospital,1993,1,0,1,706,Very Good,1,0.72,B,IL2,Low Zone
+11149,Northern,2,Waitematā,98,North Shore Hospital,B19N - Creche - Early learning Centre,Administration,1972,1,1,2,375,Very Good,0.6,0.47,C,IL2,Low Zone
+11138,Northern,2,Waitematā,98,North Shore Hospital,B13N - 124B - Diabetes Unit - Building 13,Hospital,1993,1,0,1,345,Very Good,1,1.03,A+,IL2,Low Zone
+11159,Northern,2,Waitematā,98,North Shore Hospital,B18N - Substation 2 / ESC Generator ,Industrial,1971,1,0,1,344,Good,1.95,1,A,IL4,Low Zone
+11157,Northern,2,Waitematā,98,North Shore Hospital,B17N - Site Services Building / Generator House,Industrial,1983,1,0,1,331,Average,2.43,1.76,A+,IL4,Low Zone
+11155,Northern,2,Waitematā,98,North Shore Hospital,B34N - North Shore Sky Bridge,Administration,2016,1,0,1,315,Very Good,1,NSA,NA,IL3,Low Zone
+11142,Northern,2,Waitematā,98,North Shore Hospital,B24N - RT - Renal Transportable - Building 24,Community Hospital,2011,1,0,1,195,Very Good,1,1.31,A+,IL2,Low Zone
+11151,Northern,2,Waitematā,98,North Shore Hospital,B22N - Gingerbread House (temporary building),Administration,1992,1,0,1,135,Good,1.5,NSA,NA,IL2,Low Zone
+11154,Northern,2,Waitematā,98,North Shore Hospital,B29N - North Shore Gym,Administration,2014,1,0,1,131,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+11153,Northern,2,Waitematā,98,North Shore Hospital,B7N - Lakeside Pump House,Industrial,1983,1,0,1,123,Poor,3.1,1.23,A+,IL4,Low Zone
+11158,Northern,2,Waitematā,98,North Shore Hospital,B11N - Stepping Stones; Living Skills,Hospital,1956,1,0,1,89,Good,1.4,0.37,C,IL2,Low Zone
+11150,Northern,2,Waitematā,98,North Shore Hospital,Gas Mains House,Industrial,1972,1,0,1,23,Poor,3.4,0.28,D,IL4,Low Zone
+11173,Northern,2,Waitematā,99,Waitakere Hospital,B4W - Clinical  / Surgical Skills training,Administration,1964,2,1,3,-,NO DATA,NO DATA,0.75,B,IL2,Low Zone
+11169,Northern,2,Waitematā,99,Waitakere Hospital,B21W - MABU - Main Building (New Hospital) - Building 21,Hospital,2005,2,0,2,14985,Average,2.32,1.06,A+,IL4,Low Zone
+11164,Northern,2,Waitematā,99,Waitakere Hospital,B02W - WTKH - Old Waitakere Hospital (Hughes) - Building 2,Hospital,1974,2,2,4,6889,Average,2.49,0.5,C,IL4,Low Zone
+11165,Northern,2,Waitematā,99,Waitakere Hospital,B03W - SNBU - Snelgar Building (Obstetrics) - Building 3,Hospital,1964,4,1,5,3899,Poor,3.29,0.35,C,IL2,Low Zone
+11167,Northern,2,Waitematā,99,Waitakere Hospital,B18W - MATUN - Maternity - Building 18,Hospital,1974,2,2,4,3208,Average,2.61,0.5,C,IL4,Low Zone
+11171,Northern,2,Waitematā,99,Waitakere Hospital,B23W - AMHIU - Waiatarau Mental Health Unit - Building 23,Mental Health,2007,2,0,2,2987,Average,2.24,0.69,B,IL3,Low Zone
+11183,Northern,2,Waitematā,99,Waitakere Hospital,B1W - Woodford House,Industrial,1972,2,1,3,2023,NO DATA,NO DATA,0.34,C,IL2,Low Zone
+11176,Northern,2,Waitematā,99,Waitakere Hospital,B5W - Health West Building,Administration,1964,2,1,3,1805,NO DATA,NO DATA,0.35,C,IL2,Low Zone
+11172,Northern,2,Waitematā,99,Waitakere Hospital,B24W - WHED - Waitakere Hospital Emergency Department - Building 24,Hospital,2017,2,0,2,1000,NO DATA,NO DATA,NSA,NA,IL4,Low Zone
+11175,Northern,2,Waitematā,99,Waitakere Hospital,B15W - Greenhouse (Woodford Gardens),Administration,2007,1,0,1,560,NO DATA,NO DATA,0.65,C,IL1,Low Zone
+11174,Northern,2,Waitematā,99,Waitakere Hospital,B7W - Former Boiler House,Industrial,1964,1,1,2,434,NO DATA,NO DATA,0.37,C,IL2,Low Zone
+11182,Northern,2,Waitematā,99,Waitakere Hospital,B14W - Woodford Gardens,Administration,2007,1,0,1,370,NO DATA,NO DATA,1.1,A+,IL2,Low Zone
+11170,Northern,2,Waitematā,99,Waitakere Hospital,B22W - HAEUN - Haemodialysis Unit - Building 22,Hospital,2003,1,0,1,350,NO DATA,NO DATA,1.1,A+,IL2,Low Zone
+11180,Northern,2,Waitematā,99,Waitakere Hospital,B6W - Trade Workshop,Industrial,1972,1,0,1,345,NO DATA,NO DATA,0.37,C,IL2,Low Zone
+11166,Northern,2,Waitematā,99,Waitakere Hospital,B16W - WHOB1 - Whare Oranga Blg 1 - Building 16,Hospital,1993,1,0,1,214,NO DATA,NO DATA,1.1,A+,IL2,Low Zone
+11168,Northern,2,Waitematā,99,Waitakere Hospital,B20W - ARUN - Aritika Unit - Building 20,Hospital,1995,1,0,1,200,NO DATA,NO DATA,1.1,A+,IL2,Low Zone
+11181,Northern,2,Waitematā,99,Waitakere Hospital,B10W - Woodford Cottage,Administration,1972,1,0,1,186,NO DATA,NO DATA,0.37,C,IL2,Low Zone
+11178,Northern,2,Waitematā,99,Waitakere Hospital,B9W - Standby Generator House,Industrial,1972,1,0,1,160,Average,2.34,0.42,C,IL4,Low Zone
+11177,Northern,2,Waitematā,99,Waitakere Hospital,B8W - New Boiler House,Industrial,1972,1,0,1,143,Average,2.39,0.42,C,IL4,Low Zone
+11179,Northern,2,Waitematā,99,Waitakere Hospital,B19W - Te Whare Oranga building 2,Hospital,1993,1,0,1,120,NO DATA,NO DATA,1.1,A+,IL2,Low Zone
+20067,Northern,2,Waitematā,112,Wilson Home Trust,B1T - Section 1,Hospital,1920,1,1,2,1519,NO DATA,NO DATA,0.13,E,IL2,Low Zone
+20068,Northern,2,Waitematā,112,Wilson Home Trust,B6T - Chapel,Administration,1964,1,0,1,246,NO DATA,NO DATA,0.3,D,IL2,Low Zone
+11113,Northern,2,Waitematā,125,WtDHB Community - Dental,HENDERSON INTERMEDIATE CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2010,1,0,1,350,Good,1.4,NSA,NA,IL2,Low Zone
+11112,Northern,2,Waitematā,125,WtDHB Community - Dental,GLENFIELD INTERMEDIATE CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2010,1,0,1,223,Good,1.4,NSA,NA,IL2,Low Zone
+11116,Northern,2,Waitematā,125,WtDHB Community - Dental,WESTGATE CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2013,2,0,2,164,NO DATA,NO DATA,NSA,NA,IL2,Low Zone
+11111,Northern,2,Waitematā,125,WtDHB Community - Dental,GLEN EDEN INTERMEDIATE CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2013,1,0,1,140,Very Good,0.7,NSA,NA,IL2,Low Zone
+11114,Northern,2,Waitematā,125,WtDHB Community - Dental,NORTHCROSS CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2011,1,0,1,140,Very Good,1,NSA,NA,IL2,Low Zone
+11106,Northern,2,Waitematā,125,WtDHB Community - Dental,ALBANY CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2010,1,0,1,140,Good,1.57,NSA,NA,IL2,Low Zone
+11108,Northern,2,Waitematā,125,WtDHB Community - Dental,BIRKENHEAD CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2013,1,0,1,124,Very Good,1,NSA,NA,IL2,Low Zone
+11107,Northern,2,Waitematā,125,WtDHB Community - Dental,BELMONT INTERMEDIATE CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2011,1,0,1,105,Very Good,1,NSA,NA,IL2,Low Zone
+11109,Northern,2,Waitematā,125,WtDHB Community - Dental,EDMONTON CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2010,1,0,1,105,Very Good,1,NSA,NA,IL2,Low Zone
+11115,Northern,2,Waitematā,125,WtDHB Community - Dental,SILVERDALE CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2012,1,0,1,105,Good,1.3,NSA,NA,IL2,Low Zone
+11110,Northern,2,Waitematā,125,WtDHB Community - Dental,FORREST HILL CHILDREN'S COMMUNITY DENTAL CLINIC,Hospital,2012,1,0,1,104,Very Good,1,NSA,NA,IL2,Low Zone
+11184,Southern,20,West Coast,100,Buller Health,Buller Hospital & Buller Medical ,Hospital,1978,,,-,0,Poor,3.45,0.5,C,IL2,High Zone
+11185,Southern,20,West Coast,100,Buller Health,Kynnersley Home (age related care facility),Residential,1978,,,-,0,Poor,3.51,NSA,NA,IL2,High Zone
+11195,Southern,20,West Coast,,Community - GP,Ngakawau Clinic (Hector) (GP Clinic),Community Hospital,1978,NOT NMH,0,-,0,Very Good,0.9,NSA,NA,IL2,High Zone
+11194,Southern,20,West Coast,,Community - GP,Lake Brunner Clinic (Moana) (GP Clinic),Community Hospital,1978,NOT NMH,0,-,0,Very Good,1,NSA,NA,IL2,High Zone
+11189,Southern,20,West Coast,,Community - GP,Fox Glacier Clinic (GP Clinic),Community Hospital,1978,NOT NMH,0,-,0,Good,1.12,NSA,NA,IL2,High Zone
+11190,Southern,20,West Coast,,Community - GP,Franz Clinic (GP Clinic),Community Hospital,1978,NOT NMH,0,-,0,Good,1.17,NSA,NA,IL2,High Zone
+11193,Southern,20,West Coast,,Community - GP,Karamea Clinic (GP Clinic),Community Hospital,1978,NOT NMH,0,-,0,Good,1.4,NSA,NA,IL2,High Zone
+11191,Southern,20,West Coast,,Community - GP,Haast Clinic (GP Clinic),Community Hospital,1978,Not NMH,0,-,0,Average,3,NSA,NA,IL2,High Zone
+11192,Southern,20,West Coast,,Community - GP,Hari Hari Clinic (GP Clinic),Community Hospital,1978,NOT NMH,0,-,0,Poor,3.2,NSA,NA,IL2,High Zone
+11188,Southern,20,West Coast,,Community - GP,Dobson Clinic (GP Clinic),Community Hospital,1978,NOT NMH,0,-,0,NO DATA,NO DATA,NSA,NA,IL2,High Zone
+11196,Southern,20,West Coast,53,Community - Residential,Small Buildings / Houses,Community Hospital,1978,NOT NMH,0,-,0,Poor,3.95,NSA,NA,IL2,High Zone
+10644,Southern,20,West Coast,53,Community - Residential,"237 Kamo Road, Whāngārei",Nil,1958,NOT NMH,0,-,0,Poor,3.42,NSA,NA,IL2,Low Zone
+11198,Southern,20,West Coast,101,Grey Base Hospital,"WCDHB Te Nīkau, Grey Hospital & Health Centre",Hospital,1978,,,2,15000,Poor,3.08,0.55,C,IL3,High Zone
+11199,Southern,20,West Coast,102,Hokitika Health,Hokitika Health Centre,Community Hospital,1978,,,-,0,Average,2.21,NSA,NA,IL2,High Zone
+11200,Southern,20,West Coast,103,Reefton Health,Reefton Hospital & Reefton Medical,Community Hospital,1978,,,-,0,Poor,3.07,NSA,NA,-,High Zone
+11187,Southern,20,West Coast,126,WCDHB Community - Dental,Mobile Dental Units (Specialized Caravans),Hospital,1978,,,-,0,Good,1.96,NSA,NA,IL2,High Zone
+11186,Southern,20,West Coast,126,WCDHB Community - Dental,Community Dental Clinics (Owned by Schools),Hospital,1978,,,-,0,Average,2.7,NSA,NA,IL2,High Zone
+11201,Central,16,Whanganui,104,Marton,Rangitikei Health Centre,Hospital,1997,,,-,465,Very Good,0.84,1,A,IL2,High Zone
+11202,Central,16,Whanganui,105,Raetihi,Waimarino Health Centre,Hospital,1995,,,-,461,Very Good,0.87,0.9,A,IL2,High Zone
+11203,Central,16,Whanganui,106,Taihape,Taihape Health ,Nil,1973,,,-,1621,Good,1.53,0.6,C,IL2,High Zone
+11220,Central,16,Whanganui,107,Whanganui Hospital,Ward and Admin,Hospital,1987,,,5,6290,Average,2.61,1,A,IL4,Medium Zone
+11204,Central,16,Whanganui,107,Whanganui Hospital,Acute services,Hospital,2008,,,-,3320,Very Good,1,1,A,IL4,Medium Zone
+11206,Central,16,Whanganui,107,Whanganui Hospital,Clinical services,Administration,1972,,,-,3240,Good,1.63,1,A,IL4,Medium Zone
+11211,Central,16,Whanganui,107,Whanganui Hospital,Lambie,Hospital,1965,,,-,2470,Good,1.2,0.6,C,IL2,Medium Zone
+11217,Central,16,Whanganui,107,Whanganui Hospital,Theatre services,Hospital,2007,,,-,2125,Very Good,0.94,NSA,NA,IL4,Medium Zone
+11213,Central,16,Whanganui,107,Whanganui Hospital,Old surgical building - 2 floors,Administration,1959,,,-,1965,Good,1.02,0.67,B,IL2,Medium Zone
+11221,Central,16,Whanganui,107,Whanganui Hospital,Te Whare Kakariki (Prev Woman's and Children),Mental Health,1995,,,-,1906,Very Good,0.91,0.84,A,IL2,Medium Zone
+11216,Central,16,Whanganui,107,Whanganui Hospital,Te Awhina,Mental Health,1981,,,2,1791,Good,1.98,1,A,IL3,Medium Zone
+11215,Central,16,Whanganui,107,Whanganui Hospital,Stanford (Rehabilitation),Mental Health,1992,,,-,1527,Good,2,1,A,IL2,Medium Zone
+11212,Central,16,Whanganui,107,Whanganui Hospital,Main Kitchen / Cafeteria,Administration,1974,,,-,1430,Good,1.15,0.89,A,IL2,Medium Zone
+11205,Central,16,Whanganui,107,Whanganui Hospital,CAF,Nil,1970,,,-,1182,Very Good,0.97,0.46,C,IL2,Medium Zone
+11207,Central,16,Whanganui,107,Whanganui Hospital,Te Kōpae (Prev CMH (Community Mental Health),Mental Health,1937,,,-,1017,Good,1.06,0.34,C,IL2,Medium Zone
+11210,Central,16,Whanganui,107,Whanganui Hospital,CPA,Administration,1981,,,-,501,Very Good,0.82,1,A,IL4,Medium Zone
+11214,Central,16,Whanganui,107,Whanganui Hospital,Pump House,Industrial,1949,,,1,109,Poor,3.03,0.21,D,IL4,Medium Zone
+11208,Central,16,Whanganui,107,Whanganui Hospital,Corridor between old surgical and Theatre Services,Administration,1959,,,-,0,Very Good,0.8,0.67,B,IL4,Medium Zone
+11209,Central,16,Whanganui,107,Whanganui Hospital,Corridor linking main entrance ,Administration,1972,,,-,0,Very Good,0.9,1,A,IL4,Medium Zone
+11218,Central,16,Whanganui,107,Whanganui Hospital,Tunnel between kitchen and Old Surgical,Administration,1974,,,-,0,Good,1.5,NSA,NA,IL2,Medium Zone
+11219,Central,16,Whanganui,107,Whanganui Hospital,Tunnel between pump house and Theatre Services,Industrial,1949,,,1,0,Poor,3.1,1,A,IL4,Medium Zone
