@@ -59,3 +59,14 @@ All analysis was performed in **R** using `tidyverse`, `huxtable`, `ggplot2`, an
 
 ## Structure
 
+├── data/ # Clean dataset
+├── scripts/ # Data cleaning (from raw xlsx/csv) and analysis scripts
+├── report.Rmd # R Markdown source for the report
+├── report.pdf # Final report output
+└── README.md # This file
+
+---
+
+## Disclaimer
+
+This analysis was prepared solely for the purposes of the interview exercise. It is illustrative, limited to the provided dataset, and not intended to represent a complete investment prioritisation framework.
