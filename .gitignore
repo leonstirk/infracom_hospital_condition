@@ -1,0 +1,30 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Rproj.user/
+
+# RStudio files
+*.Rproj
+
+# Cache, logs, etc
+.Rcheck/
+.Rbuildignore
+.Rprofile
+renv/library/
+renv/python/
+renv/staging/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.Rproj
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
